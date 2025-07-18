@@ -1,14 +1,141 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title></title>
-  <link rel="stylesheet" href="style.css">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    /* Reset básico */
+    * {
+      box-sizing: border-box;
+    }
+    body {
+      background: #f0f4f8;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      color: #333;
+      position: relative;
+      padding-bottom: 80px; /* espaço para o botão fixo no rodapé */
+    }
+    .question-box {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      padding: 2rem 2.5rem;
+      max-width: 600px;
+      width: 100%;
+    }
+    h1 {
+      text-align: center;
+      color: #1e2a78;
+      margin-bottom: 1.5rem;
+      font-weight: 700;
+      letter-spacing: 0.05em;
+      user-select: none;
+    }
+    #questionText {
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin-bottom: 1.2rem;
+      min-height: 3.2rem;
+      user-select: none;
+    }
+    .options {
+      list-style: none;
+      padding: 0;
+      margin: 0 0 1.5rem 0;
+    }
+    .options li {
+      margin-bottom: 0.75rem;
+    }
+    .options button {
+      width: 100%;
+      padding: 0.75rem 1.25rem;
+      font-size: 1rem;
+      background: #e2e8f0;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: background-color 0.25s ease;
+      user-select: none;
+      color: #1e2a78;
+      font-weight: 600;
+      box-shadow: 0 1px 3px rgba(30, 42, 120, 0.2);
+    }
+    .options button:hover:not(:disabled) {
+      background: #cbd5e1;
+    }
+    .options button:disabled {
+      cursor: default;
+      opacity: 0.6;
+      background: #94a3b8;
+      color: #f0f4f8;
+      box-shadow: none;
+    }
+    #nextButton {
+      background: #3b82f6;
+      color: white;
+      font-weight: 700;
+      padding: 0.75rem 1.5rem;
+      border-radius: 10px;
+      border: none;
+      cursor: pointer;
+      user-select: none;
+      box-shadow: 0 4px 8px rgba(59,130,246,0.4);
+      transition: background-color 0.3s ease;
+      display: block;
+      margin: 0 auto 1.5rem auto;
+      min-width: 180px;
+    }
+    #nextButton:disabled {
+      background: #93c5fd;
+      cursor: default;
+      box-shadow: none;
+    }
+    #nextButton:hover:not(:disabled) {
+      background: #2563eb;
+      box-shadow: 0 6px 12px rgba(37,99,235,0.5);
+    }
+    .feedback {
+      font-weight: 700;
+      font-size: 1.15rem;
+      margin-bottom: 1.5rem;
+      min-height: 1.5rem;
+    }
+
+    /* Botão Limpar Progresso fixo no rodapé e azul */
+    #clearProgress {
+      position: fixed;
+      bottom: 20px;
+      left: 50%;
+      transform: translateX(-50%);
+      background: #3b82f6;
+      color: white;
+      font-weight: 700;
+      padding: 0.75rem 1.5rem;
+      border-radius: 10px;
+      border: none;
+      cursor: pointer;
+      user-select: none;
+      box-shadow: 0 4px 8px rgba(59,130,246,0.4);
+      transition: background-color 0.3s ease;
+      min-width: 180px;
+      z-index: 1000;
+    }
+    #clearProgress:hover {
+      background: #2563eb;
+      box-shadow: 0 6px 12px rgba(37,99,235,0.5);
+    }
+  </style>
 </head>
 <body>
-  <h1></h1>
+  <h1>Quiz de Perguntas</h1>
   <div class="question-box" id="questionBox">
     <div id="questionText">Carregando...</div>
     <ul class="options" id="optionsList"></ul>
@@ -16,6 +143,8 @@
     <button id="nextButton">Próxima pergunta</button>
     <div class="score" id="scoreBox"></div>
   </div>
+
+  <button id="clearProgress">🗑️ Limpar progresso</button>
 
   <script>
     const STORAGE_KEY = 'answeredQuestions';
@@ -141,30 +270,26 @@
             b.classList.remove('selected');
           });
 
-          // Marca este botão como selecionado
           btn.classList.add('selected');
+          document.getElementById('nextButton').disabled = false;
         };
-
         li.appendChild(btn);
         document.getElementById('optionsList').appendChild(li);
       });
 
-      document.getElementById('questionBox').dataset.currentId = random.id;
+      document.getElementById('nextButton').disabled = true;
     }
 
     function showRestartOptions() {
-      const box = document.getElementById('questionBox');
+      // Aqui pode colocar opções para resetar, ou só deixar o botão limpar
+    }
 
-      // Remove previous restart buttons if they exist
-      const existing = document.getElementById('restartButtons');
-      if (existing) existing.remove();
+    document.getElementById('nextButton').onclick = () => {
+      showRandomQuestion();
+    };
 
-      const restartButtons = document.createElement('div');
-      restartButtons.id = 'restartButtons';
-
-      const resetAll = document.createElement('button');
-      resetAll.innerText = '🔁 Recomeçar todas as perguntas';
-      resetAll.onclick = () => {
+    document.getElementById('clearProgress').onclick = () => {
+      if (confirm('Tem certeza de que deseja apagar todo o progresso?')) {
         localStorage.removeItem(STORAGE_KEY);
         localStorage.removeItem(SCORE_KEY);
         localStorage.removeItem(WRONG_KEY);
@@ -172,30 +297,10 @@
         document.getElementById('nextButton').disabled = false;
         showScore();
         showRandomQuestion();
-      };
+      }
+    };
 
-      const retryWrong = document.createElement('button');
-      retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
-      retryWrong.onclick = () => {
-        const wrongIds = getWrongAnswers();
-        localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
-        localStorage.setItem(RETRY_KEY, JSON.stringify(wrongIds));
-        localStorage.removeItem(SCORE_KEY);
-        localStorage.removeItem(WRONG_KEY);
-        document.getElementById('nextButton').disabled = false;
-        showScore();
-        showRandomQuestion();
-      };
-
-      restartButtons.appendChild(resetAll);
-      restartButtons.appendChild(document.createTextNode(' '));
-      restartButtons.appendChild(retryWrong);
-      box.appendChild(restartButtons);
-    }
-
-    document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
-
-    loadQuestions();
+    window.onload = loadQuestions;
   </script>
 </body>
 </html>
