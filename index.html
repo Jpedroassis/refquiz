@@ -1,22 +1,22 @@
+<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Perguntas de teste</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="container">
-    <h1>Pergunta de teste</h1>
-    <div class="question-box" id="questionBox">
-      <button id="nextButton">Próxima pergunta</button>
-      <div id="questionText">Carregando...</div>
-      <ul class="options" id="optionsList"></ul>
-      <div class="feedback" id="feedback"></div>
-      <div class="score" id="scoreBox"></div>
-    </div>
+  <h1>Pergunta de teste</h1>
+  <div class="question-box" id="questionBox">
+    <div id="questionText">Carregando...</div>
+    <ul class="options" id="optionsList"></ul>
+    <div class="feedback" id="feedback"></div>
+    <button id="nextButton">Próxima pergunta</button>
+    <div class="score" id="scoreBox"></div>
   </div>
+  <button id="clearProgress">🗑️ Limpar progresso</button>
 
   <script>
     const STORAGE_KEY = 'answeredQuestions';
