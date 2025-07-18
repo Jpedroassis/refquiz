@@ -1,0 +1,132 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Question Portal</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; }
+    .question-box { background: #f9f9f9; padding: 1rem; border-radius: 10px; max-width: 600px; margin-bottom: 1rem; }
+    .options { list-style: none; padding: 0; }
+    .options li { margin: 0.5rem 0; }
+    button { padding: 0.5rem 1rem; font-size: 1rem; margin-top: 1rem; }
+    .feedback { margin-top: 1rem; font-weight: bold; }
+    .score { margin-top: 1rem; font-size: 1.1rem; }
+  </style>
+</head>
+<body>
+  <h1>Daily Question</h1>
+  <div class="question-box" id="questionBox">
+    <div id="questionText">Loading...</div>
+    <ul class="options" id="optionsList"></ul>
+    <div class="feedback" id="feedback"></div>
+    <div class="score" id="scoreBox"></div>
+  </div>
+  <button id="nextButton">Next Question</button>
+  <script>
+    const questions = [
+      {
+        id: 1,
+        question: "What is the capital of France?",
+        options: ["Berlin", "Madrid", "Paris", "Lisbon"],
+        correctIndex: 2
+      },
+      {
+        id: 2,
+        question: "Which planet is known as the Red Planet?",
+        options: ["Earth", "Mars", "Jupiter", "Saturn"],
+        correctIndex: 1
+      },
+      {
+        id: 3,
+        question: "What is the largest ocean on Earth?",
+        options: ["Indian", "Atlantic", "Pacific", "Arctic"],
+        correctIndex: 2
+      }
+    ];
+
+    const STORAGE_KEY = 'answeredQuestions';
+    const SCORE_KEY = 'quizScore';
+
+    function getAnsweredIds() {
+      const data = localStorage.getItem(STORAGE_KEY);
+      return data ? JSON.parse(data) : [];
+    }
+
+    function saveAnsweredId(id) {
+      const current = getAnsweredIds();
+      current.push(id);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(current));
+    }
+
+    function getScore() {
+      return parseInt(localStorage.getItem(SCORE_KEY)) || 0;
+    }
+
+    function updateScore(increment = 1) {
+      const currentScore = getScore();
+      const newScore = currentScore + increment;
+      localStorage.setItem(SCORE_KEY, newScore);
+    }
+
+    function showScore() {
+      const scoreBox = document.getElementById('scoreBox');
+      const total = getAnsweredIds().length;
+      const score = getScore();
+      scoreBox.innerText = `Score: ${score} / ${total}`;
+    }
+
+    function getUnansweredQuestions() {
+      const answered = getAnsweredIds();
+      return questions.filter(q => !answered.includes(q.id));
+    }
+
+    function showRandomQuestion() {
+      const remaining = getUnansweredQuestions();
+      const box = document.getElementById('questionBox');
+      const feedback = document.getElementById('feedback');
+      feedback.innerText = '';
+
+      if (remaining.length === 0) {
+        document.getElementById('questionText').innerText = 'You have answered all the questions!';
+        document.getElementById('optionsList').innerHTML = '';
+        document.getElementById('nextButton').disabled = true;
+        showScore();
+        return;
+      }
+
+      const random = remaining[Math.floor(Math.random() * remaining.length)];
+      document.getElementById('questionText').innerText = random.question;
+      document.getElementById('optionsList').innerHTML = '';
+
+      random.options.forEach((option, index) => {
+        const li = document.createElement('li');
+        const btn = document.createElement('button');
+        btn.innerText = option;
+        btn.onclick = () => {
+          if (index === random.correctIndex) {
+            feedback.innerText = '✅ Correct!';
+            updateScore(1);
+          } else {
+            feedback.innerText = `❌ Incorrect. The correct answer was: ${random.options[random.correctIndex]}`;
+          }
+          saveAnsweredId(random.id);
+          Array.from(document.querySelectorAll('#optionsList button')).forEach(b => b.disabled = true);
+          showScore();
+        };
+        li.appendChild(btn);
+        document.getElementById('optionsList').appendChild(li);
+      });
+
+      document.getElementById('questionBox').dataset.currentId = random.id;
+    }
+
+    document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
+
+    // Initial render
+    showRandomQuestion();
+    showScore();
+  </script>
+</body>
+</html>
