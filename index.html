@@ -152,20 +152,45 @@
     }
 
     function showRestartOptions() {
-      const box = document.getElementById('questionBox');
-      const restartButtons = document.createElement('div');
+  const box = document.getElementById('questionBox');
 
-      const resetAll = document.createElement('button');
-      resetAll.innerText = '🔁 Recomeçar todas as perguntas';
-      resetAll.onclick = () => {
-        localStorage.removeItem(STORAGE_KEY);
-        localStorage.removeItem(SCORE_KEY);
-        localStorage.removeItem(WRONG_KEY);
-        localStorage.removeItem(RETRY_KEY);
-        document.getElementById('nextButton').disabled = false;
-        showScore();
-        showRandomQuestion();
-      };
+  // Remove previous restart buttons if they exist
+  const existing = document.getElementById('restartButtons');
+  if (existing) existing.remove();
+
+  const restartButtons = document.createElement('div');
+  restartButtons.id = 'restartButtons';
+
+  const resetAll = document.createElement('button');
+  resetAll.innerText = '🔁 Recomeçar todas as perguntas';
+  resetAll.onclick = () => {
+    localStorage.removeItem(STORAGE_KEY);
+    localStorage.removeItem(SCORE_KEY);
+    localStorage.removeItem(WRONG_KEY);
+    localStorage.removeItem(RETRY_KEY);
+    document.getElementById('nextButton').disabled = false;
+    showScore();
+    showRandomQuestion();
+  };
+
+  const retryWrong = document.createElement('button');
+  retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
+  retryWrong.onclick = () => {
+    const wrongIds = getWrongAnswers();
+    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
+    localStorage.setItem(RETRY_KEY, JSON.stringify(wrongIds));
+    localStorage.removeItem(SCORE_KEY);
+    localStorage.removeItem(WRONG_KEY);
+    document.getElementById('nextButton').disabled = false;
+    showScore();
+    showRandomQuestion();
+  };
+
+  restartButtons.appendChild(resetAll);
+  restartButtons.appendChild(document.createTextNode(' '));
+  restartButtons.appendChild(retryWrong);
+  box.appendChild(restartButtons);
+};
 
       const retryWrong = document.createElement('button');
       retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
@@ -187,11 +212,23 @@
     }
 
     document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
+
+    // Botão para limpar progresso manualmente
+    const clearBtn = document.createElement('button');
+    clearBtn.innerText = '🗑️ Limpar progresso';
+    clearBtn.onclick = () => {
+      if (confirm('Tem certeza de que deseja apagar todo o progresso?')) {
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        localStorage.removeItem(RETRY_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
+      }
+    };
+    document.body.appendChild(clearBtn);
     loadQuestions();
   </script>
 </body>
 </html>
-
-
-
-
