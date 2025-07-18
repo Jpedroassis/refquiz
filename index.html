@@ -134,18 +134,23 @@
             : `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
 
           saveAnsweredId(random.id, isCorrect);
+
+          if (isCorrect) {
+            updateScore(1);  // Increment score in localStorage on correct answer
+          }
+
           showScore();
 
-          // Desabilita todos os botões e remove seleções anteriores
+          // Disable buttons and remove previous selections
           const allButtons = document.querySelectorAll('#optionsList button');
           allButtons.forEach(b => {
             b.disabled = true;
             b.classList.remove('selected');
           });
 
-          // Marca este botão como selecionado
           btn.classList.add('selected');
         };
+
 
         li.appendChild(btn);
         document.getElementById('optionsList').appendChild(li);
