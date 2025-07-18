@@ -195,21 +195,6 @@
 
     document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
 
-    // Botão para limpar progresso manualmente
-    const clearBtn = document.createElement('button');
-    clearBtn.innerText = '🗑️ Limpar progresso';
-    clearBtn.onclick = () => {
-      if (confirm('Tem certeza de que deseja apagar todo o progresso?')) {
-        localStorage.removeItem(STORAGE_KEY);
-        localStorage.removeItem(SCORE_KEY);
-        localStorage.removeItem(WRONG_KEY);
-        localStorage.removeItem(RETRY_KEY);
-        document.getElementById('nextButton').disabled = false;
-        showScore();
-        showRandomQuestion();
-      }
-    };
-    document.body.appendChild(clearBtn);
     loadQuestions();
   </script>
 </body>
