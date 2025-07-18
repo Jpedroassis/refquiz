@@ -1,29 +1,23 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Perguntas de teste</title>
-  <style>
-    body { font-family: sans-serif; padding: 2rem; }
-    .question-box { background: #f9f9f9; padding: 1rem; border-radius: 10px; max-width: 600px; margin-bottom: 1rem; }
-    .options { list-style: none; padding: 0; }
-    .options li { margin: 0.5rem 0; }
-    button { padding: 0.5rem 1rem; font-size: 1rem; margin-top: 1rem; }
-    .feedback { margin-top: 1rem; font-weight: bold; }
-    .score { margin-top: 1rem; font-size: 1.1rem; }
-  </style>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>Pergunta de teste</h1>
-  <div class="question-box" id="questionBox">
-    <div id="questionText">Carregando...</div>
-    <ul class="options" id="optionsList"></ul>
-    <div class="feedback" id="feedback"></div>
-    <div class="score" id="scoreBox"></div>
+  <div class="container">
+    <h1>Pergunta de teste</h1>
+    <div class="question-box" id="questionBox">
+      <button id="nextButton">Próxima pergunta</button>
+      <div id="questionText">Carregando...</div>
+      <ul class="options" id="optionsList"></ul>
+      <div class="feedback" id="feedback"></div>
+      <div class="score" id="scoreBox"></div>
+    </div>
   </div>
-  <button id="nextButton">Próxima pergunta</button>
+
   <script>
     const STORAGE_KEY = 'answeredQuestions';
     const SCORE_KEY = 'quizScore';
@@ -152,45 +146,26 @@
     }
 
     function showRestartOptions() {
-  const box = document.getElementById('questionBox');
+      const box = document.getElementById('questionBox');
 
-  // Remove previous restart buttons if they exist
-  const existing = document.getElementById('restartButtons');
-  if (existing) existing.remove();
+      // Remove previous restart buttons if they exist
+      const existing = document.getElementById('restartButtons');
+      if (existing) existing.remove();
 
-  const restartButtons = document.createElement('div');
-  restartButtons.id = 'restartButtons';
+      const restartButtons = document.createElement('div');
+      restartButtons.id = 'restartButtons';
 
-  const resetAll = document.createElement('button');
-  resetAll.innerText = '🔁 Recomeçar todas as perguntas';
-  resetAll.onclick = () => {
-    localStorage.removeItem(STORAGE_KEY);
-    localStorage.removeItem(SCORE_KEY);
-    localStorage.removeItem(WRONG_KEY);
-    localStorage.removeItem(RETRY_KEY);
-    document.getElementById('nextButton').disabled = false;
-    showScore();
-    showRandomQuestion();
-  };
-
-  const retryWrong = document.createElement('button');
-  retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
-  retryWrong.onclick = () => {
-    const wrongIds = getWrongAnswers();
-    localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
-    localStorage.setItem(RETRY_KEY, JSON.stringify(wrongIds));
-    localStorage.removeItem(SCORE_KEY);
-    localStorage.removeItem(WRONG_KEY);
-    document.getElementById('nextButton').disabled = false;
-    showScore();
-    showRandomQuestion();
-  };
-
-  restartButtons.appendChild(resetAll);
-  restartButtons.appendChild(document.createTextNode(' '));
-  restartButtons.appendChild(retryWrong);
-  box.appendChild(restartButtons);
-};
+      const resetAll = document.createElement('button');
+      resetAll.innerText = '🔁 Recomeçar todas as perguntas';
+      resetAll.onclick = () => {
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        localStorage.removeItem(RETRY_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
+      };
 
       const retryWrong = document.createElement('button');
       retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
