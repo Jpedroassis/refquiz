@@ -96,37 +96,4 @@ h1 {
   font-weight: 700;
   font-size: 1.15rem;
   margin-bottom: 1.5rem;
-  min-height: 1.5rem;
-  user-select: none;
-  text-align: center;
-}
-.score {
-  font-size: 1rem;
-  font-weight: 600;
-  color: #475569;
-  text-align: center;
-  user-select: none;
-  margin-bottom: 1.5rem;
-}
-#clearProgress {
-  position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
-  background: #3b82f6;
-  color: white;
-  border: none;
-  padding: 0.75rem 1rem;
-  border-radius: 50%;
-  font-size: 1.3rem;
-  cursor: pointer;
-  box-shadow: 0 4px 10px rgba(239,68,68,0.5);
-  user-select: none;
-  transition: background-color 0.3s ease;
-  z-index: 1000;
-}
-#clearProgress:hover {
-  background: #b91c1c;
-  box-shadow: 0 6px 14px rgba(185,28,28,0.7);
-}
-
-
+  min-height: 1.5
