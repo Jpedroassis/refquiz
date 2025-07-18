@@ -1,10 +1,10 @@
 <!-- index.html -->
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Question Portal</title>
+  <title>Perguntas de teste</title>
   <style>
     body { font-family: sans-serif; padding: 2rem; }
     .question-box { background: #f9f9f9; padding: 1rem; border-radius: 10px; max-width: 600px; margin-bottom: 1rem; }
@@ -16,14 +16,14 @@
   </style>
 </head>
 <body>
-  <h1>Daily Question</h1>
+  <h1>Pergunta de teste</h1>
   <div class="question-box" id="questionBox">
-    <div id="questionText">Loading...</div>
+    <div id="questionText">Carregando...</div>
     <ul class="options" id="optionsList"></ul>
     <div class="feedback" id="feedback"></div>
     <div class="score" id="scoreBox"></div>
   </div>
-  <button id="nextButton">Next Question</button>
+  <button id="nextButton">Próxima pergunta</button>
   <script>
     const STORAGE_KEY = 'answeredQuestions';
     const SCORE_KEY = 'quizScore';
@@ -96,7 +96,7 @@
       const scoreBox = document.getElementById('scoreBox');
       const total = getAnsweredIds().length;
       const score = getScore();
-      scoreBox.innerText = `Score: ${score} / ${total}`;
+      scoreBox.innerText = `Pontuação: ${score} / ${total}`;
     }
 
     function getUnansweredQuestions() {
@@ -111,7 +111,7 @@
       feedback.innerText = '';
 
       if (remaining.length === 0) {
-        document.getElementById('questionText').innerText = 'You have answered all the questions!';
+        document.getElementById('questionText').innerText = 'Você respondeu todas as perguntas!';
         document.getElementById('optionsList').innerHTML = '';
         document.getElementById('nextButton').disabled = true;
         showScore();
@@ -130,10 +130,10 @@
         btn.onclick = () => {
           const isCorrect = index === random.correctIndex;
           if (isCorrect) {
-            feedback.innerText = '✅ Correct!';
+            feedback.innerText = '✅ Correto!';
             updateScore(1);
           } else {
-            feedback.innerText = `❌ Incorrect. The correct answer was: ${random.options[random.correctIndex]}`;
+            feedback.innerText = `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
           }
           saveAnsweredId(random.id, isCorrect);
           Array.from(document.querySelectorAll('#optionsList button')).forEach(b => b.disabled = true);
@@ -151,7 +151,7 @@
       const restartButtons = document.createElement('div');
 
       const resetAll = document.createElement('button');
-      resetAll.innerText = '🔁 Restart All Questions';
+      resetAll.innerText = '🔁 Recomeçar todas as perguntas';
       resetAll.onclick = () => {
         localStorage.removeItem(STORAGE_KEY);
         localStorage.removeItem(SCORE_KEY);
@@ -162,7 +162,7 @@
       };
 
       const retryWrong = document.createElement('button');
-      retryWrong.innerText = '🔄 Retry Only Incorrect Answers';
+      retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
       retryWrong.onclick = () => {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(getWrongAnswers()));
         localStorage.removeItem(SCORE_KEY);
@@ -183,5 +183,6 @@
   </script>
 </body>
 </html>
+
 
 
