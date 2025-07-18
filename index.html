@@ -1,13 +1,13 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Perguntas de teste</title>
-  <link rel="stylesheet" href="style.css">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
   <div class="question-box" id="questionBox">
     <div id="questionText">Carregando...</div>
     <ul class="options" id="optionsList"></ul>
@@ -15,186 +15,200 @@
     <button id="nextButton">Próxima pergunta</button>
     <div class="score" id="scoreBox"></div>
   </div>
+
+  <!-- Botão Limpar Progresso fixado no fim da página -->
   <button id="clearProgress">🗑️ Limpar progresso</button>
 
   <script>
-    const STORAGE_KEY = "quiz_progress";
-    const SCORE_KEY = "quiz_score";
-    const WRONG_KEY = "quiz_wrong";
-
+    const STORAGE_KEY = 'answeredQuestions';
+    const SCORE_KEY = 'quizScore';
+    const WRONG_KEY = 'wrongAnswers';
+    const RETRY_KEY = 'retryMode';
     let questions = [];
-    let usedIndexes = new Set();
-    let currentQuestion = null;
-    let score = 0;
-    let wrongAnswers = [];
-    let answered = false;
 
-    function loadQuestions() {
-      fetch("questions.md")
-        .then(res => res.text())
-        .then(text => {
-          questions = parseMarkdownQuestions(text);
-          showScore();
-          showRandomQuestion();
-        });
-    }
+    async function loadQuestions() {
+      const response = await fetch('questions.md');
+      const markdown = await response.text();
+      const lines = markdown.split('\n');
+      const parsed = [];
+      let current = null;
 
-    function parseMarkdownQuestions(text) {
-      const blocks = text.split(/^### /gm).slice(1);
-      return blocks.map(block => {
-        const [qLine, ...rest] = block.trim().split("\n");
-        const answers = [];
-        let answerIndex = -1;
-        rest.forEach((line, i) => {
-          const trimmed = line.replace(/^[-*] /, "").trim();
-          if (trimmed.startsWith("**") && trimmed.endsWith("**")) {
-            answerIndex = i;
-            answers.push(trimmed.slice(2, -2));
-          } else {
-            answers.push(trimmed);
-          }
-        });
-        return {
-          question: qLine.trim(),
-          answers,
-          answer: answerIndex
-        };
+      lines.forEach(line => {
+        if (line.startsWith('### ')) {
+          if (current) parsed.push(current);
+          current = {
+            id: parsed.length + 1,
+            question: line.replace('### ', '').trim(),
+            options: [],
+            correctIndex: -1
+          };
+        } else if (line.startsWith('- ')) {
+          const isCorrect = line.includes('[x]');
+          const text = line.replace(/- \[.\] /, '').trim();
+          current.options.push(text);
+          if (isCorrect) current.correctIndex = current.options.length - 1;
+        }
       });
+
+      if (current) parsed.push(current);
+      questions = parsed;
+      showRandomQuestion();
+      showScore();
     }
 
-    function saveProgress() {
-      localStorage.setItem(STORAGE_KEY, JSON.stringify([...usedIndexes]));
-      localStorage.setItem(SCORE_KEY, score);
-      localStorage.setItem(WRONG_KEY, JSON.stringify(wrongAnswers));
+    function getAnsweredIds() {
+      const data = localStorage.getItem(STORAGE_KEY);
+      return data ? JSON.parse(data) : [];
     }
 
-    function loadProgress() {
-      const saved = localStorage.getItem(STORAGE_KEY);
-      const scoreSaved = localStorage.getItem(SCORE_KEY);
-      const wrongSaved = localStorage.getItem(WRONG_KEY);
-      if (saved) usedIndexes = new Set(JSON.parse(saved));
-      if (scoreSaved) score = parseInt(scoreSaved);
-      if (wrongSaved) wrongAnswers = JSON.parse(wrongSaved);
+    function getWrongAnswers() {
+      const data = localStorage.getItem(WRONG_KEY);
+      return data ? JSON.parse(data) : [];
+    }
+
+    function saveAnsweredId(id, correct) {
+      const answered = getAnsweredIds();
+      if (!answered.includes(id)) answered.push(id);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(answered));
+
+      const wrong = getWrongAnswers();
+      if (!correct && !wrong.includes(id)) {
+        wrong.push(id);
+        localStorage.setItem(WRONG_KEY, JSON.stringify(wrong));
+      }
+    }
+
+    function getScore() {
+      return parseInt(localStorage.getItem(SCORE_KEY)) || 0;
+    }
+
+    function updateScore(increment = 1) {
+      const currentScore = getScore();
+      const newScore = currentScore + increment;
+      localStorage.setItem(SCORE_KEY, newScore);
     }
 
     function showScore() {
-      document.getElementById("scoreBox").innerText = `Pontuação: ${score} / ${questions.length}`;
+      const scoreBox = document.getElementById('scoreBox');
+      const total = getAnsweredIds().length;
+      const score = getScore();
+      scoreBox.innerText = `Pontuação: ${score} / ${total}`;
+    }
+
+    function getUnansweredQuestions() {
+      const retry = JSON.parse(localStorage.getItem(RETRY_KEY) || 'null');
+      const answered = getAnsweredIds();
+      if (retry && Array.isArray(retry)) {
+        return questions.filter(q => retry.includes(q.id) && !answered.includes(q.id));
+      }
+      return questions.filter(q => !answered.includes(q.id));
     }
 
     function showRandomQuestion() {
-      answered = false;
-      document.getElementById("feedback").innerText = "";
-      const optionsList = document.getElementById("optionsList");
-      optionsList.innerHTML = "";
+      const remaining = getUnansweredQuestions();
+      const box = document.getElementById('questionBox');
+      const feedback = document.getElementById('feedback');
+      feedback.innerText = '';
 
-      const box = document.getElementById("questionBox");
-      const retryBtn = document.getElementById("retryBtn");
-      const resetBtn = document.getElementById("resetBtn");
-      if (retryBtn) retryBtn.remove();
-      if (resetBtn) resetBtn.remove();
-
-      if (usedIndexes.size === questions.length) {
-        const retry = document.createElement("button");
-        retry.id = "retryBtn";
-        retry.innerText = "🔁 Tentar novamente apenas as erradas";
-        retry.onclick = () => {
-          usedIndexes = new Set();
-          score = 0;
-          questions = [...wrongAnswers];
-          wrongAnswers = [];
-          showScore();
-          showRandomQuestion();
-        };
-
-        const reset = document.createElement("button");
-        reset.id = "resetBtn";
-        reset.innerText = "🔄 Recomeçar todas";
-        reset.onclick = () => {
-          usedIndexes = new Set();
-          wrongAnswers = [];
-          score = 0;
-          loadQuestions();
-        };
-
-        box.appendChild(retry);
-        box.appendChild(reset);
+      if (remaining.length === 0) {
+        document.getElementById('questionText').innerText = 'Você respondeu todas as perguntas!';
+        document.getElementById('optionsList').innerHTML = '';
+        document.getElementById('nextButton').disabled = true;
+        showScore();
+        showRestartOptions();
         return;
       }
 
-      let index;
-      do {
-        index = Math.floor(Math.random() * questions.length);
-      } while (usedIndexes.has(index));
+      const random = remaining[Math.floor(Math.random() * remaining.length)];
+      document.getElementById('questionText').innerText = random.question;
+      document.getElementById('optionsList').innerHTML = '';
 
-      currentQuestion = questions[index];
-      usedIndexes.add(index);
-      document.getElementById("questionText").innerText = currentQuestion.question;
+      random.options.forEach((option, index) => {
+        const li = document.createElement('li');
+        const btn = document.createElement('button');
+        btn.innerText = option;
+        btn.onclick = () => {
+          const isCorrect = index === random.correctIndex;
+          feedback.innerText = isCorrect 
+            ? '✅ Correto!' 
+            : `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
 
-      currentQuestion.answers.forEach((ans, i) => {
-        const btn = document.createElement("button");
-        btn.innerText = ans;
-        btn.onclick = () => handleOptionClick(i);
-        const li = document.createElement("li");
-        li.appendChild(btn);
-        optionsList.appendChild(li);
-      });
+          saveAnsweredId(random.id, isCorrect);
+          showScore();
 
-      saveProgress();
-    }
+          // Desabilita todos os botões e remove seleções anteriores
+          const allButtons = document.querySelectorAll('#optionsList button');
+          allButtons.forEach(b => {
+            b.disabled = true;
+            b.classList.remove('selected');
+          });
 
-    function handleOptionClick(selectedIndex) {
-      if (answered) return;
-      answered = true;
-
-      const optionsList = document.getElementById('optionsList');
-      const buttons = optionsList.querySelectorAll('button');
-
-      buttons.forEach((btn, idx) => {
-        btn.disabled = true;
-        if (idx === selectedIndex) {
+          // Marca este botão como selecionado
           btn.classList.add('selected');
-        }
-        if (idx === currentQuestion.answer) {
-          btn.style.backgroundColor = '#16a34a';
-          btn.style.color = '#fff';
-        } else if (idx === selectedIndex && selectedIndex !== currentQuestion.answer) {
-          btn.style.backgroundColor = '#dc2626';
-          btn.style.color = '#fff';
-        }
+        };
+
+        li.appendChild(btn);
+        document.getElementById('optionsList').appendChild(li);
       });
 
-      const feedback = document.getElementById("feedback");
-      if (selectedIndex === currentQuestion.answer) {
-        feedback.innerText = "✅ Correto!";
-        score++;
-      } else {
-        feedback.innerText = "❌ Errado!";
-        if (!wrongAnswers.some(q => q.question === currentQuestion.question)) {
-          wrongAnswers.push(currentQuestion);
-        }
-      }
-
-      showScore();
-      saveProgress();
+      document.getElementById('questionBox').dataset.currentId = random.id;
     }
 
-    document.getElementById("nextButton").addEventListener("click", showRandomQuestion);
+    function showRestartOptions() {
+      const box = document.getElementById('questionBox');
 
-    document.getElementById("clearProgress").onclick = () => {
-      if (confirm("Tem certeza de que deseja apagar todo o progresso?")) {
+      // Remove previous restart buttons if they exist
+      const existing = document.getElementById('restartButtons');
+      if (existing) existing.remove();
+
+      const restartButtons = document.createElement('div');
+      restartButtons.id = 'restartButtons';
+
+      const resetAll = document.createElement('button');
+      resetAll.innerText = '🔁 Recomeçar todas as perguntas';
+      resetAll.onclick = () => {
         localStorage.removeItem(STORAGE_KEY);
         localStorage.removeItem(SCORE_KEY);
         localStorage.removeItem(WRONG_KEY);
-        usedIndexes = new Set();
-        score = 0;
-        wrongAnswers = [];
-        document.getElementById("nextButton").disabled = false;
+        localStorage.removeItem(RETRY_KEY);
+        document.getElementById('nextButton').disabled = false;
         showScore();
-        loadQuestions();
+        showRandomQuestion();
+      };
+
+      const retryWrong = document.createElement('button');
+      retryWrong.innerText = '🔄 Tentar novamente apenas as erradas';
+      retryWrong.onclick = () => {
+        const wrongIds = getWrongAnswers();
+        localStorage.setItem(STORAGE_KEY, JSON.stringify([]));
+        localStorage.setItem(RETRY_KEY, JSON.stringify(wrongIds));
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
+      };
+
+      restartButtons.appendChild(resetAll);
+      restartButtons.appendChild(document.createTextNode(' '));
+      restartButtons.appendChild(retryWrong);
+      box.appendChild(restartButtons);
+    }
+
+    document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
+
+    document.getElementById('clearProgress').onclick = () => {
+      if (confirm('Tem certeza de que deseja apagar todo o progresso?')) {
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        localStorage.removeItem(RETRY_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
       }
     };
 
-    loadProgress();
     loadQuestions();
   </script>
 </body>
