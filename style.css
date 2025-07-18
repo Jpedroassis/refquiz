@@ -128,3 +128,9 @@ h1 {
   background: #b91c1c;
   box-shadow: 0 6px 14px rgba(185,28,28,0.7);
 }
+
+#optionsList button.selected {
+  border: 2px solid #2563eb; /* azul escuro */
+  background-color: #bfdbfe; /* azul claro */
+  font-weight: bold;
+}

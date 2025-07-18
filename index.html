@@ -128,16 +128,24 @@
         btn.innerText = option;
         btn.onclick = () => {
           const isCorrect = index === random.correctIndex;
-          if (isCorrect) {
-            feedback.innerText = '✅ Correto!';
-            updateScore(1);
-          } else {
-            feedback.innerText = `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
-          }
+          feedback.innerText = isCorrect 
+            ? '✅ Correto!' 
+            : `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
+
           saveAnsweredId(random.id, isCorrect);
-          Array.from(document.querySelectorAll('#optionsList button')).forEach(b => b.disabled = true);
           showScore();
+
+          // Desabilita todos os botões e remove seleções anteriores
+          const allButtons = document.querySelectorAll('#optionsList button');
+          allButtons.forEach(b => {
+            b.disabled = true;
+            b.classList.remove('selected');
+          });
+
+          // Marca este botão como selecionado
+          btn.classList.add('selected');
         };
+
         li.appendChild(btn);
         document.getElementById('optionsList').appendChild(li);
       });
