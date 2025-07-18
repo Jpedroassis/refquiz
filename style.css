@@ -12,6 +12,7 @@ body {
   align-items: flex-start;
   min-height: 100vh;
   color: #333;
+  position: relative;
 }
 .question-box {
   background: #fff;
@@ -96,4 +97,36 @@ h1 {
   font-weight: 700;
   font-size: 1.15rem;
   margin-bottom: 1.5rem;
-  min-height: 1.5
+  min-height: 1.5rem;
+}
+.score {
+  font-weight: 700;
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 1rem;
+  user-select: none;
+}
+
+/* Botão Limpar Progresso fixado no rodapé */
+#clearProgress {
+  background: #3b82f6;
+  color: white;
+  font-weight: 700;
+  padding: 0.75rem 1.5rem;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  user-select: none;
+  box-shadow: 0 4px 8px rgba(59,130,246,0.4);
+  transition: background-color 0.3s ease;
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 180px;
+  z-index: 1000;
+}
+#clearProgress:hover {
+  background: #2563eb;
+  box-shadow: 0 6px 12px rgba(37,99,235,0.5);
+}
