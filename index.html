@@ -27,6 +27,7 @@
   <script>
     const STORAGE_KEY = 'answeredQuestions';
     const SCORE_KEY = 'quizScore';
+    const WRONG_KEY = 'wrongAnswers';
     let questions = [];
 
     async function loadQuestions() {
@@ -64,10 +65,21 @@
       return data ? JSON.parse(data) : [];
     }
 
-    function saveAnsweredId(id) {
-      const current = getAnsweredIds();
-      current.push(id);
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(current));
+    function getWrongAnswers() {
+      const data = localStorage.getItem(WRONG_KEY);
+      return data ? JSON.parse(data) : [];
+    }
+
+    function saveAnsweredId(id, correct) {
+      const answered = getAnsweredIds();
+      if (!answered.includes(id)) answered.push(id);
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(answered));
+
+      const wrong = getWrongAnswers();
+      if (!correct && !wrong.includes(id)) {
+        wrong.push(id);
+        localStorage.setItem(WRONG_KEY, JSON.stringify(wrong));
+      }
     }
 
     function getScore() {
@@ -103,6 +115,7 @@
         document.getElementById('optionsList').innerHTML = '';
         document.getElementById('nextButton').disabled = true;
         showScore();
+        showRestartOptions();
         return;
       }
 
@@ -115,13 +128,14 @@
         const btn = document.createElement('button');
         btn.innerText = option;
         btn.onclick = () => {
-          if (index === random.correctIndex) {
+          const isCorrect = index === random.correctIndex;
+          if (isCorrect) {
             feedback.innerText = '✅ Correct!';
             updateScore(1);
           } else {
             feedback.innerText = `❌ Incorrect. The correct answer was: ${random.options[random.correctIndex]}`;
           }
-          saveAnsweredId(random.id);
+          saveAnsweredId(random.id, isCorrect);
           Array.from(document.querySelectorAll('#optionsList button')).forEach(b => b.disabled = true);
           showScore();
         };
@@ -132,10 +146,41 @@
       document.getElementById('questionBox').dataset.currentId = random.id;
     }
 
-    document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
+    function showRestartOptions() {
+      const box = document.getElementById('questionBox');
+      const restartButtons = document.createElement('div');
 
-    // Load and parse questions on startup
+      const resetAll = document.createElement('button');
+      resetAll.innerText = '🔁 Restart All Questions';
+      resetAll.onclick = () => {
+        localStorage.removeItem(STORAGE_KEY);
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
+      };
+
+      const retryWrong = document.createElement('button');
+      retryWrong.innerText = '🔄 Retry Only Incorrect Answers';
+      retryWrong.onclick = () => {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(getWrongAnswers()));
+        localStorage.removeItem(SCORE_KEY);
+        localStorage.removeItem(WRONG_KEY);
+        document.getElementById('nextButton').disabled = false;
+        showScore();
+        showRandomQuestion();
+      };
+
+      restartButtons.appendChild(resetAll);
+      restartButtons.appendChild(document.createTextNode(' '));
+      restartButtons.appendChild(retryWrong);
+      box.appendChild(restartButtons);
+    }
+
+    document.getElementById('nextButton').addEventListener('click', showRandomQuestion);
     loadQuestions();
   </script>
 </body>
 </html>
+
