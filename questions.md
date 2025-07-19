@@ -117,3 +117,45 @@
 - [ ] b) Pontapé- livre indireto.
 - [ ] c) Pontapé-livre direto ou pontapé de penalti.
 - [x] d) Com uma bola ao solo.
+
+### 21. O jogador da equipa que está em desvantagem no marcador, remata a bola à baliza adversária e a mesma não atravessa totalmente a linha de baliza entre os postes. O que está convencionado fazer?
+- [ ] a) O árbitro deve apitar de imediato e assinalar golo.
+- [ ] b) Deve por força das dúvidas efetuar uma bola ao solo.
+- [x] c) O árbitro deve estabelecer contacto visual com o árbitro assistente e, se necessário, este deverá fazer um sinal discreto com a mão.
+- [ ] d) Interrompe o jogo e acerca-se do AA mais próximo.
+
+### 22. Se um elemento da equipa de arbitragem, um jogador ou um elemento oficial das equipas for atingido por um objeto lançado por um espetador, o árbitro pode:
+- [ ] a) Deixar prosseguir o jogo ou suspendê-lo.
+- [x] b) Deixar prosseguir o jogo, pará-lo temporariamente, suspendê-lo ou interrompê-lo definitivamente, consoante a gravidade do incidente.
+- [ ] c) Deixar prosseguir o jogo ou pará-lo temporariamente.
+- [ ] d) Deixar prosseguir o jogo, pará-lo temporariamente, suspendê-lo definitivamente, mesmo no caso de um grave do incidente.
+
+### 23. Com a bola em jogo, outra bola entra no terreno. O árbitro deve interromper o jogo?
+- [x] a) Não, o árbitro interrompe o jogo, apenas se a segunda bola interferir no jogo.
+- [ ] b) Sim, o jogo será interrompido imediatamente.
+- [ ] c) Sim, mas não imediatamente.
+- [ ] d) O árbitro deve interromper se não for possível aplicar a vantagem.
+
+### 24. Quando o árbitro tiver autorizado a equipa médica e/ou maqueiros a penetrar no terreno de jogo, o jogador tem de sair, seja em maca ou pelo seu pé. Se o jogador não respeita as instruções do árbitro deve ser advertido devido a que motivo?
+- [x] a) Comportamento antidesportivo
+- [ ] b) Desobediência
+- [ ] c) Retardar
+- [ ] d) Falta de respeito pelo jogo
+
+### 25. Se o árbitro ficar incapacitado, haverá a considerar:
+- [x] a) O jogo pode continuar sob a direção dos outros elementos da equipa de arbitragem até que a bola deixe de estar em jogo.
+- [ ] b) O jogo deve ser interrompido de imediato.
+- [ ] c) O árbitro deverá dar o jogo por concluído.
+- [ ] d) É substituído pelo árbitro assistente mais categorizado.
+
+### 26. No que concerne a medidas disciplinares, o árbitro pode:
+- [ ] a) Intervir por indicação somente do árbitro assistente no1.
+- [ ] b) Intervir quando se apercebe que os árbitros assistentes estão desatentos e somente quando o jogo está interrompido.
+- [x] c) Intervir por indicação dos outros elementos da equipa de arbitragem, no que respeita a incidentes que ele próprio não pode constatar.
+- [ ] d) Intervir por indicação dos outros elementos da equipa de arbitragem, no que respeita a incidentes que ele próprio não pode constatar e todos de índole disciplinar indicados pelo VAR.
+
+### 27. O guarda-redes da equipa visitada, está a controlar a bola com os pés, no interior da sua área de penálti e com o jogo a decorrer. Fora do terreno de jogo encontra-se um colega seu a ser assistido. O referido guarda-redes espera mais de 12 segundos para se desfazer do contacto com a bola. O que decidir?
+- [ ] a) Assinalar pontapé-livre indireto e exibir o cartão amarelo.
+- [ ] b) Assinalar pontapé-livre indireto.
+- [x] c) Deixar o jogo prosseguir.
+- [ ] d) Apitar a efetuar uma bola ao solo.
