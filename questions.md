@@ -87,3 +87,33 @@
 - [x] b) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo deve ser validado.
 - [ ] c) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado e o jogador advertido.
 - [ ] d) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado.
+
+### 16. Uma bola toca no árbitro (fora da área de penalti) mas permanece no terreno de jogo e a equipa que fica na posse da bola muda. Qual é a decisão do árbitro?
+- [x] a) O jogo é interrompido e reiniciado com um lançamento de bola ao solo para a equipa que tocou a bola pela última vez (antes de esta tocar no árbitro) e no ponto onde esta tocou o árbitro.
+- [ ] b) O jogo é interrompido e reiniciado com um lançamento de bola ao solo para a equipa que tocou a bola pela última vez (antes de esta tocar no árbitro) e no interior da área de penalti.
+- [ ] c) O jogo não é interrompido dado que o árbitro se encontra no exterior da área.
+- [ ] d) O jogo é interrompido e reiniciado com um lançamento de bola ao solo para a equipa que ficou em posse da bola e sobre a linha exterior da área de penalti.
+
+### 17. Um jogador atacante sofre falta fora da área de penalti, mas acaba por cair na referida área. Como será o jogo reiniciado?
+- [ ] a) As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, mas nas áreas onde foi consolidada, portanto, trata-se de um pontapé de penalti.
+- [x] b) As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, portanto, uma falta fora da área de penalti é uma infração de pontapé- livre, mesmo que o jogador caia na área.
+- [ ] c) Nestas circunstâncias deve o árbitro considerar uma falta do jogador atacante, por simulação dado que caiu no interior da área.
+- [ ] d) Nenhuma das hipóteses está correta.
+
+### 18. Um jogador da equipa atacante sofre falta depois de passar a bola para um colega que estava em posição de fora-de-jogo, quando o passe foi efetuado. Qual é a decisão do árbitro?
+- [x] a) Qualquer infração que ocorra primeiro é penalizada, portanto a falta só é penalizada se ocorrer antes do jogador em posição de fora- de- jogo cometer uma infração de FJ (por exemplo, tocar a bola). Se ambas as infrações ocorrerem ao mesmo tempo, a falta é penalizada por ser mais grave, ou seja, o FJ é punido com um Pontapé- livre indireto, enquanto a falta é punida com um pontapé- livre direto.
+- [ ] b) Qualquer infração que ocorra de fora - de- jogo deve ser imediatamente penalizada.
+- [ ] c) Qualquer infração que ocorra primeiro é penalizada, portanto a falta só é penalizada se ocorrer antes do jogador em posição de fora- de- jogo cometer uma infração de FJ (por exemplo, tocar a bola). Se ambas as infrações ocorrerem ao mesmo tempo, a falta é penalizada por fora-de-jogo.
+- [ ] d) Nestas circunstâncias não há lugar a penalização.
+
+### 19. Quando a bola está em jogo na zona de meio do campo, o árbitro verifica que um jogador está caído no chão e interrompe o jogo porque pensou que o jogador está gravemente lesionado. O jogador sai de campo para tratamento. Como o jogo é reiniciado?
+- [ ] a) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador colega daquele que eventualmente estava lesionado.
+- [ ] b) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador da equipa atacante.
+- [ ] c) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para o guarda-redes da equipa defensora.
+- [x] d) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador da equipa que tocou a bola pela última vez.
+
+### 20. Enquanto a bola está em jogo, um substituto atinge um substituto da mesma equipa fora do campo de jogo. Como é o jogo reiniciado?
+- [ ] a) Lançamento de linha lateral.
+- [ ] b) Pontapé- livre indireto.
+- [ ] c) Pontapé-livre direto ou pontapé de penalti.
+- [x] d) Com uma bola ao solo.
