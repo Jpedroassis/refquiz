@@ -183,3 +183,33 @@
 - [ ] b) Este tipo de situação será sempre para a exibição do cartão vermelho.
 - [ ] c) A(s) decisão(ões) fina (is) deve(m) ser baseada(s) no que foi visto, se o árbitro entende que não é vermelho direto, deve exibir o cartão amarelo e seguido do vermelho.
 - [x] d) A(s) decisão(ões) fina(is) deve(m) ser baseada(s) no que foi visto - portanto, embora a revisão tenha sido iniciada por uma infração de possível cartão vermelho, se a opinião do árbitro, após rever o lance e entender que a infração cometida é para advertência, deve, pois, exibir o cartão amarelo.
+
+### 32. Dois jogadores de equipas diferentes cometem uma infração ao mesmo tempo no círculo central: um jogador da Equipa A disputa a bola de forma negligente; um jogador da Equipa B faz uma abordagem ao seu adversário utilizando uma força excessiva com o intuito de atingir o adversário. Qual é a decisão do árbitro?
+- [ ] a) A ambos o jogador deve ser aplicado a sanção disciplinar apropriada, isto é a exibição de um cartão amarelo para o jogador que disputou de forma negligente e expulsão para o adversário. O jogo é reiniciado com um pontapé livre direto para a Equipa B porque o jogador da Equipa A cometeu a primeira infração.
+- [x] b) A ambos o jogador deve ser aplicado a sanção disciplinar apropriada, isto é a exibição de um cartão amarelo para o jogador que disputou de forma negligente e expulsão para o adversário. O jogo é reiniciado com um pontapé livre direto para a Equipa A porque o jogador da Equipa B cometeu a infração mais grave.
+- [ ] c) A ambos o jogador deve ser aplicado a sanção disciplinar apropriada, isto é a exibição de um cartão amarelo para o jogador que disputou de forma negligente e expulsão para o adversário. O jogo é reiniciado com uma bola ao solo.
+- [ ] d) A ambos o jogador deve ser aplicado a sanção disciplinar apropriada, isto é a exibição do cartão vermelho a ambos.
+
+### 33. Um jogador demora a sair do campo de jogo quando é substituído. O mesmo jogador já foi advertido por outra infração. Qual é a decisão correta?
+- [x] a) O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e não pode ser substituído - a substituição não é consumada.
+- [ ] b) O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e pode ser substituído.
+- [ ] c) O árbitro dá um aviso verbal ao jogador em questão.
+- [ ] d) O árbitro exibe ao jogador o cartão vermelho. O jogador é expulso e pode ser substituído.
+
+### 34. Um elemento oficial da equipa entra no campo de jogo quando a bola está em jogo e empurra um jogador da equipa adversária. Qual é a decisão do árbitro?
+- [ ] a) O elemento oficial da equipa deve ser expulso (cartão vermelho). O jogo será reiniciado com um pontapé- livre direto ou indireto no caso de o jogador não estar na posse da bola.
+- [ ] b) O elemento oficial da equipa deve ser expulso (cartão vermelho). O jogo será reiniciado com um pontapé- livre indireto no local da infração.
+- [ ] c) O elemento oficial da equipa deve ser advertido. O jogo será reiniciado com um pontapé-livre direto ou pontapé de penalti se a infração ocorrer dentro da área de penalti do infrator.
+- [x] d) O elemento oficial da equipa deve ser expulso (cartão vermelho). O jogo será reiniciado com um pontapé- livre direto ou pontapé de penalti se a infração ocorrer dentro da área de penalti do infrator.
+
+### 35. A bola saiu pela linha lateral junto ao banco de suplentes da equipa A, contudo os jogadores e técnicos deram sinais de que a bola não saiu. O árbitro assistente indicou a saída da bola. Como deve proceder o árbitro?
+- [ ] a) Interrompe o jogo e executa uma bola ao solo no local onde estava a bola.
+- [x] b) Valida a indicação do árbitro assistente e manda executar lançamento lateral.
+- [ ] c) Existindo dúvidas efetua uma bola ao solo sobre a linha lateral.
+- [ ] d) Ordena a execução de um pontapé-livre.
+
+### 36. Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador é expulso independentemente do local onde a infração foi cometida (exceto um guarda-redes dentro de sua área de penálti. Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração não deliberada de mão na bola e o árbitro assinalar pontapé de penalti, o infrator deve ser?
+- [x] a) Advertido.
+- [ ] b) Expulso.
+- [ ] c) Avisado.
+- [ ] d) Neste cado não deve o árbitro tomar qualquer decisão.
