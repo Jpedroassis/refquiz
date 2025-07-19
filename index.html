@@ -21,16 +21,21 @@
       margin: auto;
     }
 
-    .footer-buttons {
-      display: flex;
-      justify-content: center;
-      gap: 1em;
-      padding: 1em;
+    .footer-buttons-wrapper {
       background-color: #f0f0f0;
       border-top: 1px solid #ccc;
+      padding: 1em;
     }
 
-    .footer-buttons button, .footer-buttons a {
+    .footer-buttons {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 1em;
+    }
+
+    .footer-buttons button,
+    .footer-buttons a {
       background-color: #3b82f6;
       color: white;
       border: none;
@@ -40,11 +45,12 @@
       font-weight: 600;
       cursor: pointer;
       text-decoration: none;
-      box-shadow: 0 4px 8px rgba(59,130,246,0.4);
+      box-shadow: 0 4px 8px rgba(59, 130, 246, 0.4);
       transition: background-color 0.3s ease;
     }
 
-    .footer-buttons button:hover, .footer-buttons a:hover {
+    .footer-buttons button:hover,
+    .footer-buttons a:hover {
       background-color: #2563eb;
     }
   </style>
@@ -59,9 +65,11 @@
     <div class="score" id="scoreBox"></div>
   </div>
 
-  <div class="footer-buttons">
-    <a href="explicacao.html">ℹ️ Como funciona esta página?</a>
-    <button id="clearProgress">🗑️ Limpar progresso</button>
+  <div class="footer-buttons-wrapper">
+    <div class="footer-buttons">
+      <a href="explicacao.html">ℹ️ Como funciona esta página?</a>
+      <button id="clearProgress">🗑️ Limpar progresso</button>
+    </div>
   </div>
 
   <script>
@@ -179,8 +187,8 @@
         btn.innerText = option;
         btn.onclick = () => {
           const isCorrect = index === random.correctIndex;
-          feedback.innerText = isCorrect 
-            ? '✅ Correto!' 
+          feedback.innerText = isCorrect
+            ? '✅ Correto!'
             : `❌ Errado. A resposta correta era: ${random.options[random.correctIndex]}`;
 
           saveAnsweredId(random.id, isCorrect);
