@@ -131,6 +131,13 @@ h1 {
   box-shadow: 0 6px 12px rgba(37,99,235,0.5);
 }
 
+#infoButton {
+  position: fixed;
+  bottom: 5.5rem;
+  right: 1.5rem;
+  z-index: 1000;
+}
+
 .info-button {
   display: inline-block;
   padding: 0.6em 1.2em;
