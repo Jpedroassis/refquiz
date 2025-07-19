@@ -5,6 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Quiz</title>
   <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .question-box {
+      flex: 1;
+      padding: 1em;
+      max-width: 600px;
+      margin: auto;
+    }
+
+    .footer-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1em;
+      padding: 1em;
+      background-color: #f0f0f0;
+      border-top: 1px solid #ccc;
+    }
+
+    .footer-buttons button, .footer-buttons a {
+      background-color: #fff;
+      border: 1px solid #ccc;
+      padding: 0.5em 1em;
+      text-decoration: none;
+      color: #000;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .footer-buttons a:hover, .footer-buttons button:hover {
+      background-color: #eaeaea;
+    }
+  </style>
 </head>
 <body>
 
@@ -16,12 +55,10 @@
     <div class="score" id="scoreBox"></div>
   </div>
 
-<!-- Botão de explicação fixo acima do botão de limpar progresso -->
-<a href="explicacao.html" class="info-button" id="infoButton">ℹ️ Como funciona esta página?</a>
-
-
-  <!-- Botão Limpar Progresso fixado no fim da página -->
-  <button id="clearProgress">🗑️ Limpar progresso</button>
+  <div class="footer-buttons">
+    <a href="explicacao.html">ℹ️ Como funciona esta página?</a>
+    <button id="clearProgress">🗑️ Limpar progresso</button>
+  </div>
 
   <script>
     const STORAGE_KEY = 'answeredQuestions';
@@ -149,17 +186,12 @@
           allButtons.forEach((b, i) => {
             b.disabled = true;
             b.classList.remove('selected', 'correct', 'incorrect');
-            if (i === random.correctIndex) {
-              b.classList.add('correct');
-            }
-            if (i === index && !isCorrect) {
-              b.classList.add('incorrect');
-            }
+            if (i === random.correctIndex) b.classList.add('correct');
+            if (i === index && !isCorrect) b.classList.add('incorrect');
           });
 
           btn.classList.add('selected');
         };
-
 
         li.appendChild(btn);
         document.getElementById('optionsList').appendChild(li);
