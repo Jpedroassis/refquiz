@@ -1,53 +1,93 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Como funciona esta página?</title>
-  <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Como funciona</title>
+  <link rel="stylesheet" href="style.css" />
   <style>
     body {
-      font-family: sans-serif;
+      background: #f0f4f8;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      min-height: 100vh;
+      color: #333;
+    }
+    .explanation-box {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.1);
+      padding: 2rem;
       max-width: 700px;
-      margin: auto;
-      padding: 1em;
+      width: 100%;
       line-height: 1.6;
+    }
+    h1 {
+      text-align: center;
+      color: #1e2a78;
+      margin-bottom: 1.5rem;
+    }
+    ul {
+      padding-left: 1.5rem;
+    }
+    pre {
+      background: #f8fafc;
+      border-left: 4px solid #3b82f6;
+      padding: 1rem;
+      font-size: 0.95rem;
+      overflow-x: auto;
+    }
+    .back-button {
+      display: inline-block;
+      margin-top: 2rem;
+      padding: 0.6rem 1.2rem;
+      background-color: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+      transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+      background-color: #2563eb;
     }
   </style>
 </head>
 <body>
-  <h1>Como funciona esta página?</h1>
-  <p>
-    A ideia da plataforma é que se possa ir fazendo perguntas enquanto estamos ao telemóvel ou no tablet sem fazer nada.
-    Claro que também funciona no PC.
-  </p>
-
-  <h2>Coisas a saber:</h2>
-  <ul>
-    <li>Cada pergunta que se encontra na BD aparece apenas uma vez em cada dispositivo e de forma aleatória;</li>
-    <li>Cada pergunta tem um número para que facilmente se possa indicar perguntas com erros;</li>
-    <li>Acabando a ronda de todas as perguntas haverá a possibilidade de repetir apenas as erradas;</li>
-    <li>A qualquer momento pode fazer-se reset ao sistema e ter de novo todas as perguntas disponíveis;</li>
-  </ul>
-
-  <p>
-    A ideia é ir colocando perguntas de testes que vão aparecendo, sendo que nunca se terá perguntas repetidas.
-  </p>
-
-  <h2>Formato das perguntas:</h2>
-  <pre>
+  <div class="explanation-box">
+    <h1>ℹ️ Como funciona esta página</h1>
+    <p>
+      A ideia da plataforma é que se possa ir fazendo perguntas enquanto estamos ao telemóvel ou no tablet sem fazer nada.
+      Claro que também funciona no PC.
+    </p>
+    <p><strong>Coisas a saber:</strong></p>
+    <ul>
+      <li>Cada pergunta aparece apenas uma vez por dispositivo e em ordem aleatória.</li>
+      <li>Cada pergunta tem um número para facilitar a identificação de erros.</li>
+      <li>Ao terminar todas as perguntas, pode repetir apenas as que errou.</li>
+      <li>É possível reiniciar tudo e começar do zero a qualquer momento.</li>
+    </ul>
+    <p>
+      A ideia é ir adicionando perguntas de testes reais, e você nunca verá perguntas repetidas enquanto não reiniciar.
+    </p>
+    <p><strong>Formato das perguntas:</strong></p>
+    <pre>
 ### 10. Os árbitros assistentes devem indicar:
 - [ ] a) A bola sai completamente do terreno de jogo e a que equipa pertence o pontapé de canto, pontapé de baliza ou lançamento da linha lateral.
 - [ ] b) É solicitada uma substituição.
 - [ ] c) Jogador deve ser sancionado por se encontrar na posição de fora de jogo.
 - [x] d) Todas as respostas estão corretas.
-  </pre>
+    </pre>
+    <p>
+      A resposta marcada com <code>[x]</code> é a correta. Se quiser converter testes para este formato, terei todo o gosto em adicioná-los à base de dados.
+    </p>
 
-  <p>
-    Sendo que a resposta com o X é a correta. Se alguém quiser transformar testes neste formato,
-    terei todo o gosto em acrescentar essas perguntas à base de dados.
-  </p>
-
-  <p><a href="index.html">Voltar ao quiz</a></p>
+    <a href="index.html" class="back-button">⬅️ Voltar ao Quiz</a>
+  </div>
 </body>
 </html>
