@@ -159,3 +159,27 @@
 - [ ] b) Assinalar pontapé-livre indireto.
 - [x] c) Deixar o jogo prosseguir.
 - [ ] d) Apitar a efetuar uma bola ao solo.
+
+### 28. Podem ser colocadas bolas suplementares em redor do terreno de jogo para serem utilizadas no decorrer do mesmo, desde que satisfaçam as exigências estipuladas na Lei 2 e que a sua utilização seja controlada por quem?
+- [ ] a) Árbitro assistente nº 1.
+- [ ] b) Árbitro assistente nº 1 e/ou quarto árbitro.
+- [x] c) Árbitro.
+- [ ] d) Os delegados das equipas.
+
+### 29. Qualquer jogador que ataque um adversário na disputa da bola, de frente, de lado ou por trás, utilizando uma ou ambas as pernas, com força excessiva, pondo em perigo a integridade física do adversário, torna-se culpado de que tipo de falta?
+- [x] a) Grosseira.
+- [ ] b) Ligeira.
+- [ ] c) Defensiva/ligeira.
+- [ ] d) Dolosa.
+
+### 30. Mesmo antes de entregar as fichas de identificação dos jogadores, um jogador cospe sobre um adversário quando estavam nos habituais exercício de aquecimento. Um dos árbitros assistentes viu e de imediato comunicou ao árbitro. Qual o procedimento correto a seguir?
+- [ ] a) O infrator pode ser indicado na lista dos jogadores da sua equipa e consequentemente participar da partida, mas o assunto é remetido o assunto à autoridade competente. O número de jogadores e substitutos não é reduzido.
+- [x] b) O infrator não pode ser indicado na lista dos jogadores da sua equipa e consequentemente não participa na partida e é remetido o assunto à autoridade competente. O número de jogadores e substitutos não é reduzido. O cartão vermelho não é exibido.
+- [ ] c) O infrator não pode ser indicado na lista dos jogadores da sua equipa e consequentemente não pode participar na partida e é remetido o assunto à autoridade competente. O número de jogadores e substitutos é reduzido. O cartão vermelho não é exibido.
+- [ ] d) Como a infração acontece antes do início do jogo, o árbitro não pode tomar nenhuma decisão.
+
+### 31. Um jogador comete uma infração que pode colocar em perigo a integridade do adversário. O VAR recomenda uma revisão em campo para uma possível falta porque esta situação não foi vista pelo árbitro. O árbitro pode, após realizar a revisão, decidir advertir o infrator?
+- [ ] a) A(s) decisão(ões) fina(is) deve(m) ser baseada(s) no que foi visto - portanto, na situação em apreço, ou exibe o cartão vermelho no seguimento da recomendação do VAR ou nada exibe.
+- [ ] b) Este tipo de situação será sempre para a exibição do cartão vermelho.
+- [ ] c) A(s) decisão(ões) fina (is) deve(m) ser baseada(s) no que foi visto, se o árbitro entende que não é vermelho direto, deve exibir o cartão amarelo e seguido do vermelho.
+- [x] d) A(s) decisão(ões) fina(is) deve(m) ser baseada(s) no que foi visto - portanto, embora a revisão tenha sido iniciada por uma infração de possível cartão vermelho, se a opinião do árbitro, após rever o lance e entender que a infração cometida é para advertência, deve, pois, exibir o cartão amarelo.
