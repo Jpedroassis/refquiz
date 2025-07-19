@@ -58,3 +58,32 @@
 - [ ] c) Jogador deve ser sancionado por se encontrar na posição de fora de jogo.
 - [x] d) Todas as respostas estão corretas.
 
+### 11. O árbitro percebe que um suplente está a utilizar gestos ofensivos em direção a um jogador adversário no campo de jogo só que durante o aquecimento e antes do pontapé inicial. Que ação disciplinar o árbitro deve tomar?
+- [ ] a) O suplente é expulso não pode participar no jogo, mas pode ser substituído por outro jogador.
+- [ ] b) O suplente é advertido e pode participar no jogo quando a sua equipa entender.
+- [ ] c) O árbitro nada pode fazer e relata os factos às autoridades competentes.
+- [x] d) O suplente é expulso não pode participar no jogo e não pode ser substituído por outro jogador. O número de substituições que à equipa tem permissão para fazer não é reduzido.
+
+### 12. Quando se faz referência ao trabalho da equipa de arbitragem e mais concretamente no que diz respeito a consultas, haverá que considerar:
+- [ ] a) No que se refere a consultas sobre questões disciplinares, um olhar e um sinal discreto de mão do árbitro assistente para o árbitro são normalmente suficientes.
+- [ ] b) No caso de ser necessária uma consulta direta, o árbitro assistente pode penetrar 2-3 metros no terreno de jogo.
+- [ ] c) Enquanto trocam impressões devem ambos virar-se para dentro do terreno, para evitar que a sua conversa possa ser entendida e para observar os jogadores e o terreno de jogo.
+- [x] d) Todos os procedimentos mencionados anteriormente estão corretos.
+
+### 13. Um jogador defensor atinge um jogador atacante dentro da área de penalti quando a bola está em jogo. Um dos árbitros assistente indica a infração, mas o árbitro não vê a indicação. O jogo continua e a bola sai pela linha lateral. Que decisões pode o árbitro tomar se o jogo já tiver sido reiniciado com um lançamento lateral em virtude da rápida reposição?
+- [ ] a) O árbitro pode alterar a decisão de reinício e pode conceder um pênalti. O cartão vermelho é exibido por conduta violenta.
+- [ ] b) O árbitro não pode alterar a decisão de reinício e não pode conceder um penálti. O cartão vermelho também não pode ser exibido.
+- [ ] c) O árbitro não pode alterar a decisão de reinício e não pode conceder um penálti. Não há lugar a punição disciplinar e remete o assunto às entidades competentes.
+- [x] d) O árbitro não pode alterar a decisão de reinício e não pode conceder um penálti. O cartão vermelho é exibido por conduta violenta porque o árbitro assistente identificou e tentou comunicar a infração ao árbitro antes do jogo recomeçar.
+
+### 14. Um jogador lesionou-se após ter sofrido uma falta o que levou a ser avaliado pelo médico no terreno de jogo. O jogador recuperou e sente condições para continuar. Este jogador pode executar o pontapé-livre?
+- [x] a) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi advertido ou expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o terreno de jogo.
+- [ ] b) O jogador não pode permanecer no terreno de jogo em qualquer das circunstâncias.
+- [ ] c) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi advertido e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o campo de jogo.
+- [ ] d) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o campo de jogo.
+
+### 15. Um jogador perdeu acidentalmente uma caneleira. O que está determinado perante este tipo de situações?
+- [ ] a) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo deve ser validado, mas haverá sempre lugar a punição disciplinar.
+- [x] b) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo deve ser validado.
+- [ ] c) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado e o jogador advertido.
+- [ ] d) O jogador deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado.
