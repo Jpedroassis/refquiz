@@ -156,3 +156,24 @@ h1 {
   background-color: #2563eb;
   box-shadow: 0 6px 12px rgba(37, 99, 235, 0.4);
 }
+
+/* Botão selecionado */
+.options button.selected {
+  background-color: #d0e6ff; /* fundo azul clarinho */
+  border: 2px solid #1e2a78; /* borda azul escura */
+  color: #1e2a78;
+}
+
+/* Botão da resposta correta */
+.options button.correct {
+  background-color: #d4edda; /* verde claro */
+  border-color: #28a745; /* verde */
+  color: #155724;
+}
+
+/* Botão da resposta incorreta */
+.options button.incorrect {
+  background-color: #f8d7da; /* vermelho claro */
+  border-color: #dc3545; /* vermelho */
+  color: #721c24;
+}

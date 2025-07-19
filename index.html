@@ -146,13 +146,20 @@
           showScore();
 
           const allButtons = document.querySelectorAll('#optionsList button');
-          allButtons.forEach(b => {
+          allButtons.forEach((b, i) => {
             b.disabled = true;
-            b.classList.remove('selected');
+            b.classList.remove('selected', 'correct', 'incorrect');
+            if (i === random.correctIndex) {
+              b.classList.add('correct');
+            }
+            if (i === index && !isCorrect) {
+              b.classList.add('incorrect');
+            }
           });
 
           btn.classList.add('selected');
         };
+
 
         li.appendChild(btn);
         document.getElementById('optionsList').appendChild(li);
