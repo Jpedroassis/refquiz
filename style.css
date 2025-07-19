@@ -119,7 +119,6 @@ h1 {
   user-select: none;
   box-shadow: 0 4px 8px rgba(59,130,246,0.4);
   transition: background-color 0.3s ease;
-  position: fixed;
   bottom: 20px;
   left: 50%;
   transform: translateX(-50%);
