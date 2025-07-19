@@ -30,11 +30,12 @@
 
     .footer-buttons {
       display: flex;
-      justify-content: center;
+      flex-direction: column;
+      align-items: center;
       gap: 1em;
-      flex-wrap: wrap;
     }
 
+    .footer-buttons button,
     .footer-buttons a {
       background-color: #3b82f6;
       color: white;
@@ -49,6 +50,7 @@
       transition: background-color 0.3s ease;
     }
 
+    .footer-buttons button:hover,
     .footer-buttons a:hover {
       background-color: #2563eb;
     }
@@ -67,6 +69,7 @@
   <div class="footer-buttons-wrapper">
     <div class="footer-buttons">
       <a href="explicacao.html">ℹ️ Como funciona esta página?</a>
+      <button id="clearProgress">🗑️ Limpar progresso</button>
     </div>
   </div>
 
