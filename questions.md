@@ -228,8 +228,8 @@
 
 ### 39. Se um jogador atacante permanece imóvel entre os postes da baliza e no interior da baliza, o golo deve ser validado, a menos que:
 - [ ] a) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12 e 13 em simultâneo. Nesse caso, o jogo recomeça com pontapé-livre indireto, direto ou pontapé de penalti.
-- [ ] b) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça com pontapé-livre indireto ou direto.
-- [x] c) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça sempre com pontapé-livre indireto.
+- [x] b) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça com pontapé-livre indireto ou direto.
+- [ ] c) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça sempre com pontapé-livre indireto.
 - [ ] d) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 13. Nesse caso, o jogo recomeça com pontapé-livre indireto au direto.
 
 ### 40. Sobre a bola ao solo, deve considerar correta a situação:
