@@ -252,9 +252,9 @@
 
 ### 43. Se um elemento oficial de uma equipa, um suplente, um jogador expulso ou um elemento estranho entra no terreno de jogo, o árbitro deve:
 - [ ] a) Apenas interromper se houver interferência no jogo. Retardar o recomeço até à saída do elemento do terreno de jogo.
-- [x] b) Ordenar a sua saída do terreno de jogo na paragem seguinte do jogo e exibir o cartão vermelho ao referido elemento.
+- [ ] b) Ordenar a sua saída do terreno de jogo na paragem seguinte do jogo e exibir o cartão vermelho ao referido elemento.
 - [ ] c) Apenas interromper se houver interferência no jogo. Tomar as medidas disciplinares apropriadas.
-- [ ] d) Para além do referido na alínea c), deve ordenar a sua saída do terreno de jogo na paragem seguinte deste.
+- [x] d) Para além do referido na alínea c), deve ordenar a sua saída do terreno de jogo na paragem seguinte deste.
 
 ### 44. Depois da obtenção de um golo e após o jogo ter recomeçado, o árbitro se apercebe que uma pessoa a mais se encontrava dentro do terreno de jogo no momento em que o golo foi obtido, como proceder?
 - [ ] a) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo. O árbitro deve informar este facto às autoridades competentes.
