@@ -1032,8 +1032,8 @@
 
 ### 173. Um jogador abandonou o terreno de jogo para corrigir ou trocar de equipamento. Contudo reentrou com o jogo a decorrer sem a permissão do árbitro. Quais são as sanções e reinícios que devem ocorrer em face desta situação?
 - [ ] a) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLI no local onde estava a bola quando o jogo foi interrompido.
-- [x] b) Um jogador deve ser avisado. Se o jogo foi interrompido para ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
-- [ ] c) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
+- [ ] b) Um jogador deve ser avisado. Se o jogo foi interrompido para ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
+- [x] c) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
 - [ ] d) Em momento algum Este é motivo para a interrupção de jogo e não há lugar a sanção disciplinar, tal como consta das alterações efetuadas sobre esta matéria.
 
 ### 174. Um jogador faz de guarda-redes da sua equipa, ao colocar-se na baliza sobre a linha entre os postes e com o braço de forma deliberada, impede que a bola entre. Qual é a decisão do árbitro em termos de sanções técnicas?
