@@ -1019,10 +1019,10 @@
 - [ ] d) Assinala pontapé de canto.
 
 ### 171. Com a bola em jogo, um técnico (treinador) entra no terreno de jogo para interferir com um jogador adversário. Qual é a decisão do árbitro?
-- [ ] a) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre direto no local da interferência - se for na área de penálti da equipa do treinador, um penalti deve ser assinalado.
+- [x] a) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre direto no local da interferência - se for na área de penálti da equipa do treinador, um penalti deve ser assinalado.
 - [ ] b) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), exibe posteriormente o cartão amarelo. Reiniciará o jogo com um pontapé-livre direto no local da interferência.
 - [ ] c) O árbitro interromperá de imediato o jogo avisa ou exibe cartão amarelo e recomeça o jogo com uma bola ao solo.
-- [x] d) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre indireto no local da interferência.
+- [ ] d) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre indireto no local da interferência.
 
 ### 172. Um jogador marca um golo, enquanto um jogador defensor está lesionado próximo da linha de baliza (no campo de jogo). Qual é a decisão do árbitro nestas situações?
 - [ ] a) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. No entanto em situações de lesão não é de aplicar a regra estipulada na Lei 11, isto é o golo não é validado.
