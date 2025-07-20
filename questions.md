@@ -1067,10 +1067,10 @@
 - [ ] d) Verificar se o guarda-redes está sobre a linha de baliza entre os postes e também se esta toma parte ativa no jogo.
 
 ### 179. Recomenda-se aos árbitros que devem intervir rapidamente e com firmeza contra os jogadores que agarram o seu adversário, principalmente no interior da área de penálti por ocasião dos pontapés de canto e dos pontapés-livres. Nestas situações, o árbitro deve:
-- [x] a) Chamar a atenção de todo o jogador que agarre um adversário antes de a bola estar em jogo.
+- [ ] a) Chamar a atenção de todo o jogador que agarre um adversário antes de a bola estar em jogo.
 - [ ] b) Advertir o jogador se ele continua a agarrar o adversário antes de a bola estar em jogo.
 - [ ] c) Conceder um pontapé-livre direto ou um pontapé de penálti e advertir o jogador se ele agarra o adversário depois da bola estar em jogo.
-- [ ] d) Todas as situações referidas anteriormente estão corretas.
+- [x] d) Todas as situações referidas anteriormente estão corretas.
 
 ### 180. Opte pela alínea que tenha duas situações consideradas verdadeiras:
 - [ ] a) Uma ‘substituição de concussão’ pode ser feita: I. Imediatamente após a ocorrência ou suspeita de uma concussão; II. Antes da avaliação em campo e/ou avaliação fora de campo.
