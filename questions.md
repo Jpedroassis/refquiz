@@ -360,8 +360,8 @@
 
 ### 61. Um jogador reclama por palavras e gestos perante o árbitro a exibição de um cartão amarelo para um adversário. Como agir?
 - [ ] a) Avisar que não pode proceder daquela forma.
-- [ ] b) Exibir o cartão amarelo mesmo que seja a primeira vez.
-- [x] c) Exibir o cartão amarelo se for reincidente.
+- [x] b) Exibir o cartão amarelo mesmo que seja a primeira vez.
+- [ ] c) Exibir o cartão amarelo se for reincidente.
 - [ ] d) Nestas circunstâncias é sempre expulso.
 
 ### 62. Antes dos penaltis terem início, a menos que existam outros fatores a ter em consideração (por exemplo, condições do terreno, segurança, etc.), o árbitro efetua um sorteio por meio de uma moeda para tomar que decisão?
