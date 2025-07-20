@@ -786,8 +786,8 @@
 
 ### 132. Após a saudação e antes do início do jogo, um jogador foi expulso por conduta violenta. Que procedimento deve ser adotado por essa equipa?
 - [ ] a) Pode completar a equipa um suplente inscrito e este pode ser substituído por um atleta que se encontre nas imediações do terreno de jogo.
-- [x] b) Pode ser substituído por um suplente inscrito, mas a equipa fica com menos uma substituição.
-- [ ] c) Pode completar a equipa com um suplente inscrito, não contando como substituição e ficando a equipa com menos um suplente.
+- [ ] b) Pode ser substituído por um suplente inscrito, mas a equipa fica com menos uma substituição.
+- [x] c) Pode completar a equipa com um suplente inscrito, não contando como substituição e ficando a equipa com menos um suplente.
 - [ ] d) A equipa inicia o jogo com 10 jogadores.
 
 ### 133. No decorrer do jogo, um jogador suplente entrou na sala de operação de vídeo (VOR). O árbitro é informado quando o jogo foi interrompido. Perante tal situação qual o procedimento correto?
