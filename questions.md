@@ -1000,4 +1000,92 @@
 - [ ] c) A bola ao solo é sempre efetuada pelo árbitro.
 - [x] d) Os jogadores devem permanecer todos a 4m da bola até esta entrar em jogo.
 
+### 168. Um jogador defensor (A) impede (com o pé) que a bola na direção da baliza pudesse levar a um golo da equipa adversária. Depois disso, a bola é jogada por um jogador atacante (B) que estava em posição de fora de jogo quando a bola foi tocada pela última vez ou jogada por um companheiro de equipa. Qual é a decisão do árbitro?
+- [ ] a) É uma infração de fora de jogo. O árbitro interrompe o jogo e concede um pontapé-livre indireto para a equipa A. O jogador atacante (A) é penalizado por ganhar vantagem ao jogar a bola quando ela foi deliberadamente defendida pelo adversário.
+- [ ] b) Não há fora de jogo. O árbitro valida o golo e este recomeça com um pontapé de saída a favorecer a equipa do defensor.
+- [x] c) É uma infração de fora de jogo. O árbitro interrompe o jogo e concede um pontapé-livre indireto para a equipa A. O jogador atacante (B) é penalizado por ganhar vantagem ao jogar a bola quando ela foi deliberadamente defendida pelo adversário.
+- [ ] d) Não é uma infração de fora de jogo. O árbitro só deve assinalar por indicação do árbitro assistente a infração.
 
+### 169. Um jogador da equipa atacante sofre falta após passar a bola para um companheiro de equipa que estava em posição de fora de jogo quando o passe foi feito. Qual é a decisão do árbitro?
+- [x] a) A infração que ocorrer primeiro será penalizada, portanto a falta só será penalizada se ocorrer antes que o jogador em posição de fora de jogo cometa uma infração de fora de jogo (por exemplo, tocar na bola). Se ambas as infrações ocorrerem ao mesmo tempo, a falta será penalizada, pois é mais grave, ou seja, o fora de jogo é punido com um pontapé-livre indireto, enquanto a falta é punida com um pontapé-livre direto.
+- [ ] b) A infração que ocorrer primeiro não será penalizada, portanto a falta só será penalizada se ocorrer antes que o jogador em posição de fora de jogo cometa uma infração de fora de jogo (por exemplo, tocar na bola). Se ambas as infrações ocorrerem ao mesmo tempo, a falta não será penalizada.
+- [ ] c) A infração que ocorrer primeiro será penalizada. Se ocorrerem em simultâneo a penalização devida será uma bola ao solo.
+- [ ] d) A infração que ocorrer primeiro nunca será penalizada.
+
+### 170. Um guarda-redes efetua um pontapé de baliza e de forma a endossar para um companheiro de equipa que está no campo adversário mais perto da linha de baliza do que a bola e o penúltimo adversário. O companheiro de equipa recebe a bola, corre para a área de penalti do adversário e marca um golo. Qual é a decisão do árbitro?
+- [x] a) Valida o golo.
+- [ ] b) Assinala pontapé-livre indireto.
+- [ ] c) Manda repetir o pontapé de baliza.
+- [ ] d) Assinala pontapé de canto.
+
+### 171. Com a bola em jogo, um técnico (treinador) entra no terreno de jogo para interferir com um jogador adversário. Qual é a decisão do árbitro?
+- [ ] a) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre direto no local da interferência - se for na área de penálti da equipa do treinador, um penalti deve ser assinalado.
+- [ ] b) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), exibe posteriormente o cartão amarelo. Reiniciará o jogo com um pontapé-livre direto no local da interferência.
+- [ ] c) O árbitro interromperá de imediato o jogo avisa ou exibe cartão amarelo e recomeça o jogo com uma bola ao solo.
+- [x] d) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre indireto no local da interferência.
+
+### 172. Um jogador marca um golo, enquanto um jogador defensor está lesionado próximo da linha de baliza (no campo de jogo). Qual é a decisão do árbitro nestas situações?
+- [x] a) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. No entanto em situações de lesão não é de aplicar a regra estipulada na Lei 11, isto é o golo não é validado.
+- [ ] b) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado se o jogador estiver em pé apesar de lesionado.
+- [ ] c) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante está sempre em fora de jogo.
+- [ ] d) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. Não importa em que posição o defensor esteja: em pé, sentado, deitado etc.
+
+### 173. Um jogador abandonou o terreno de jogo para corrigir ou trocar de equipamento. Contudo reentrou com o jogo a decorrer sem a permissão do árbitro. Quais são as sanções e reinícios que devem ocorrer em face desta situação?
+- [ ] a) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLI no local onde estava a bola quando o jogo foi interrompido.
+- [x] b) Um jogador deve ser avisado. Se o jogo foi interrompido para ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
+- [ ] c) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLD ou PP- No local da interferência ou PLI no local onde estava a bola quando o jogo foi interrompido, se não houve interferência.
+- [ ] d) Em momento algum Este é motivo para a interrupção de jogo e não há lugar a sanção disciplinar, tal como consta das alterações efetuadas sobre esta matéria.
+
+### 174. Um jogador faz de guarda-redes da sua equipa, ao colocar-se na baliza sobre a linha entre os postes e com o braço de forma deliberada, impede que a bola entre. Qual é a decisão do árbitro em termos de sanções técnicas?
+- [ ] a) O árbitro permite que o jogo continue sem qualquer sanção.
+- [ ] b) O árbitro assinala pontapé de penálti.
+- [ ] c) O árbitro assinala pontapé-livre indireto.
+- [x] d) O árbitro assinala pontapé-livre direto.
+
+### 175. É falso afirmar:
+- [ ] a) O jogo é disputado por duas equipas compostas por um máximo de 11 jogadores em cada uma, dos quais um será o guarda-redes. Nenhum jogo pode começar ou continuar se uma das equipas tiver menos de sete jogadores.
+- [ ] b) A substituição considera-se consumada no momento em que o suplente penetra no terreno de jogo; a partir desse momento, o jogador que saiu torna-se jogador substituído e o suplente torna-se jogador e pode efetuar qualquer recomeço.
+- [x] c) O treinador e outros elementos oficiais indicados na ficha de jogo (com exceção de jogadores ou suplentes) são considerados como elementos oficiais da equipa. Qualquer pessoa que não conste da ficha de jogo de uma equipa como jogador, suplente, técnico ou dirigente é considerado um elemento estranho.
+- [ ] d) Se um jogador perder acidentalmente uma bota ou uma caneleira, deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado.
+
+### 176. No que respeita a poderes e deveres do árbitro, qual a alínea que está incorreta:
+- [ ] a) Velar pela aplicação das Leis do Jogo.
+- [ ] b) Supervisionar e/ou indicar o recomeço do jogo.
+- [x] c) Controlar o jogo sem colaboração dos outros elementos da equipa de arbitragem.
+- [ ] d) Assegurar a função de cronometrista, tomar nota dos incidentes do jogo e remeter às autoridades competentes um relatório de jogo, onde constem as informações relativas a todas as medidas disciplinares que tomou, assim como qualquer incidente ocorrido antes, durante ou depois do jogo.
+
+### 177. Sobre o VAR, opte pela resposta considerada correta, dentro das quatro alíneas apresentadas:
+- [ ] a) Se o início do recomeço do jogo necessita de ser atrasado para uma ‘verificação’, o árbitro sinalizará isso colocando claramente um dedo no ouvido/auricular e estendendo a outra mão/braço; este sinal deverá ser mantido até a ‘verificação estar concluída uma vez que isso indica que o árbitro está a receber informação que só pode ser do VAR.
+- [ ] b) Se a ‘verificação’ não indicar um ‘claro e óbvio erro’ ou ‘incidente grave não assinalado’, haverá necessidade de o VAR comunicar com o árbitro – mesmo quando se trata de uma ‘verificação silenciosa’; contudo, pode por vezes ajudar o árbitro/árbitro assistente a gerir os jogadores/jogo se o VAR confirmar que não foi cometido nenhum ‘claro e óbvio erro’ ou que nenhum ‘incidente grave não assinalado’ ocorreu.
+- [x] c) O VAR efetua automaticamente ‘verificações’ das imagens das câmaras de TV para qualquer decisão/incidente potencial ou efetivo de golo, penálti ou cartão vermelho direto, ou caso de identificação errada, usando diferentes ângulos de câmara e velocidades de repetição.
+- [ ] d) O árbitro e o VAR são as únicas pessoas que podem tomar a decisão final: o VAR tem o mesmo estatuto que os restantes elementos da equipa de arbitragem.
+
+### 178. Na marcação de um pontapé de penalti, o árbitro assistente que vai estar na zona de execução deve:
+- [x] a) Verificar se o guarda-redes se adianta declaradamente antes de a bola ser pontapeada e evita que o golo seja marcado, o árbitro assistente deve indicar que o guarda-redes se adiantou, de acordo com as instruções transmitidas pelo árbitro principal antes do início do jogo.
+- [ ] b) Verificar se o guarda-redes está sobre a linha de baliza, sendo esse o facto da sua permanência no local.
+- [ ] c) Verificar se o guarda-redes se adianta declaradamente depois da bola ser pontapeada.
+- [ ] d) Verificar se o guarda-redes está sobre a linha de baliza entre os postes e também se esta toma parte ativa no jogo.
+
+### 179. Recomenda-se aos árbitros que devem intervir rapidamente e com firmeza contra os jogadores que agarram o seu adversário, principalmente no interior da área de penálti por ocasião dos pontapés de canto e dos pontapés-livres. Nestas situações, o árbitro deve:
+- [x] a) Chamar a atenção de todo o jogador que agarre um adversário antes de a bola estar em jogo.
+- [ ] b) Advertir o jogador se ele continua a agarrar o adversário antes de a bola estar em jogo.
+- [ ] c) Conceder um pontapé-livre direto ou um pontapé de penálti e advertir o jogador se ele agarra o adversário depois da bola estar em jogo.
+- [ ] d) Todas as situações referidas anteriormente estão corretas.
+
+### 180. Opte pela alínea que tenha duas situações consideradas verdadeiras:
+- [ ] a) Uma ‘substituição de concussão’ pode ser feita: I. Imediatamente após a ocorrência ou suspeita de uma concussão; II. Antes da avaliação em campo e/ou avaliação fora de campo.
+- [ ] b) Apenas as linhas indicadas na Lei 1 devem ser marcadas no terreno de jogo. Quando sejam utilizadas superfícies artificiais, não são permitidas outras linhas desde mesmo que sejam de cor diferente e claramente distintas das linhas do futebol. As duas linhas de marcação mais compridas denominam-se linhas laterais. As duas mais curtas chamam-se linhas de baliza.
+- [ ] c) Em cada área de penálti é feita uma marca para o pontapé de penálti a 11 m do meio da linha que une os dois postes da baliza. No exterior de cada área de penálti é traçado um arco de círculo de 9,15 m de raio, tendo por centro o exterior da linha que envolve a marca de penálti.
+- [x] d) Se a bola se deforma durante a execução de um pontapé de saída, pontapé de baliza, pontapé de canto, pontapé livre, pontapé de penálti ou lançamento da linha lateral o recomeço é repetido. Se a bola se deforma durante a execução de um pontapé de penálti, ou durante os penáltis, quando é pontapeada para a frente e antes de tocar em qualquer jogador ou na barra ou postes da baliza, o penálti é repetido.
+
+### 181. Está correto afirmar que:
+- [x] a) Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa começar um jogo com menos de 11 jogadores, somente os jogadores e suplentes cujos nomes foram indicados no alinhamento inicial podem tomar parte no jogo quando chegarem.
+- [ ] b) Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa começar um jogo com menos de 11 jogadores, todos os jogadores e suplentes quando chegarem podem tomar parte no jogo.
+- [ ] c) Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa começar um jogo com menos de 11 jogadores, mais nenhum jogador pode ser utilizado.
+- [ ] d) Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa não tiver 11 jogadores, o árbitro não realiza o jogo.
+
+### 182. Se um elemento oficial de uma equipa, um suplente, um jogador expulso ou um elemento estranho entra no terreno de jogo, o árbitro deve:
+- [x] a) Apenas interromper se houver interferência no jogo e ordenar a sua saída do terreno de jogo na paragem seguinte do jogo. Tomará as medidas disciplinares apropriadas.
+- [ ] b) Interromper de imediato o jogo e expulsar o elemento pela entrada indevida em campo.
+- [ ] c) Interromper e efetuar uma bola ao solo.
+- [ ] d) Apenas interromper se houver interferência no jogo e ordenar a sua saída do terreno de jogo na paragem seguinte do jogo. Deverá exibir o respetivo cartão vermelho.
