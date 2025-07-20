@@ -539,10 +539,10 @@
 - [x] d) Deixa prosseguir o jogo.
 
 ### 91. Enquanto a bola está em jogo, um substituto atinge um substituto da mesma equipa fora do campo de jogo. Como é o jogo reiniciado?
-- [x] a) Lançamento de linha lateral.
+- [ ] a) Lançamento de linha lateral.
 - [ ] b) Pontapé-livre indireto.
 - [ ] c) Pontapé-livre direto ou pontapé de penalti.
-- [ ] d) Com uma bola ao solo.
+- [x] d) Com uma bola ao solo.
 
 ### 92. O árbitro pode permitir o pontapé inicial após a marcação de um golo, quando os jogadores da equipa que marcou o golo estão fora do campo ainda a comemorar?
 - [x] a) Não. A Lei 8 afirma claramente que "para cada pontapé de saída, todos os jogadores, exceto o jogador que executa o pontapé de saída, devem estar no seu próprio meio-campo de jogo".
@@ -575,8 +575,8 @@
 - [x] d) A bola deve estar imóvel, tocar ou sobrepor o centro da marca de penalti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
 
 ### 97. Um pontapé-livre:
-- [ ] a) Pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
-- [x] b) Só pode ser executado com um pé.
+- [x] a) Pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [ ] b) Só pode ser executado com um pé.
 - [ ] c) Só pode ser pontapeada a bola com os dois pés simultaneamente.
 - [ ] d) Não pode ser pontapeado para trás em nenhuma circunstância.
 
@@ -660,15 +660,15 @@
 
 ### 111. Um jogador que entre no terreno de jogo sem autorização deverá ser advertido. E se o jogo tiver que ser interrompido para efetuar a advertência, como será o recomeço?
 - [ ] a) Este recomeça com um pontapé-livre indireto sobre a linha lateral onde entrou o jogador, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto (ou pontapé de penálti) no local da interferência.
-- [ ] b) O jogo recomeça com um pontapé-livre indireto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto (ou pontapé de penálti) no local da interferência.
-- [x] c) Este recomeça com um pontapé-livre direto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo.
+- [x] b) O jogo recomeça com um pontapé-livre indireto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto (ou pontapé de penálti) no local da interferência.
+- [ ] c) Este recomeça com um pontapé-livre direto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo.
 - [ ] d) Este recomeça com um pontapé-livre indireto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto no local onde estava a bola no momento da interferência.
 
 ### 112. Em termos de sanção, recomeço, dureza física e impacto tático, quando ocorrerem mais do que uma infração ao mesmo tempo, o árbitro deverá considerar para a análise que tipo de procedimento e a sua adequada decisão será qual?
 - [ ] a) Punir a primeira infração.
 - [ ] b) Punir a infração mais leve.
-- [ ] c) Punir a infração mais grave.
-- [x] d) Punir a infração mais favorável à equipa defensora.
+- [x] c) Punir a infração mais grave.
+- [ ] d) Punir a infração mais favorável à equipa defensora.
 
 ### 113. Dentro das competências que lhe estão distribuídas, o árbitro tem autoridade para exibir cartões amarelos ou vermelhos e, quando o regulamento da competição o permitir, expulsar temporariamente um jogador, desde que:
 - [x] a) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, exceto durante o intervalo, prolongamento e pontapés de penálti.
