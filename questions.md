@@ -222,9 +222,9 @@
 
 ### 38. De acordo com a Lei 4 e no que concerne ao equipamento, opte pela resposta correta:
 - [ ] a) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, deixam de ser uma parte obrigatória do equipamento.
-- [ ] b) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [x] b) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
 - [ ] c) O árbitro é responsável pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
-- [x] d) Os árbitros assistentes e quarto árbitro responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [ ] d) Os árbitros assistentes e quarto árbitro responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
 
 ### 39. Se um jogador atacante permanece imóvel entre os postes da baliza e no interior da baliza, o golo deve ser validado, a menos que:
 - [ ] a) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12 e 13 em simultâneo. Nesse caso, o jogo recomeça com pontapé-livre indireto, direto ou pontapé de penalti.
