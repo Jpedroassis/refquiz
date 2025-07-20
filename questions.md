@@ -300,8 +300,8 @@
 
 ### 51. Os penaltis têm lugar após o jogo terminar e, salvo estipulação em contrário, aplicam-se as Leis do Jogo em questão. Nas alíneas sobre este processo, opte pela mais correta:
 - [ ] a) Os jogadores expulsos durante o jogo poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão consideradas nos penaltis. 
-- [ ] b) Os jogadores expulsos durante o jogo não poderão participar, Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penáltis.
-- [x] c) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão considerados nos penáltis.
+- [x] b) Os jogadores expulsos durante o jogo não poderão participar, Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penáltis.
+- [ ] c) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão considerados nos penáltis.
 - [ ] d) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, só os avisos registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penaltis.
 
 ### 52. É falso afirmar:
