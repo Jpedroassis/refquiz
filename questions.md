@@ -393,3 +393,57 @@
 - [ ] b) Deve correr para a zona do conflito.
 - [ ] c) Deve recolher aos balneários.
 - [ ] d) O quarto árbitro irá para junto do árbitro.
+
+### 67. Durante a execução de um pontapé-livre, o árbitro assistente deve colocar-se na linha do penúltimo defensor a fim de controlar o fora de jogo. Entretanto, ele deve estar pronto com que finalidade?
+- [ ] a) Para seguir a trajetória da bola, correndo ao longo da linha lateral, até ficar enquadrado com o penúltimo defensor.
+- [ ] b) Para seguir a trajetória da bola, correndo ao longo da linha lateral, até ficar em linha com o guarda-redes.
+- [ ] c) Para seguir a trajetória da bola, correndo ao longo da linha lateral, até à bandeira de canto e em posição de verificação da linha de baliza e o penúltimo defensor.
+- [x] d) Para seguir a trajetória da bola, correndo ao longo da linha lateral, até à bandeira de canto, no caso de o remate ser direto à baliza.
+
+### 68. Sobre a decisão que ocorre após um golo, escolha a opção correta:
+- [ ] a) Foi obtido um golo sem haver qualquer dúvida, o árbitro e o árbitro assistente devem estabelecer contacto visual e o árbitro assistente deve correr rapidamente ao longo da linha lateral uma distância de 25 a 30 metros na direção da linha de meio-campo, mas antes da corrida deve levantar a sua bandeira.
+- [ ] b) Foi obtido um golo sem haver qualquer dúvida, o árbitro e o árbitro assistente devem estabelecer contacto visual e o árbitro assistente deve aguardar a indicação do árbitro correndo ao longo da linha lateral uma distância de 25 a 30 metros na direção da linha de meio-campo, sem levantar a sua bandeira.
+- [ ] c) Foi obtido um golo sem haver qualquer dúvida, o árbitro e o árbitro assistente devem estabelecer contacto visual e o árbitro assistente deve correr rapidamente ao longo da linha lateral e posicionar-se posteriormente no enfiamento da linha limite da área de penalti.
+- [x] d) Foi obtido um golo sem haver qualquer dúvida, o árbitro e o árbitro assistente devem estabelecer contacto visual e o árbitro assistente deve correr rapidamente ao longo da linha lateral uma distância de 25 a 30 metros na direção da linha de meio-campo, sem levantar a sua bandeira.
+
+### 69. No momento do lançamento lateral, o executante deve:
+- [ ] a) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral e sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, perto do local onde ela saiu do terreno de jogo.
+- [ ] b) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
+- [ ] c) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral ou sobre o terreno interior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
+- [x] d) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, um dos pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
+
+### 70. Deve ser concedido tempo adicional para permitir que um pontapé de penalti seja executado e concluído no final de cada parte do jogo ou no final do prolongamento. Quando é concedido tempo adicional, o pontapé de penalti está concluído quando?
+- [x] a) Depois de o pontapé ter sido marcado, a bola termina o seu movimento, deixa de estar em jogo, é jogada por qualquer jogador (incluindo o executante) que não o guarda-redes que defende, ou o árbitro interrompe o jogo devido a uma infração por parte do executante ou da equipa do executante.
+- [ ] b) Depois de o pontapé ter sido marcado, a bola termina o seu movimento, deixa de estar em jogo, é jogada por qualquer jogador (excluindo o executante) que não o guarda-redes que defende, ou o árbitro interrompe o jogo devido a uma infração por parte do executante ou da equipa do executante.
+- [ ] c) Depois de o pontapé ter sido marcado, a bola termina o seu movimento, deixa de estar em jogo, é jogada por qualquer jogador (incluindo o executante) que não o guarda-redes que defende, ou o árbitro interrompe o jogo devido a uma infração por parte da defensora ou da equipa da defensora.
+- [ ] d) Depois de o pontapé ter sido marcado, a bola termina o seu movimento, deixa de estar em jogo, é jogada por qualquer jogador (incluindo o guarda-redes que defende), ou o árbitro verifica no seu poder discricionário que o efeito da jogada está concluído.
+
+### 71. Existem infrações que devem geralmente resultar num aviso. Das opções seguintes, escolha aquela que não integra este grupo:
+- [ ] a) Entrar no terreno de jogo de uma forma respeitosa/não conflituosa.
+- [ ] b) Não cooperar com um elemento da equipa de arbitragem, p. ex., ignorar uma instrução/pedido de um árbitro assistente ou quarto árbitro.
+- [ ] c) Menor/ligeiro protesto (palavras ou atos) relativamente a uma decisão.
+- [x] d) Ultrapassar sistematicamente os limites da área técnica e cometer qualquer outra infração.
+
+### 72. Quando um jogador usa ou tenta usar força excessiva ou brutalidade contra um adversário quando não está a disputar a bola ou contra um colega de equipa, um elemento oficial das equipas, um elemento da equipa de arbitragem, um espectador ou qualquer outra pessoa, independentemente de existir ou não contacto, estamos perante?
+- [x] a) Conduta violenta.
+- [ ] b) Falta grosseira.
+- [ ] c) Brutalidade.
+- [ ] d) Comportamento antidesportivo.
+
+### 73. Sobre a "vantagem", tal como está expresso na Lei 5, haverá a considerar na sua aplicabilidade que estamos perante uma situação:
+- [x] a) De permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos.
+- [ ] b) De aplicar em qualquer parte do terreno de jogo e em qualquer circunstância.
+- [ ] c) De aplicar quando esta se concretize e não ocorra nos 6 segundos que se seguem à infração.
+- [ ] d) Que dá um poder do árbitro na sua aplicação, independentemente da equipa que comete a infração e posterior vantagem derivada do lance em si.
+
+### 74. Quando um jogador mostra falta de atenção ou consideração ao entrar sobre um adversário, ou que atua sem precaução. Não é necessária qualquer sanção disciplinar. Esta ação nas leis do jogo como é conhecida?
+- [x] a) Negligente.
+- [ ] b) Imprudente.
+- [ ] c) Falta de respeito pelo jogo.
+- [ ] d) Força excessiva.
+
+### 75. Um jogador inicia deliberadamente um meio ilegal para a bola ser passada (inclusive vinda de um pontapé-livre ou pontapé de baliza) ao seu guarda-redes com a cabeça, o peito, o joelho, etc. a fim de contornar a Lei, independentemente de o guarda-redes tocar ou não a bola com as mãos. Nestas circunstâncias, qual o enquadramento disciplinar a ter em conta pelo árbitro?
+- [x] a) Punição por comportamento antidesportivo.
+- [ ] b) Punição por falta de respeito pelo jogo.
+- [ ] c) Punição por tentativa de controlar a lei.
+- [ ] d) Punido por comportamento inadequado de gravidade menor.
