@@ -258,8 +258,8 @@
 
 ### 44. Depois da obtenção de um golo e após o jogo ter recomeçado, o árbitro se apercebe que uma pessoa a mais se encontrava dentro do terreno de jogo no momento em que o golo foi obtido, como proceder?
 - [ ] a) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo. O árbitro deve informar este facto às autoridades competentes.
-- [x] b) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
-- [ ] c) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo ou pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
+- [ ] b) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
+- [x] c) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo ou pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
 - [ ] d) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo e advertir ou expulsar o infrator.
 
 ### 45. As equipas deverão ter capitão que deverá ser facilmente identificado pelo árbitro. Os detalhes da braçadeira estão descritos em que Lei?
