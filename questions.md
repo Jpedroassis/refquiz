@@ -996,9 +996,9 @@
 
 ### 167. Nas situações de bola ao solo, escolha a opção errada:
 - [ ] a) A bola entra em jogo quando toca no solo.
-- [x] b) É novamente lançada a bola se é tocada por um jogador antes de entrar em contacto com o solo.
+- [ ] b) É novamente lançada a bola se é tocada por um jogador antes de entrar em contacto com o solo.
 - [ ] c) A bola ao solo é sempre efetuada pelo árbitro.
-- [ ] d) Os jogadores devem permanecer todos a 4m da bola até esta entrar em jogo.
+- [x] d) Os jogadores devem permanecer todos a 4m da bola até esta entrar em jogo.
 
 ### 168. Um jogador defensor (A) impede (com o pé) que a bola na direção da baliza pudesse levar a um golo da equipa adversária. Depois disso, a bola é jogada por um jogador atacante (B) que estava em posição de fora de jogo quando a bola foi tocada pela última vez ou jogada por um companheiro de equipa. Qual é a decisão do árbitro?
 - [ ] a) É uma infração de fora de jogo. O árbitro interrompe o jogo e concede um pontapé-livre indireto para a equipa A. O jogador atacante (A) é penalizado por ganhar vantagem ao jogar a bola quando ela foi deliberadamente defendida pelo adversário.
