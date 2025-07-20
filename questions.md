@@ -525,3 +525,63 @@
 - [ ] b) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador será sempre advertido.
 - [ ] c) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador é punido com duplo amarelo.
 - [x] d) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador é expulso independentemente do local onde a infração foi cometida (exceto um guarda-redes dentro de sua área de penalti).
+
+### 89. Foi efetuada uma substituição durante o intervalo, o procedimento deve ser concluído antes do recomeço do jogo. Mas se o árbitro não for informado, o que pode acontecer?
+- [ ] a) O suplente não pode continuar a jogar, volta a sair para o procedimento da substituição.
+- [x] b) O suplente pode continuar a jogar, não é tomada qualquer medida disciplinar e a questão é reportada às autoridades competentes.
+- [ ] c) O suplente pode continuar a jogar, é advertido e o jogo recomeça com uma bola ao solo.
+- [ ] d) O suplente pode continuar a jogar, é advertido e o jogo recomeça com um pontapé-livre indireto.
+
+### 90. Um jogador da equipa A passou inadvertidamente a bola ao guarda-redes adversário quando aquele (GR) estava na sua área de baliza por ocasião de um pontapé de canto. O referido guarda-redes agarrou a bola com a mão e passou a um seu colega de equipa. Como agir?
+- [ ] a) Assinala pontapé-livre direto.
+- [ ] b) Assinala pontapé-livre indireto.
+- [ ] c) Efetua uma bola ao solo.
+- [x] d) Deixa prosseguir o jogo.
+
+### 91. Enquanto a bola está em jogo, um substituto atinge um substituto da mesma equipa fora do campo de jogo. Como é o jogo reiniciado?
+- [x] a) Lançamento de linha lateral.
+- [ ] b) Pontapé-livre indireto.
+- [ ] c) Pontapé-livre direto ou pontapé de penalti.
+- [ ] d) Com uma bola ao solo.
+
+### 92. O árbitro pode permitir o pontapé inicial após a marcação de um golo, quando os jogadores da equipa que marcou o golo estão fora do campo ainda a comemorar?
+- [x] a) Não. A Lei 8 afirma claramente que "para cada pontapé de saída, todos os jogadores, exceto o jogador que executa o pontapé de saída, devem estar no seu próprio meio-campo de jogo".
+- [ ] b) Sim. Tal pode acontecer se o árbitro estiver no círculo central.
+- [ ] c) Se a equipa que sofreu o golo estiver no seu meio-campo pode.
+- [ ] d) Só em situações de prolongamento de tempo.
+
+### 93. Um jogador da equipa atacante tem a posse de bola na área de penalti da equipa defensora. O jogo é interrompido pelo árbitro (nenhuma infração cometida). Como o jogo deve ser reiniciado?
+- [ ] a) O árbitro reiniciará o jogo com bola ao solo para um dos guarda-redes.
+- [x] b) O árbitro reiniciará o jogo com bola ao solo para o guarda-redes da equipa defensora.
+- [ ] c) O árbitro reiniciará o jogo com bola ao solo para o colega do atacante.
+- [ ] d) Nenhuma das hipóteses está correta.
+
+### 94. Quando um pontapé livre é executado, um jogador defensor deita-se ou ajoelha-se no chão atrás de uma barreira formada por outros jogadores da equipa defensora. Qual é a decisão correta?
+- [ ] a) Adverte o jogador.
+- [ ] b) Não autoriza a marcação do pontapé-livre.
+- [x] c) Deixa executar o pontapé-livre.
+- [ ] d) Dá o jogo por terminado.
+
+### 95. Um jogador defensor atinge um jogador atacante dentro da área de penalti quando a bola está em jogo. Um dos árbitros assistentes indica a infração, mas o árbitro não vê a indicação. O jogo continua e a bola sai pela linha lateral. Que decisões pode o árbitro tomar se o jogo já tiver sido reiniciado com um lançamento lateral em virtude da rápida reposição?
+- [ ] a) O árbitro pode alterar a decisão de reinício e pode conceder um penalti e o cartão vermelho exibido por conduta violenta.
+- [ ] b) O árbitro não pode alterar a decisão de reinício e não pode conceder um penalti. O cartão vermelho também não pode ser exibido.
+- [ ] c) O árbitro não pode alterar a decisão de reinício e não pode conceder um penalti. Não há lugar a punição disciplinar e remete o assunto às entidades competentes.
+- [x] d) O árbitro não pode alterar a decisão de reinício e não pode conceder um penalti. O cartão vermelho é exibido por conduta violenta porque o árbitro assistente identificou e tentou comunicar a infração ao árbitro antes do jogo recomeçar.
+
+### 96. Na marcação de um pontapé de penalti:
+- [ ] a) A bola deve estar imóvel, tocar ou sobrepor o centro da marca de penalti, e a "invasão dos jogadores de campo na marcação será penalizada apenas se os jogadores estiverem sobre a linha limite da área.
+- [ ] b) A bola deve estar imóvel e perto da marca de penalti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+- [ ] c) A bola deve estar imóvel, tocar ou sobrepor o centro da marca de penalti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se houver protestos dos jogadores.
+- [x] d) A bola deve estar imóvel, tocar ou sobrepor o centro da marca de penalti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+
+### 97. Um pontapé-livre:
+- [ ] a) Pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [x] b) Só pode ser executado com um pé.
+- [ ] c) Só pode ser pontapeada a bola com os dois pés simultaneamente.
+- [ ] d) Não pode ser pontapeado para trás em nenhuma circunstância.
+
+### 98. Se o árbitro não indicar que o pontapé-livre é indireto e a bola for pontapeada diretamente para a baliza:
+- [ ] a) Se na baliza do executante, assinala pontapé de canto.
+- [x] b) Deve ser repetido.
+- [ ] c) Se na baliza do executante, assinala pontapé de baliza.
+- [ ] d) Se na baliza da equipa defensora, valida o golo.
