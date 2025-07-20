@@ -833,10 +833,10 @@
 - [x] d) O árbitro permite que o jogo continue, mas se o jogador que agora é guarda-redes tocar na bola, será assinalado um pontapé de penálti.
 
 ### 140. Um árbitro interrompe o jogo e adverte (cartão amarelo) um jogador que voltou a entrar em campo sem a sua autorização. Como é reiniciado o jogo?
-- [x] a) Com um pontapé-livre indireto do local onde estava a bola quando o jogo foi interrompido.
+- [ ] a) Com um pontapé-livre indireto do local onde estava a bola quando o jogo foi interrompido.
 - [ ] b) Com um pontapé-livre direto no local onde estava a bola quando o jogo foi interrompido.
 - [ ] c) Com uma bola ao solo no local onde estava a bola no momento da interrupção.
-- [ ] d) Com um pontapé-livre direto no local da interferência ou com um livre indireto do local onde estava a bola quando o jogo foi interrompido (se não houve interferência).
+- [x] d) Com um pontapé-livre direto no local da interferência ou com um livre indireto do local onde estava a bola quando o jogo foi interrompido (se não houve interferência).
 
 ### 141. O árbitro foi nomeado para um jogo da Taça de Portugal (sénior), contudo verificou-se o atraso de uma das equipas. Assim, das opções que se seguem escolha a correta:
 - [x] a) Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a realização do jogo, o árbitro deve aguardar o tempo que entender razoável de acordo com as circunstâncias em causa e atendendo ao interesse na respetiva realização.
