@@ -305,9 +305,9 @@
 - [ ] d) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, só os avisos registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penaltis.
 
 ### 52. É falso afirmar:
-- [ ] a) Um pontapé de canto é assinalado quando a bola ultrapassar completamente a linha de baliza, quer seja rente ao solo ou pelo ar, tocada em último lugar por um jogador, sem que um golo tenha sido marcado.
+- [x] a) Um pontapé de canto é assinalado quando a bola ultrapassar completamente a linha de baliza, quer seja rente ao solo ou pelo ar, tocada em último lugar por um jogador, sem que um golo tenha sido marcado.
 - [ ] b) Um golo pode ser marcado diretamente de um pontapé de baliza, mas somente contra a equipa adversária, se bola entrar diretamente na baliza do executante, é concedido um pontapé de canto à equipa adversária.
-- [x] c) Se um jogador, ao efetuar de forma correta um lançamento lateral, atira a bola deliberadamente contra um adversário a fim de poder em seguida voltar a jogá-la, sem ser de forma imprudente, negligente ou com força excessiva, o árbitro deve permitir que o jogo prossiga.
+- [ ] c) Se um jogador, ao efetuar de forma correta um lançamento lateral, atira a bola deliberadamente contra um adversário a fim de poder em seguida voltar a jogá-la, sem ser de forma imprudente, negligente ou com força excessiva, o árbitro deve permitir que o jogo prossiga.
 - [ ] d) O lançamento lateral é concedido aos adversários do último jogador que tocou na bola antes de ela atravessar completamente a linha lateral pelo solo ou pelo ar.
 
 ### 53. Se, na execução de um pontapé-livre, um jogador da equipa atacante estiver a menos de 1 metro de distância da barreira defensiva formada por três ou mais defensores, deverá ser:
