@@ -447,3 +447,51 @@
 - [ ] b) Punição por falta de respeito pelo jogo.
 - [ ] c) Punição por tentativa de controlar a lei.
 - [ ] d) Punido por comportamento inadequado de gravidade menor.
+
+### 76. Quando uma barreira é formada por três ou mais defensores, todos os atacantes adversários devem permanecer a:
+- [ ] a) A 1 metro de distância da barreira.
+- [ ] b) Pelo menos, 2 metros de distância da barreira até que a bola entre em jogo.
+- [x] c) Pelo menos, 1 metro de distância da barreira até que a bola entre em jogo.
+- [ ] d) Pelo menos, 9,15 metros de distância da barreira até que a bola entre em jogo.
+
+### 77. Os árbitros assistentes devem fornecer indicações e colaboração no âmbito das suas competências. Assim, em face disso, opte pela hipótese mais correta:
+- [ ] a) A bola sai parcialmente do terreno de jogo e a que equipa pertence o pontapé de canto, pontapé de baliza ou lançamento da linha lateral.
+- [ ] b) O jogador se encontrar na posição de fora de jogo.
+- [ ] c) Quando, nos pontapés de penálti, o guarda-redes se mova antes que a bola seja pontapeada e se a bola transpõe a linha de baliza.
+- [x] d) O árbitro assistente é também responsável por auxiliar o árbitro no processo de substituição durante o jogo.
+
+### 78. Como deve proceder o árbitro se um dos elementos da força pública em serviço ao jogo entrar no terreno de jogo, der ordem de prisão a um jogador, levando-o consigo? Porquê?
+- [ ] a) Se o agente concretizar a sua atitude, o árbitro deve dar o jogo por terminado, porque, a equipa fica reduzida a um elemento.
+- [x] b) Se o agente concretizar a sua atitude, o árbitro deve dar o jogo por terminado, porque, sendo ao árbitro que compete controlar o jogo, a sua autoridade fica afetada pela intervenção da força pública.
+- [ ] c) Se o agente concretizar a sua atitude, o árbitro nunca deve dar o jogo por terminado, porque, sendo ao árbitro que compete controlar o jogo ele tem o poder e dever de continuar.
+- [ ] d) Se o agente concretizar a sua atitude, o árbitro somente relatar a informação às autoridades competentes, porque, sendo ao árbitro o nomeado, aquela entidade deve ter conhecimento.
+
+### 79. O assistente de vídeo árbitro (AVAR) é um elemento da equipa de arbitragem que ajuda o VAR prioritariamente em determinadas tarefas. Assim, das opções seguintes, qual a que está incorreta quanto à sua função?
+- [ ] a) Continuar a ver o jogo enquanto o VAR está ocupado com uma verificação ou revisão.
+- [ ] b) Registar os incidentes relativos ao VAR e problemas de comunicação ou tecnológicos.
+- [ ] c) Assiste o VAR na comunicação com o árbitro, especialmente quando o VAR está a efetuar uma verificação/revisão, p. ex. dizendo ao árbitro para "parar o jogo" ou "retardar o recomeço", etc.
+- [x] d) Enviar um SMS sobre as decisões relacionadas com o VAR.
+
+### 80. Após a bola ter saído do campo de jogo, um suplente (equipa A) chuta a bola para longe para atrasar o lançamento lateral pelos adversários (equipa B). O suplente já foi advertido por outra infração. Qual é a decisão correta?
+- [x] a) O árbitro exibe ao suplente um segundo cartão amarelo e um cartão vermelho. O suplente é expulso, deve deixar a área técnica e não pode ser substituído. O número de substituições que a equipa tem permissão para fazer não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para a equipa B).
+- [ ] b) O árbitro exibe ao suplente um segundo cartão amarelo e um cartão vermelho. O suplente é expulso. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para a equipa B).
+- [ ] c) O árbitro exibe ao suplente um segundo cartão amarelo e um cartão vermelho. O suplente é expulso, deve deixar a área técnica e não pode ser substituído. O número de substituições que a equipa tem permissão para fazer não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para a equipa A).
+- [ ] d) O árbitro exibe ao suplente um segundo cartão amarelo e um cartão vermelho. O suplente é expulso, deve deixar a área técnica e não pode ser substituído. O número de substituições que a equipa tem permissão para fazer é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para a equipa B).
+
+### 81. Um espectador entra no campo de jogo, interfere com um jogador que corre com a bola e remata a bola para longe. Qual é a decisão correta?
+- [x] a) O árbitro deve interromper o jogo e mandar retirar o espectador. Depois disso, o jogo reinicia com uma bola ao solo para um jogador da equipa que tocou a bola pela última vez no local em que ela tocou o espectador.
+- [ ] b) O árbitro deve interromper o jogo e mandar retirar o espectador. Depois disso, o jogo reinicia com uma bola ao solo para o guarda-redes da equipa que tocou a bola antes desta tocar no espectador.
+- [ ] c) O árbitro deve interromper o jogo e mandar retirar o espectador. Depois disso, o jogo reinicia com uma bola ao solo sobre a linha lateral.
+- [ ] d) O árbitro deve interromper o jogo e mandar retirar o espectador. Depois disso, o jogo reinicia com um pontapé-livre indireto no local do contacto.
+
+### 82. Uma substituição é efetuada entre o final do segundo tempo e o início do tempo extra (prolongamento). O árbitro não é informado e percebe isso depois que o tempo extra (prolongamento) começou. Qual é o procedimento correto?
+- [x] a) O suplente que entrou pode continuar a jogar, nenhuma ação disciplinar é tomada e o assunto é relatado às autoridades competentes.
+- [ ] b) O suplente que entrou pode continuar a jogar, mas antes deve ser retomado o procedimento das substituições, mas nenhuma ação disciplinar é tomada.
+- [ ] c) O suplente que entrou pode continuar a jogar, mas deve ser advertido numa paragem de jogo e o assunto é relatado às autoridades competentes.
+- [ ] d) Todas as opções estão erradas.
+
+### 83. Na qualidade de observador e formador, verificou que o árbitro na execução de um pontapé-livre indireto não efetuou de forma correta a sinalética convencionada. Assim, caso tivesse que alertar o árbitro para o facto, qual a indicação a fornecer das opções que se seguem:
+- [x] a) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço ao alto por cima da cabeça. Depois manter o braço nessa posição até que o livre viesse a ser executado e até que a bola toque noutro jogador, saia do terreno de jogo ou seja claro que não será possível obter golo diretamente desse pontapé. Facto que não aconteceu.
+- [ ] b) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço ao alto por cima da cabeça e de imediato baixava o braço. Facto que não aconteceu.
+- [ ] c) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço. Depois manter o braço ao alto até que o livre viesse a ser executado e até que a bola toque noutro jogador. Facto que não aconteceu.
+- [ ] d) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço por cima da cabeça. Depois manter o braço nessa posição até que o livre viesse a ser executado esperar para ver a posição dos árbitros assistentes. Facto que não aconteceu.
