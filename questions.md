@@ -237,3 +237,93 @@
 - [ ] b) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de penalti caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido perto da área de penalti.
 - [ ] c) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de baliza caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido no interior da área de penalti.
 - [x] d) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de penalti caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido no interior da área de penalti.
+
+### 41. Na execução de um pontapé de penalti, a bola ficou deformada, quando foi pontapeada para a frente e antes de tocar em qualquer jogador ou na barra ou postes da baliza. Assim, perante a situação o que decidir?
+- [ ] a) Efetuar uma bola ao solo pelo guarda-redes
+- [x] b) Mandar repetir o pontapé de penalti.
+- [ ] c) Efetuar uma bola ao solo pelo árbitro.
+- [ ] d) Assinalar pontapé-livre indireto e solicitar nova bola.
+
+### 42. Após a bola sair pela linha lateral, foi solicitada uma substituição de um jogador da equipa visitada. Contudo, quando o jogador suplente se preparava para entrar, o jogador que era substituído informou o árbitro que não ia sair. O que decidir?
+- [ ] a) Adverte o jogador.
+- [ ] b) Dá o jogo por concluído.
+- [x] c) Dá continuidade ao jogo.
+- [ ] d) Só recomeça depois de normalizada a substituição.
+
+### 43. Se um elemento oficial de uma equipa, um suplente, um jogador expulso ou um elemento estranho entra no terreno de jogo, o árbitro deve:
+- [ ] a) Apenas interromper se houver interferência no jogo. Retardar o recomeço até à saída do elemento do terreno de jogo.
+- [x] b) Ordenar a sua saída do terreno de jogo na paragem seguinte do jogo e exibir o cartão vermelho ao referido elemento.
+- [ ] c) Apenas interromper se houver interferência no jogo. Tomar as medidas disciplinares apropriadas.
+- [ ] d) Para além do referido na alínea c), deve ordenar a sua saída do terreno de jogo na paragem seguinte deste.
+
+### 44. Depois da obtenção de um golo e após o jogo ter recomeçado, o árbitro se apercebe que uma pessoa a mais se encontrava dentro do terreno de jogo no momento em que o golo foi obtido, como proceder?
+- [ ] a) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo. O árbitro deve informar este facto às autoridades competentes.
+- [x] b) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
+- [ ] c) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo ou pontapé-livre, conforme for apropriado. O árbitro deve informar este facto às autoridades competentes.
+- [ ] d) O golo não pode ser invalidado. Se a pessoa a mais continuar no terreno de jogo, o árbitro neste caso deve: interromper o jogo, ordenar a saída da pessoa a mais recomeçar o jogo com um lançamento de bola ao solo e advertir ou expulsar o infrator.
+
+### 45. As equipas deverão ter capitão que deverá ser facilmente identificado pelo árbitro. Os detalhes da braçadeira estão descritos em que Lei?
+- [ ] a) Na Lei 2.
+- [ ] b) Na Lei 3.
+- [x] c) Na Lei 4.
+- [ ] d) Na Lei 5.
+
+### 46. O capitão da equipa deve usar a braçadeira emitida ou autorizada pelo organizador da competição relevante, ou uma braçadeira de cor única que também pode conter a palavra ou?
+- [x] a) "capitão" ou a letra "CA" ou uma tradução da mesma, que também deve ser uma única cor
+- [ ] b) "capitão" ou a letra "C" ou uma tradução da mesma, que deve ser cor diferente
+- [ ] c) "capitão" ou a letra "C" ou uma tradução da mesma, que também deve ser uma única cor
+- [ ] d) "capitão" ou a letra "D"
+
+### 47. Está determinado que o árbitro:
+- [x] a) Pode permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos.
+- [ ] b) Pode permitir que o jogo continue quando é cometida uma infração, e a equipa que cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos
+- [ ] c) Pode permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, mas deve penalizar a infração, mesmo se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos
+- [ ] d) Pode permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns cinco a seis segundos.
+
+### 48. Os árbitros assistentes devem indicar:
+- [ ] a) Quando, nos pontapés de penálti, o guarda-redes se mova e se a bola ultrapassa a linha de baliza.
+- [x] b) Quando, nos pontapés de penálti, o guarda-redes se mova para a frente antes que a bola seja pontapeada e se a bola transpõe a linha de baliza,
+- [ ] c) Quando, nos pontapés de penálti, o guarda-redes se desloca na linha de baliza e se a bola transpõe a linha de baliza
+- [ ] d) Quando, nos pontapés de penálti, o guarda-redes se mova para a frente antes que a bola seja pontapeada e se a bola é pontapeada na direção da baliza.
+
+### 49. Um jogo interrompido definitivamente antes do seu termo deve ser repetido, salvo:
+- [x] a) Disposição contrária estipulada no regulamento da competição ou se os organizadores da competição determinarem o contrário.
+- [ ] b) Disposição contrária estipulada no regulamento da competição ou se as equipas determinarem contrário.
+- [ ] c) Disposição contrária estipulada no regulamento da competição ou se a equipa de arbitragem determinarem o contrário.
+- [ ] d) Disposição contrária estipulada no regulamento da competição ou se o Conselho de Arbitragem determinar o contrário.
+
+### 50. Na bola ao solo se esta entra na baliza sem tocar em pelo menos dois jogadores, o jogo recomeça como?
+- [x] a) Pontapé de baliza.
+- [ ] b) Pontapé de canto.
+- [ ] c) Repetição da bola ao solo.
+- [ ] d) Depende, pelo que as hipóteses a) e b) podem ser corretas em face das circunstâncias.
+
+### 51. Os penaltis têm lugar após o jogo terminar e, salvo estipulação em contrário, aplicam-se as Leis do Jogo em questão. Nas alíneas sobre este processo, opte pela mais correta:
+- [ ] a) Os jogadores expulsos durante o jogo poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão consideradas nos penaltis. 
+- [ ] b) Os jogadores expulsos durante o jogo não poderão participar, Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penáltis.
+- [x] c) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão considerados nos penáltis.
+- [ ] d) Os jogadores expulsos durante o jogo não poderão participar. Por outro lado, só os avisos registados durante o jogo a jogadores e a elementos oficiais das equipas não serão considerados nos penaltis.
+
+### 52. É falso afirmar:
+- [ ] a) Um pontapé de canto é assinalado quando a bola ultrapassar completamente a linha de baliza, quer seja rente ao solo ou pelo ar, tocada em último lugar por um jogador, sem que um golo tenha sido marcado.
+- [ ] b) Um golo pode ser marcado diretamente de um pontapé de baliza, mas somente contra a equipa adversária, se bola entrar diretamente na baliza do executante, é concedido um pontapé de canto à equipa adversária.
+- [x] c) Se um jogador, ao efetuar de forma correta um lançamento lateral, atira a bola deliberadamente contra um adversário a fim de poder em seguida voltar a jogá-la, sem ser de forma imprudente, negligente ou com força excessiva, o árbitro deve permitir que o jogo prossiga.
+- [ ] d) O lançamento lateral é concedido aos adversários do último jogador que tocou na bola antes de ela atravessar completamente a linha lateral pelo solo ou pelo ar.
+
+### 53. Se, na execução de um pontapé-livre, um jogador da equipa atacante estiver a menos de 1 metro de distância da barreira defensiva formada por três ou mais defensores, deverá ser:
+- [ ] a) Concedido um pontapé-livre direto à equipa defensora. 
+- [ ] b) Concedido um pontapé-livre indireto à equipa defensora. 
+- [x] c) Concedido um pontapé-livre indireto à equipa atacante.
+- [ ] d) Concedido um pontapé-livre direto à equipa atacante.
+
+### 54. Se, ao executar um pontapé-livre, um jogador da equipa adversária se encontra mais próximo da bola que a distância regulamentar, o pontapé-livre deve ser repetido, a menos que possa ser aplicada a vantagem; no entanto, se um jogador executar um pontapé-livre rapidamente e um adversário, que se encontre a menos de 9,15 m da bola, a intercetar, o árbitro deve deixar o jogo prosseguir. Contudo, um adversário que deliberadamente impeça a execução de um pontapé-livre, deve o árbitro agir de que forma?
+- [x] a) Deve ser advertido por retardar o recomeço do jogo.
+- [ ] b) Deve avisar o jogador se reincidente exibir o cartão amarelo. 
+- [ ] c) Deve deixar prosseguir o jogo.
+- [ ] d) Deve advertir o jogador com um primeiro amarelo e depois um segundo. 
+
+### 55. Sobre os pontapés-livres opte pela hipótese incorreta:
+- [x] a) Um pontapé-livre pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [ ] b) Fazer fintas na execução de um pontapé-livre para confundir os adversários é permitido e faz parte do futebol.
+- [ ] c) Os pontapés-livres a favor da equipa defensora na sua área de baliza podem ser executados a partir de qualquer ponto nessa área.
+- [ ] d) Os pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área de baliza adversária são executados a partir de um ponto da linha da área de baliza perpendicular à linha de baliza.
