@@ -312,8 +312,8 @@
 
 ### 53. Se, na execução de um pontapé-livre, um jogador da equipa atacante estiver a menos de 1 metro de distância da barreira defensiva formada por três ou mais defensores, deverá ser:
 - [ ] a) Concedido um pontapé-livre direto à equipa defensora. 
-- [ ] b) Concedido um pontapé-livre indireto à equipa defensora. 
-- [x] c) Concedido um pontapé-livre indireto à equipa atacante.
+- [x] b) Concedido um pontapé-livre indireto à equipa defensora. 
+- [ ] c) Concedido um pontapé-livre indireto à equipa atacante.
 - [ ] d) Concedido um pontapé-livre direto à equipa atacante.
 
 ### 54. Se, ao executar um pontapé-livre, um jogador da equipa adversária se encontra mais próximo da bola que a distância regulamentar, o pontapé-livre deve ser repetido, a menos que possa ser aplicada a vantagem; no entanto, se um jogador executar um pontapé-livre rapidamente e um adversário, que se encontre a menos de 9,15 m da bola, a intercetar, o árbitro deve deixar o jogo prosseguir. Contudo, um adversário que deliberadamente impeça a execução de um pontapé-livre, deve o árbitro agir de que forma?
