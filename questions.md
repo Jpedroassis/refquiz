@@ -269,9 +269,9 @@
 - [ ] d) Na Lei 5.
 
 ### 46. O capitão da equipa deve usar a braçadeira emitida ou autorizada pelo organizador da competição relevante, ou uma braçadeira de cor única que também pode conter a palavra ou?
-- [x] a) "capitão" ou a letra "CA" ou uma tradução da mesma, que também deve ser uma única cor
+- [ ] a) "capitão" ou a letra "CA" ou uma tradução da mesma, que também deve ser uma única cor
 - [ ] b) "capitão" ou a letra "C" ou uma tradução da mesma, que deve ser cor diferente
-- [ ] c) "capitão" ou a letra "C" ou uma tradução da mesma, que também deve ser uma única cor
+- [x] c) "capitão" ou a letra "C" ou uma tradução da mesma, que também deve ser uma única cor
 - [ ] d) "capitão" ou a letra "D"
 
 ### 47. Está determinado que o árbitro:
