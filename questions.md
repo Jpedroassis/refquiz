@@ -827,10 +827,10 @@
 - [ ] d) O árbitro permite que o jogo continue. Trata-se de uma situação que não carece de qualquer intervenção ou reporte.
 
 ### 139. Um jogador troca de lugar com o seu guarda-redes pouco antes do fim do jogo sem a permissão do árbitro quando a bola está em jogo. Qual é a decisão do árbitro?
-- [ ] a) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem be advertidos (cartão amarelo) quando o jogo estiver sido interrompido.
+- [x] a) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem be advertidos (cartão amarelo) quando o jogo estiver sido interrompido.
 - [ ] b) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem ser avisados quando o jogo estiver sido interrompido.
 - [ ] c) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem ser expulsos (cartão vermelho) quando o jogo estiver sido interrompido.
-- [x] d) O árbitro permite que o jogo continue, mas se o jogador que agora é guarda-redes tocar na bola, será assinalado um pontapé de penálti.
+- [ ] d) O árbitro permite que o jogo continue, mas se o jogador que agora é guarda-redes tocar na bola, será assinalado um pontapé de penálti.
 
 ### 140. Um árbitro interrompe o jogo e adverte (cartão amarelo) um jogador que voltou a entrar em campo sem a sua autorização. Como é reiniciado o jogo?
 - [ ] a) Com um pontapé-livre indireto do local onde estava a bola quando o jogo foi interrompido.
