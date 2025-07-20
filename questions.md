@@ -213,3 +213,27 @@
 - [ ] b) Expulso.
 - [ ] c) Avisado.
 - [ ] d) Neste cado não deve o árbitro tomar qualquer decisão.
+
+### 37. Na marcação de um pontapé de penalti:
+- [ ] a) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se os jogadores estiverem sobre a linha limite da área.
+- [ ] b) A bola deve estar imóvel e perto da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+- [ ] c) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se houver protestos dos jogadores.
+- [x] d) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penalti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+
+### 38. De acordo com a Lei 4 e no que concerne ao equipamento, opte pela resposta correta:
+- [ ] a) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, deixam de ser uma parte obrigatória do equipamento.
+- [ ] b) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [ ] c) O árbitro é responsável pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [x] d) Os árbitros assistentes e quarto árbitro responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+
+### 39. Se um jogador atacante permanece imóvel entre os postes da baliza e no interior da baliza, o golo deve ser validado, a menos que:
+- [ ] a) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12 e 13 em simultâneo. Nesse caso, o jogo recomeça com pontapé-livre indireto, direto ou pontapé de penalti.
+- [ ] b) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça com pontapé-livre indireto ou direto.
+- [x] c) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça sempre com pontapé-livre indireto.
+- [ ] d) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 13. Nesse caso, o jogo recomeça com pontapé-livre indireto au direto.
+
+### 40. Sobre a bola ao solo, deve considerar correta a situação:
+- [ ] a) O lançamento de bola ao solo é executado pelo guarda-redes da equipa defensora na respetiva área de penalti caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido no interior da área de penalti.
+- [ ] b) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de penalti caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido perto da área de penalti.
+- [ ] c) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de baliza caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido no interior da área de penalti.
+- [x] d) O lançamento de bola ao solo é executado para o guarda-redes da equipa defensora na respetiva área de penalti caso o jogo tinha sido interrompido e: a bola esteja no interior da área de penalti ou o último toque na bola tenha acontecido no interior da área de penalti.
