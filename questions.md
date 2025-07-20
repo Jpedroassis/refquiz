@@ -585,3 +585,141 @@
 - [x] b) Deve ser repetido.
 - [ ] c) Se na baliza do executante, assinala pontapé de baliza.
 - [ ] d) Se na baliza da equipa defensora, valida o golo.
+
+### 99. O guarda-redes da equipa visitada, está a controlar a bola com os pés, no interior da sua área de penálti e com o jogo a decorrer. Fora do terreno de jogo encontra-se um colega seu a ser assistido. O referido guarda-redes espera mais de 12 segundos para se desfazer do contacto com a bola. O que decidir?
+- [ ] a) Assinalar pontapé-livre indireto e exibir o cartão amarelo.
+- [ ] b) Assinalar pontapé-livre indireto.
+- [x] c) Deixar o jogo prosseguir.
+- [ ] d) Apitar a efetuar uma bola ao solo.
+
+### 100. O jogador da equipa que está em desvantagem no marcador, remata a bola à baliza adversária e a mesma não atravessa totalmente a linha de baliza entre os postes. O que está convencionado fazer?
+- [ ] a) O árbitro deve apitar de imediato e assinalar golo.
+- [ ] b) Deve por força das dúvidas efetuar uma bola ao solo.
+- [x] c) O árbitro deve estabelecer contacto visual com o árbitro assistente e, se necessário, este deverá fazer um sinal discreto com a mão.
+- [ ] d) Interrompe o jogo e acerca-se do árbitro assistente mais próximo.
+
+### 101. A bola saiu pela linha lateral junto ao banco de suplentes da equipa A, contudo os jogadores e técnicos deram sinais de que a bola não saiu. O árbitro assistente indicou a saída da bola. Como deve proceder o árbitro?
+- [ ] a) Interrompe o jogo e executa uma bola ao solo no local onde estava a bola.
+- [x] b) Valida a indicação do árbitro assistente e manda executar lançamento lateral.
+- [ ] c) Existindo dúvidas efetua uma bola ao solo sobre a linha lateral.
+- [ ] d) Ordena a execução de um pontapé-livre.
+
+### 102. Cada parte deve ser prolongada para recuperar todo o tempo de jogo perdido ocasionado por diversas causas. Assim, das opções seguintes escolha a que não integra o grupo das possíveis situações a adicionar ao tempo a recuperar:
+- [ ] a) Celebração de golos.
+- [ ] b) Sanções disciplinares.
+- [ ] c) Substituições.
+- [x] d) Todos os recomeços de jogo.
+
+### 103. Em que lei do jogo, está indicado que “….no começo da segunda parte do jogo, as equipas trocam de campo e atacam na direção contrária”…?
+- [ ] a) 7.
+- [x] b) 8.
+- [ ] c) 9.
+- [ ] d) 10.
+
+### 104. Se o árbitro ficar incapacitado, haverá que considerar:
+- [x] a) O jogo pode continuar sob a direção dos outros elementos da equipa de arbitragem até que a bola deixe de estar em jogo.
+- [ ] b) O jogo deve ser interrompido de imediato.
+- [ ] c) O árbitro deverá dar o jogo por concluído.
+- [ ] d) É substituído pelo árbitro assistente mais categorizado.
+
+### 105. Antes das fichas de jogo serem entregues ao árbitro, um jogador cospe num adversário no aquecimento antes do início do jogo e no terreno de jogo. Situação observada pelos árbitros, qual é o procedimento correto?
+- [x] a) O infrator não pode constar da ficha ou participar no jogo e é relatado o facto à autoridade competente. O número de jogadores e substitutos não é reduzido. O cartão vermelho não é exibido, pois os cartões não podem ser exibidos até que o árbitro entre em campo para dar o início da partida.
+- [ ] b) O árbitro exibe o cartão vermelho e o jogador poderá ser substituído. Relata os factos à Federação Portuguesa de Futebol.
+- [ ] c) Não inicia o jogo e relato os factos à autoridade que o nomeou e efetua uma reunião com os delegados ao jogo.
+- [ ] d) Não inicia o jogo e relato os factos à autoridade que o nomeou e efetua uma reunião com os capitães das equipas.
+
+### 106. Quando a bola está em jogo na zona de meio do campo, o árbitro verifica que um jogador está caído no chão e interrompe o jogo porque pensou que o jogador está gravemente lesionado. O jogador sai de campo para tratamento. Como o jogo é reiniciado?
+- [ ] a) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador colega daquele que eventualmente estava lesionado.
+- [ ] b) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador da equipa atacante.
+- [ ] c) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para o guarda-redes da equipa defensora.
+- [x] d) O jogo é reiniciado com uma bola ao solo. O árbitro deixa cair a bola para um jogador da equipa que tocou a bola pela última vez.
+
+### 107. No decurso da primeira parte do jogo, não se verificaram situações que pudessem levar o árbitro a adicionar tempo de compensação, até porque tudo decorreu dentro da normalidade e o resultado estava em 0-0. Contudo no último minuto (44) da referida parte, eis que um jogador da equipa visitada ficou no solo e foi necessário retirar o mesmo com recurso a uma ambulância, pelo que o jogo foi reatado nove minutos depois. Quanto tempo deverá ser jogado para terminar a primeira parte?
+- [ ] a) Dez minutos.
+- [ ] b) Nove minutos.
+- [x] c) Um minuto.
+- [ ] d) Doze minutos.
+
+### 108. Um jogador que faça marcas não autorizadas no terreno de jogo deve:
+- [x] a) Ser advertido por comportamento antidesportivo. Se o árbitro se aperceber que tal ocorre durante o jogo, o jogador é advertido quando a bola deixe de estar em jogo.
+- [ ] b) Ser advertido por desrespeito pelo jogo. Se o árbitro se aperceber que tal ocorre durante o jogo, o jogador é advertido quando a bola deixe de estar em jogo.
+- [ ] c) Ser advertido por comportamento antidesportivo. Se o árbitro se aperceber que tal ocorre durante o jogo, o jogador é expulso quando a bola deixe de estar em jogo.
+- [ ] d) Ser advertido por conduta irregular. Se o árbitro se aperceber que tal ocorre durante o jogo, apita de imediato e adverte o jogador.
+
+### 109. Sobre a concussão cerebral, identifique a resposta correta:
+- [ ] a) As competições não poderão incluir de forma permanente a substituição adicional devido a concussão cerebral.
+- [x] b) As competições poderão incluir de forma permanente a substituição adicional devido a concussão cerebral de acordo com o protocolo previsto nas 'Notas e modificações'.
+- [ ] c) As competições poderão incluir de forma permanente a substituição adicional na forma que entenderem por concussão cerebral.
+- [ ] d) As competições não poderão incluir regras sobre a concussão cerebral.
+
+### 110. Um jogador que ultrapasse acidentalmente uma linha delimitadora do terreno de jogo, como parte da ação de uma jogada, a qual é visível para o árbitro e árbitro assistente que se encontra nas proximidades, leva a tomar alguma decisão?
+- [ ] a) A decisão a tomar é punir de imediato esta ação, mas só tecnicamente.
+- [x] b) A decisão a tomar é deixar prosseguir o jogo dado que o jogador não comete uma infração devido a essa ação.
+- [ ] c) A decisão a tomar é punir tecnicamente e disciplinarmente esta ação.
+- [ ] d) A decisão a tomar é expulsar o jogador e retomar com uma bola ao solo.
+
+### 111. Um jogador que entre no terreno de jogo sem autorização deverá ser advertido. E se o jogo tiver que ser interrompido para efetuar a advertência, como será o recomeço?
+- [ ] a) Este recomeça com um pontapé-livre indireto sobre a linha lateral onde entrou o jogador, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto (ou pontapé de penálti) no local da interferência.
+- [ ] b) O jogo recomeça com um pontapé-livre indireto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto (ou pontapé de penálti) no local da interferência.
+- [x] c) Este recomeça com um pontapé-livre direto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo.
+- [ ] d) Este recomeça com um pontapé-livre indireto no local onde a bola se encontrava aquando da interrupção, a menos que exista interferência no jogo. Neste caso será assinalado um pontapé-livre direto no local onde estava a bola no momento da interferência.
+
+### 112. Em termos de sanção, recomeço, dureza física e impacto tático, quando ocorrerem mais do que uma infração ao mesmo tempo, o árbitro deverá considerar para a análise que tipo de procedimento e a sua adequada decisão será qual?
+- [ ] a) Punir a primeira infração.
+- [ ] b) Punir a infração mais leve.
+- [ ] c) Punir a infração mais grave.
+- [x] d) Punir a infração mais favorável à equipa defensora.
+
+### 113. Dentro das competências que lhe estão distribuídas, o árbitro tem autoridade para exibir cartões amarelos ou vermelhos e, quando o regulamento da competição o permitir, expulsar temporariamente um jogador, desde que:
+- [x] a) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, exceto durante o intervalo, prolongamento e pontapés de penálti.
+- [ ] b) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, excluindo se houver prolongamento e pontapés de penálti.
+- [ ] c) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar.
+- [ ] d) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, prolongamento e pontapés de penálti.
+
+### 114. Os elementos da equipa de arbitragem atuam sob a direção do árbitro. Em caso de interferência indevida ou de conduta imprópria, o que decidir?
+- [x] a) O árbitro demite-os das suas funções e remete um relatório às autoridades competentes.
+- [ ] b) Efetua a sua substituição pelo quarto árbitro.
+- [ ] c) Dá o jogo por terminado.
+- [ ] d) O árbitro demite-os das suas funções e interrompe o jogo por um período não superior a 30 minutos.
+
+### 115. Um jogador que em posição de fora de jogo se movimente em direção à bola com a intenção de a jogar e sofrer falta antes de a jogar ou a tentar jogar, ou esteja a disputar a bola com um adversário, deve ser analisada pelo o árbitro e tomar a melhor decisão. Assim, das opções seguintes escolha a correta:
+- [x] a) A falta é penalizada, uma vez que tal ocorreu antes da infração de fora de jogo.
+- [ ] b) A falta não é penalizada, uma vez que tal ocorreu antes da infração de fora de jogo.
+- [ ] c) A falta é penalizada, uma vez que tal ocorreu depois da infração de fora de jogo.
+- [ ] d) A falta nunca é penalizada.
+
+### 116. Com a finalidade de determinar com mais clareza as infrações de mão na bola, o limite superior do braço coincide com:
+- [x] a) Ponto inferior da axila.
+- [ ] b) Ponto superior da axila.
+- [ ] c) Limite da manga.
+- [ ] d) Não há limite definido.
+
+### 117. Um jogador pode proteger a bola colocando-se entre um adversário e a bola, desde que a bola se encontre a uma distância jogável e que não agarre o adversário fazendo uso dos braços ou do corpo. Assim, escolha a opção correta em situações de proteção da bola e requeira análise do árbitro:
+- [ ] a) Se a bola se encontrar a uma distância jogável, o jogador pode ser carregado de forma mesmo correta por um adversário e o árbitro deixa seguir.
+- [ ] b) Se a bola se encontrar a uma distância não jogável, o jogador pode ser carregado de forma correta por um adversário.
+- [ ] c) Se a bola se encontrar a uma distância jogável, o jogador pode ser carregado de forma imprudente.
+- [x] d) Se a bola se encontrar a uma distância jogável, o jogador pode ser carregado de forma correta por um adversário.
+
+### 118. Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração não deliberada de mão na bola e se o árbitro assinalar penálti, o jogador será?
+- [ ] a) Expulso.
+- [ ] b) Avisado.
+- [ ] c) Expulso temporariamente.
+- [x] d) Advertido.
+
+### 119. Quando é cometida uma infração cometida por alguém presente na área técnica (suplente, jogador substituído, jogador expulso ou elemento oficial da equipa) e caso não seja possível identificar o infrator, o que decidir?
+- [ ] a) O elemento oficial presente na área técnica irá receber essa mesma sanção.
+- [ ] b) O suplente mais categorizado presente na área técnica irá receber essa mesma sanção.
+- [ ] c) O massagista ou fisioterapeuta presente na área técnica irá receber essa mesma sanção.
+- [x] d) O treinador principal presente na área técnica irá receber essa mesma sanção.
+
+### 120. Se o árbitro interrompe o jogo por uma infração cometida por um jogador, dentro ou fora do terreno de jogo contra um elemento estranho, o jogo recomeça com um lançamento de bola ao solo, exceto se for assinalado um pontapé-livre indireto pelo facto de o jogador ter saído do terreno de jogo sem autorização do árbitro. Nesse caso, o pontapé-livre indireto é executado em que local?
+- [x] a) No ponto da linha limite onde o jogador deixou o terreno de jogo.
+- [ ] b) Em qualquer ponto da linha lateral.
+- [ ] c) No local onde a bola se encontrava.
+- [ ] d) Junto do local onde está o infrator.
+
+### 121. Se for cometida uma infração fora do terreno de jogo por um jogador contra um jogador, substituído, suplente ou elemento oficial da própria equipa, o jogo recomeça de que forma?
+- [x] a) Com pontapé-livre indireto em cima da linha limite do terreno jogo no ponto mais próximo do local onde a infração aconteceu.
+- [ ] b) Com pontapé-livre indireto no local onde está o árbitro.
+- [ ] c) Com pontapé-livre indireto em cima da linha limite do terreno jogo e em qualquer ponto desta.
+- [ ] d) Com pontapé-livre direto em cima da linha limite do terreno jogo no ponto mais próximo do local onde a infração aconteceu.
