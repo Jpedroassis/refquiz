@@ -1025,10 +1025,10 @@
 - [x] d) O árbitro interromperá o jogo (a menos que seja aplicada a vantagem), expulsará o treinador com a exibição do cartão vermelho. Reiniciará o jogo com um pontapé-livre indireto no local da interferência.
 
 ### 172. Um jogador marca um golo, enquanto um jogador defensor está lesionado próximo da linha de baliza (no campo de jogo). Qual é a decisão do árbitro nestas situações?
-- [x] a) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. No entanto em situações de lesão não é de aplicar a regra estipulada na Lei 11, isto é o golo não é validado.
+- [ ] a) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. No entanto em situações de lesão não é de aplicar a regra estipulada na Lei 11, isto é o golo não é validado.
 - [ ] b) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado se o jogador estiver em pé apesar de lesionado.
 - [ ] c) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante está sempre em fora de jogo.
-- [ ] d) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. Não importa em que posição o defensor esteja: em pé, sentado, deitado etc.
+- [x] d) Se houver dois ou mais adversários mais próximos da linha de baliza, então o atacante não está em posição de fora de jogo e o golo é validado. Não importa em que posição o defensor esteja: em pé, sentado, deitado etc.
 
 ### 173. Um jogador abandonou o terreno de jogo para corrigir ou trocar de equipamento. Contudo reentrou com o jogo a decorrer sem a permissão do árbitro. Quais são as sanções e reinícios que devem ocorrer em face desta situação?
 - [ ] a) Um jogador deve ser advertido (cartão amarelo). Se o jogo foi interrompido para exibir o cartão amarelo, ele será reiniciado com: PLI no local onde estava a bola quando o jogo foi interrompido.
