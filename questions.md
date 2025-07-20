@@ -1038,9 +1038,9 @@
 
 ### 174. Um jogador faz de guarda-redes da sua equipa, ao colocar-se na baliza sobre a linha entre os postes e com o braço de forma deliberada, impede que a bola entre. Qual é a decisão do árbitro em termos de sanções técnicas?
 - [ ] a) O árbitro permite que o jogo continue sem qualquer sanção.
-- [ ] b) O árbitro assinala pontapé de penálti.
+- [x] b) O árbitro assinala pontapé de penálti.
 - [ ] c) O árbitro assinala pontapé-livre indireto.
-- [x] d) O árbitro assinala pontapé-livre direto.
+- [ ] d) O árbitro assinala pontapé-livre direto.
 
 ### 175. É falso afirmar:
 - [ ] a) O jogo é disputado por duas equipas compostas por um máximo de 11 jogadores em cada uma, dos quais um será o guarda-redes. Nenhum jogo pode começar ou continuar se uma das equipas tiver menos de sete jogadores.
