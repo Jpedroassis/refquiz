@@ -408,9 +408,9 @@
 
 ### 69. No momento do lançamento lateral, o executante deve:
 - [ ] a) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral e sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, perto do local onde ela saiu do terreno de jogo.
-- [ ] b) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
+- [x] b) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
 - [ ] c) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, os dois pés sobre a linha lateral ou sobre o terreno interior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
-- [x] d) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, um dos pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
+- [ ] d) Ficar de pé e de frente para o terreno de jogo; ter, pelo menos parcialmente, um dos pés sobre a linha lateral ou sobre o terreno exterior a esta linha. Lançar a bola com as duas mãos por detrás e por cima da cabeça, no local onde ela saiu do terreno de jogo.
 
 ### 70. Deve ser concedido tempo adicional para permitir que um pontapé de penalti seja executado e concluído no final de cada parte do jogo ou no final do prolongamento. Quando é concedido tempo adicional, o pontapé de penalti está concluído quando?
 - [x] a) Depois de o pontapé ter sido marcado, a bola termina o seu movimento, deixa de estar em jogo, é jogada por qualquer jogador (incluindo o executante) que não o guarda-redes que defende, ou o árbitro interrompe o jogo devido a uma infração por parte do executante ou da equipa do executante.
