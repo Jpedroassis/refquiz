@@ -495,3 +495,33 @@
 - [ ] b) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço ao alto por cima da cabeça e de imediato baixava o braço. Facto que não aconteceu.
 - [ ] c) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço. Depois manter o braço ao alto até que o livre viesse a ser executado e até que a bola toque noutro jogador. Facto que não aconteceu.
 - [ ] d) No pontapé-livre indireto (72 minutos a favorecer a equipa A) deveria ter levantado o braço por cima da cabeça. Depois manter o braço nessa posição até que o livre viesse a ser executado esperar para ver a posição dos árbitros assistentes. Facto que não aconteceu.
+
+### 84. Se um jogador atacante permanece imóvel entre os postes da baliza e no interior da baliza, o golo deve ser validado, a menos que:
+- [ ] a) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12 e 13 em simultâneo. Nesse caso, o jogo recomeça com pontapé-livre indireto, direto ou pontapé de penalti.
+- [x] b) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça com pontapé-livre indireto ou direto.
+- [ ] c) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 12. Nesse caso, o jogo recomeça sempre com pontapé-livre indireto.
+- [ ] d) O jogador cometa uma infração de fora de jogo ou uma infração à Lei 13. Nesse caso, o jogo recomeça com pontapé-livre indireto ou direto.
+
+### 85. Qualquer jogador que ataque um adversário na disputa da bola, de frente, de lado ou por trás, utilizando uma ou ambas as pernas, com força excessiva, pondo em perigo a integridade física do adversário, torna-se culpado de que tipo de falta?
+- [x] a) Grosseira.
+- [ ] b) Ligeira.
+- [ ] c) Defensiva/ligeira.
+- [ ] d) Dolosa.
+
+### 86. Na bola ao solo, quando é que a bola entra em jogo?
+- [ ] a) Depois de lançada pelo árbitro.
+- [ ] b) Depois de lançada para o guarda-redes.
+- [ ] c) Depois de tocada pelo jogador que está próximo.
+- [x] d) Todas as opções estão erradas.
+
+### 87. Um suplente entra no terreno de jogo sem autorização do árbitro. Com o jogo a decorrer, um adversário dentro da sua área de penalti agride-o. Que decisão deve tomar o árbitro?
+- [ ] a) Interrompe o jogo, expulsa o agressor por conduta violenta, adverte o suplente por entrar sem autorização e ordena a sua saída do terreno de jogo. Recomeça com livre indireto, contra a equipa do agressor, no local onde a bola se encontrava no momento da interrupção.
+- [ ] b) Interrompe o jogo, expulsa o agressor por conduta violenta, adverte o suplente por comportamento antidesportivo e ordena a sua saída do terreno de jogo. Recomeça com livre direto, contra a equipa do agressor, no local onde a bola se encontrava no momento da interrupção.
+- [x] c) Interrompe o jogo, expulsa o agressor por conduta violenta, adverte o suplente por entrar sem autorização e ordena a sua saída do terreno de jogo. Recomeça com pontapé de penalti contra a equipa do agressor.
+- [ ] d) Interrompe o jogo, expulsa o agressor por conduta violenta, adverte o suplente por comportamento antidesportivo e ordena a sua saída do terreno de jogo. Recomeça o jogo com uma bola ao solo.
+
+### 88. Identifique a resposta correta:
+- [ ] a) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador só é expulso numa zona central do campo.
+- [ ] b) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador será sempre advertido.
+- [ ] c) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador é punido com duplo amarelo.
+- [x] d) Quando um jogador impedir a equipa adversária de marcar um golo ou anular uma clara oportunidade de golo, cometendo uma infração deliberada de mão na bola, o jogador é expulso independentemente do local onde a infração foi cometida (exceto um guarda-redes dentro de sua área de penalti).
