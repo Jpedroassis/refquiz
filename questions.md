@@ -323,10 +323,10 @@
 - [ ] d) Deve advertir o jogador com um primeiro amarelo e depois um segundo. 
 
 ### 55. Sobre os pontapés-livres opte pela hipótese incorreta:
-- [x] a) Um pontapé-livre pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [ ] a) Um pontapé-livre pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
 - [ ] b) Fazer fintas na execução de um pontapé-livre para confundir os adversários é permitido e faz parte do futebol.
 - [ ] c) Os pontapés-livres a favor da equipa defensora na sua área de baliza podem ser executados a partir de qualquer ponto nessa área.
-- [ ] d) Os pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área de baliza adversária são executados a partir de um ponto da linha da área de baliza perpendicular à linha de baliza.
+- [x] d) Os pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área de baliza adversária são executados a partir de um ponto da linha da área de baliza perpendicular à linha de baliza.
 
 ### 56. Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa começar um jogo com menos de 11 jogadores:
 - [ ] a) Os jogadores e suplentes cujos nomes foram indicados no alinhamento inicial não podem tomar parte no jogo quando chegarem.
