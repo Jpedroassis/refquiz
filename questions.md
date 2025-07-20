@@ -723,3 +723,165 @@
 - [ ] b) Com pontapé-livre indireto no local onde está o árbitro.
 - [ ] c) Com pontapé-livre indireto em cima da linha limite do terreno jogo e em qualquer ponto desta.
 - [ ] d) Com pontapé-livre direto em cima da linha limite do terreno jogo no ponto mais próximo do local onde a infração aconteceu.
+
+### 122. Pode ser marcado um golo à equipa adversária diretamente a partir do pontapé de saída, se a bola entrar diretamente na baliza do executante?
+- [x] a) É concedido um pontapé de canto a favor da equipa adversária.
+- [ ] b) É repetido o pontapé.
+- [ ] c) É assinalado uma bola ao solo.
+- [ ] d) É concedido um pontapé de baliza.
+
+### 123. Pontapé de penálti. O executante sem cometer nenhuma infração, pontapeia a bola, mas antes já o guarda-redes se tinha adiantado cerca de um metro para a frente. A bola bateu no poste e saiu pela linha lateral. Que decisão deve ser tomada?
+- [ ] a) Se o guarda-redes teve impacto claro no executante o pontapé de penálti deve ser repetido e o guarda-redes avisado, se for a primeira infração.
+- [x] b) Se o guarda-redes teve impacto claro no executante o pontapé de penálti deve ser repetido e o guarda-redes advertido se for reincidente ou avisado se for a primeira infração.
+- [ ] c) O jogo deve recomeçar com um lançamento lateral e o guarda-redes avisado se for a primeira infração.
+- [ ] d) Se o guarda-redes não teve impacto claro no executante o pontapé de penálti deve ser repetido.
+
+### 124. No decurso do jogo, um jogador perdeu uma bota e com ela na mão rasteirou um adversário de forma negligente. Que decisão deve o árbitro tomar?
+- [ ] a) Interrompe o jogo, expulsa esse jogador e recomeça com lançamento de bola ao solo, no local onde a bola se encontrava no momento da interrupção.
+- [ ] b) Interrompe o jogo, adverte esse jogador e pune a sua equipa com um pontapé-livre indireto no local onde se encontrava a bola no momento da interrupção.
+- [x] c) Interrompe o jogo, adverte esse jogador e pune a sua equipa com um pontapé-livre direto ou pontapé de penálti.
+- [ ] d) Nenhuma das respostas está correta.
+
+### 125. Um jogador reclama por palavras e gestos perante o árbitro a exibição de um cartão amarelo para um adversário. Como agir?
+- [ ] a) Avisar que não pode proceder daquela forma.
+- [x] b) Exibir o cartão amarelo mesmo que seja a primeira vez.
+- [ ] c) Exibir o cartão amarelo se for reincidente.
+- [ ] d) Nestas circunstâncias é sempre expulso.
+
+### 126. Um jogador efetua o pontapé de saída sem que o árbitro tenha dado sinal, contudo a bola vai para um adversário que rapidamente com a bola controlada introduz esta na baliza do jogador que efetuou o pontapé de saída. Qual a decisão correta?
+- [ ] a) Valida o golo.
+- [ ] b) Assinala pontapé de baliza.
+- [x] c) Manda repetir o pontapé de saída.
+- [ ] d) Efetua uma bola ao solo.
+
+### 127. Em situações de confrontações em grupo de jogadores, o árbitro assistente mais próximo pode penetrar no terreno para ajudar o árbitro. O outro árbitro assistente deve observar e tomar nota dos pormenores do incidente. E o quarto árbitro (se nomeado)?
+- [ ] a) O quarto árbitro deve aproximar-se do árbitro.
+- [ ] b) O quarto árbitro deve correr para dentro do terreno de jogo, para a zona de conflito.
+- [x] c) O quarto árbitro deve permanecer nas proximidades das áreas técnicas.
+- [ ] d) O quarto árbitro deve permanecer de costas para o terreno de jogo.
+
+### 128. Se uma infração é cometida contra um jogador que já se encontra em posição de fora de jogo a jogar ou a tentar jogar a bola, ou a disputar a bola com um adversário, como agir?
+- [ ] a) Deve ser sancionada a infração mais grave.
+- [ ] b) A infração de fora de jogo é penalizada, uma vez que ocorreu antes da outra infração.
+- [ ] c) Se o atacante não estiver a disputar a bola, não deve sancionar qualquer infração.
+- [x] d) A infração de fora de jogo não é penalizada.
+
+### 129. A primeira ação de um árbitro assistente para assinalar um fora de jogo é levantar a sua bandeira (usando a mão direita, a fim de ter um melhor campo de visão). Em seguida, se o árbitro tiver interrompido o jogo, deve usar a bandeira para indicar a zona do terreno de jogo em que ocorreu a infração. Se o árbitro não vir imediatamente a bandeira, o árbitro assistente deve:
+- [x] a) Manter o sinal até que o árbitro se aperceba ou até que a bola seja claramente controlada pela equipa defensora.
+- [ ] b) Baixar logo a bandeira.
+- [ ] c) Deve manter a bandeira visível até que o árbitro veja e tome uma decisão.
+- [ ] d) Todas as hipóteses não estão corretas.
+
+### 130. Como é identificada a Lei 6?
+- [x] a) Os outros elementos da equipa de arbitragem.
+- [ ] b) Os árbitros assistentes.
+- [ ] c) Árbitro assistente e quarto árbitro.
+- [ ] d) Fiscal de linha e de baliza.
+
+### 131. “Tackle” e “rasteira” são duas faltas diferentes. Do ponto de vista da posição corporal, normalmente qual é a diferença entre elas?
+- [x] a) A diferença tem a ver com o estado do terreno.
+- [ ] b) A diferença é que normalmente a rasteira é feita de pé e o tackle deslizando pelo terreno.
+- [ ] c) A diferença tem a ver com a intensidade de abordagem ao lance.
+- [ ] d) A diferença é que normalmente a rasteira é feita de forma deslizante e o tackle de forma acrobática.
+
+### 132. Após a saudação e antes do início do jogo, um jogador foi expulso por conduta violenta. Que procedimento deve ser adotado por essa equipa?
+- [ ] a) Pode completar a equipa um suplente inscrito e este pode ser substituído por um atleta que se encontre nas imediações do terreno de jogo.
+- [x] b) Pode ser substituído por um suplente inscrito, mas a equipa fica com menos uma substituição.
+- [ ] c) Pode completar a equipa com um suplente inscrito, não contando como substituição e ficando a equipa com menos um suplente.
+- [ ] d) A equipa inicia o jogo com 10 jogadores.
+
+### 133. No decorrer do jogo, um jogador suplente entrou na sala de operação de vídeo (VOR). O árbitro é informado quando o jogo foi interrompido. Perante tal situação qual o procedimento correto?
+- [ ] a) O suplente é expulso (mas não lhe é exibido o cartão vermelho), deve deixar a área técnica e pode ser substituído. O número de substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+- [ ] b) O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e pode ser substituído. O número de substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+- [x] c) O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e não pode ser substituído. O número de substituições que a equipa tem ainda para fazer não é reduzido por esse facto.
+- [ ] d) O suplente é expulso (exibição do cartão vermelho), deve deixar a área técnica e não pode ser substituído. O número de substituições que a equipa tem ainda para fazer é reduzido por esse facto.
+
+### 134. A bola saiu do terreno de jogo, um suplente (equipa A) chuta a bola para longe para retardar o lançamento de linha lateral pelos adversários. O suplente já anteriormente tinha sido advertido por outra infração. Das opções seguintes qual a decisão mais correta?
+- [ ] a) O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é expulso, deve abandonar a área técnica e pode ser substituído. O número de substituições que a equipa ainda tem não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa B).
+- [ ] b) O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é expulso, deve abandonar a área técnica e não pode ser substituído. O número de substituições que a equipa ainda tem não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa A).
+- [x] c) O árbitro exibe ao suplente um segundo cartão amarelo e o respetivo cartão vermelho. O suplente, pois, por isso é expulso, deve abandonar a área técnica e não pode ser substituído. O número de substituições que a equipa ainda tem não é reduzido. O jogo é reiniciado de acordo com a decisão anterior (o lançamento lateral para o equipa B).
+- [ ] d) O árbitro exibe ao suplente o cartão vermelho. O número de substituições que a equipa ainda tem não é reduzido. O jogo é reiniciado com uma bola ao solo.
+
+### 135. Antes que das fichas de jogo serem entregues, um jogador deu um soco num adversário (problemas na sequência de um jogo anterior). Isto teve lugar no aquecimento pré-jogo e no interior do terreno de jogo. O quarto árbitro verificou a situação e informou o árbitro. Qual a decisão?
+- [ ] a) O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal situação. O número de jogadores e suplentes não é reduzido. Um cartão vermelho é exibido.
+- [x] b) O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal situação. O número de jogadores e suplentes não é reduzido. Um cartão vermelho não é exibido.
+- [ ] c) O infrator não pode ser indicado na ficha de jogo ou jogar nesse jogo e é reportado à autoridade competente tal situação. O número de jogadores e suplentes é reduzido. Um cartão vermelho não é exibido.
+- [ ] d) O infrator pode ser indicado na ficha de jogo ou jogar nesse jogo, mas é reportado à autoridade competente tal situação.
+
+### 136. Um espectador afeto à equipa visitada, entra no terreno de jogo, interfere com um jogador que corre com a bola e consegue chutar a bola para longe. Qual é a decisão correta?
+- [x] a) O árbitro deve parar o jogo e mandar retirar a pessoa. Depois disso, o jogo reinicia com uma bola ao solo para um jogador da equipa que tocou a bola pela última vez antes do espectador chutar a bola.
+- [ ] b) O árbitro deve parar o jogo e mandar retirar a pessoa. Depois disso, o jogo reinicia com uma bola ao solo no local onde o espectador entrou em campo.
+- [ ] c) O árbitro deve parar o jogo e mandar retirar a pessoa e recomeça o jogo com um PLI no local onde estava a bola.
+- [ ] d) O árbitro deve parar o jogo e mandar e dar o jogo por concluído.
+
+### 137. Teve lugar uma substituição no final da 2ª parte e o início do prolongamento. O árbitro não é informado e só toma conta depois que o prolongamento teve o seu início. Qual é o procedimento correto?
+- [ ] a) O suplente não pode continuar em jogo, mas nenhuma ação disciplinar é tomada e o assunto é relatado às autoridades competentes.
+- [ ] b) O suplente pode continuar em jogo, é advertido e deve ser efetuado o processo de substituição correto.
+- [x] c) O suplente pode continuar em jogo, nenhuma ação disciplinar é tomada e o assunto é relatado às autoridades competentes.
+- [ ] d) Nenhuma das hipóteses está correta.
+
+### 138. Logo depois do início da 2ª parte, o árbitro toma conhecimento que durante o intervalo um jogador trocou de lugar e a camisola com o seu guarda-redes sem a autorização do árbitro. Qual é a decisão do árbitro?
+- [x] a) O árbitro permite que o jogo continue. Nenhum jogador é advertido. O assunto é relatado após a partida às autoridades apropriadas.
+- [ ] b) O árbitro permite que o jogo continue. Mas ambos os jogadores serão advertidos. O assunto é relatado após a partida às autoridades apropriadas.
+- [ ] c) O árbitro permite que o jogo continue. O Guarda-Redes é advertido. O assunto é relatado após a partida às autoridades apropriadas.
+- [ ] d) O árbitro permite que o jogo continue. Trata-se de uma situação que não carece de qualquer intervenção ou reporte.
+
+### 139. Um jogador troca de lugar com o seu guarda-redes pouco antes do fim do jogo sem a permissão do árbitro quando a bola está em jogo. Qual é a decisão do árbitro?
+- [ ] a) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem be advertidos (cartão amarelo) quando o jogo estiver sido interrompido.
+- [ ] b) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem ser avisados quando o jogo estiver sido interrompido.
+- [ ] c) O árbitro permite que o jogo continue se o jogador tiver trocado de camisola. Depois ambos os jogadores devem ser expulsos (cartão vermelho) quando o jogo estiver sido interrompido.
+- [x] d) O árbitro permite que o jogo continue, mas se o jogador que agora é guarda-redes tocar na bola, será assinalado um pontapé de penálti.
+
+### 140. Um árbitro interrompe o jogo e adverte (cartão amarelo) um jogador que voltou a entrar em campo sem a sua autorização. Como é reiniciado o jogo?
+- [x] a) Com um pontapé-livre indireto do local onde estava a bola quando o jogo foi interrompido.
+- [ ] b) Com um pontapé-livre direto no local onde estava a bola quando o jogo foi interrompido.
+- [ ] c) Com uma bola ao solo no local onde estava a bola no momento da interrupção.
+- [ ] d) Com um pontapé-livre direto no local da interferência ou com um livre indireto do local onde estava a bola quando o jogo foi interrompido (se não houve interferência).
+
+### 141. O árbitro foi nomeado para um jogo da Taça de Portugal (sénior), contudo verificou-se o atraso de uma das equipas. Assim, das opções que se seguem escolha a correta:
+- [x] a) Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a realização do jogo, o árbitro deve aguardar o tempo que entender razoável de acordo com as circunstâncias em causa e atendendo ao interesse na respetiva realização.
+- [ ] b) Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a realização do jogo, o árbitro deve aguardar um período de 30 minutos.
+- [ ] c) Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável, se a FPF estiver devidamente informada do sucedido o jogo será realizado em data a combinar entre os clubes.
+- [ ] d) Nos casos em que se verificar o atraso de um Clube para iniciar o jogo por causa que não lhe seja imputável (exemplo avaria de viatura), se a FPF estiver devidamente informada do sucedido e se encontrarem preenchidas todas as condições para a realização do jogo, o árbitro deve aguardar 45 minutos, findo o qual se as equipas não tiverem em terreno de jogo, não haverá lugar à sua realização.
+
+### 142. Ainda no jogo da Taça de Portugal (sénior) quem pode ter acesso ao balneário da equipa de arbitragem?
+- [ ] a) Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da secção para a área não profissional do Conselho de Arbitragem e da Direção da FPF; d) Elementos das forças de segurança.
+- [x] b) Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da secção para a área não profissional do Conselho de Arbitragem; d) Elementos das forças de segurança.
+- [ ] c) Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Membros da secção para a área não profissional do Conselho de Arbitragem; d) Elementos das forças de segurança e e) Membros da Secção de Classificações.
+- [ ] d) Antes do início do jogo e após o seu termo, têm acesso ao balneário da equipa de arbitragem, para desempenho das funções respetivas: a) Delegados dos Clubes participantes; b) Delegados de jogo da FPF; c) Observador do árbitro; d) Elementos das forças de segurança.
+
+### 143. Sobre a hidratação nos jogos do campeonato de Portugal, haverá a considerar:
+- [ ] a) É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 30º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de compensação de cada parte.
+- [ ] b) É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 35º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de compensação de cada parte.
+- [x] c) É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 32º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, com a autorização do árbitro, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo mediante indicação do árbitro; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de compensação de cada parte.
+- [ ] d) É permitida uma pausa para hidratação em cada parte, nos jogos disputados com temperatura igual ou superior a 32º C, em conformidade com as Leis do Jogo e nos seguintes termos: a) os clubes assim acordem, na reunião de organização de jogo; b) terá lugar por volta dos 30’ e dos 75’ de jogo; c) terá duração de até 1 minuto e a respetiva duração será adicionada ao tempo de compensação de cada parte.
+
+### 144. O jogo é reiniciado com uma bola ao solo para a equipa A e um jogador pontapeou a bola antes que ela tivesse tocado no solo. Isso é permitido?
+- [x] a) Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), o árbitro efetuou novamente a bola ao solo para a equipa A.
+- [ ] b) Sim, porque a bola está em jogo logo após o seu lançamento pelo árbitro.
+- [ ] c) Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), o árbitro efetuou novamente a bola ao solo para a equipa B.
+- [ ] d) Não, porque a bola não está em jogo até tocar no solo. Se a bola tocar no jogador primeiro (antes de tocar no solo), o árbitro assinala um pontapé-livre indireto.
+
+### 145. Após um pontapé de baliza, o guarda-redes executou o referido pontapé. A bola toca o árbitro fora da área de penalti, permanece no campo de jogo e volta em direção à baliza. O guarda-redes segura a bola para evitar que ela entre na sua baliza. Qual é a decisão correta?
+- [ ] a) O árbitro assinala pontapé-livre indireto.
+- [x] b) O árbitro ordena uma bola ao solo.
+- [ ] c) O árbitro deixa seguir.
+- [ ] d) Assinala pontapé-livre indireto e adverte o guarda-redes.
+
+### 146. Vai ter lugar uma bola ao solo, um jogador, que não é o jogador para quem a bola é disputada, chega mais perto do que os 4 metros necessários da bola quando ela está sendo disputada. Qual é a decisão do árbitro?
+- [ ] a) O árbitro exigirá que o jogador recue a distância necessária e avisa que não retoma o jogo se ele voltar a aproximar-se.
+- [ ] b) O árbitro perante tal deve advertir de imediato o infrator (cartão amarelo, CA).
+- [ ] c) O árbitro expulsa o jogador que se aproximou indevidamente do local.
+- [x] d) O árbitro exigirá que o jogador recue a distância necessária; se o jogador não o fizer, será advertido (cartão amarelo, CA).
+
+### 147. A 1ª parte do jogo está prestes a concluir-se com o resultado em 0-0. Não teve qualquer paragem a merecer uma contagem de tempo adicional nos primeiros 45 minutos do jogo. Eis que aos 44 minutos um jogador da equipa B fica lesionado com gravidade, após uma queda, devido ao estado escorregadio do terreno de jogo. Passados 8 minutos o jogo foi retomado. O árbitro solicitou ao AA1 a sua opinião do tempo adicional a conceder. Das opções aqui referidas, escolha a mais correta para a tomada de decisão do árbitro:
+- [ ] a) Jogar mais 9 minutos.
+- [ ] b) Jogar mais 8 minutos.
+- [x] c) Jogar mais 1 minuto.
+- [ ] d) Jogar mais 10 minutos.
+
+### 148. O jogador da equipa defensora no interior da sua área de penalti, com o pé passou a bola ao seu guarda-redes, o árbitro estava distraído, solicitou a colaboração do AA2 que estava perto do local sem, contudo, interromper o mesmo. Qual a informação do AA para uma correta leitura de jogo por parte do árbitro?
+- [x] a) Deixar seguir o jogo.
+- [ ] b) Devido à distração o melhor é uma bola ao solo.
+- [ ] c) Adverte o jogador defensor.
+- [ ] d) Adverte ambos os jogadores.
