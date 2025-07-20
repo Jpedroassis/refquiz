@@ -293,10 +293,10 @@
 - [ ] d) Disposição contrária estipulada no regulamento da competição ou se o Conselho de Arbitragem determinar o contrário.
 
 ### 50. Na bola ao solo se esta entra na baliza sem tocar em pelo menos dois jogadores, o jogo recomeça como?
-- [x] a) Pontapé de baliza.
+- [ ] a) Pontapé de baliza.
 - [ ] b) Pontapé de canto.
 - [ ] c) Repetição da bola ao solo.
-- [ ] d) Depende, pelo que as hipóteses a) e b) podem ser corretas em face das circunstâncias.
+- [x] d) Depende, pelo que as hipóteses a) e b) podem ser corretas em face das circunstâncias.
 
 ### 51. Os penaltis têm lugar após o jogo terminar e, salvo estipulação em contrário, aplicam-se as Leis do Jogo em questão. Nas alíneas sobre este processo, opte pela mais correta:
 - [ ] a) Os jogadores expulsos durante o jogo poderão participar. Por outro lado, os avisos e os cartões amarelos, registados durante o jogo a jogadores e a elementos oficiais das equipas serão consideradas nos penaltis. 
