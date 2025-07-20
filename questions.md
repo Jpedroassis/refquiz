@@ -762,9 +762,9 @@
 
 ### 128. Se uma infração é cometida contra um jogador que já se encontra em posição de fora de jogo a jogar ou a tentar jogar a bola, ou a disputar a bola com um adversário, como agir?
 - [ ] a) Deve ser sancionada a infração mais grave.
-- [ ] b) A infração de fora de jogo é penalizada, uma vez que ocorreu antes da outra infração.
+- [x] b) A infração de fora de jogo é penalizada, uma vez que ocorreu antes da outra infração.
 - [ ] c) Se o atacante não estiver a disputar a bola, não deve sancionar qualquer infração.
-- [x] d) A infração de fora de jogo não é penalizada.
+- [ ] d) A infração de fora de jogo não é penalizada.
 
 ### 129. A primeira ação de um árbitro assistente para assinalar um fora de jogo é levantar a sua bandeira (usando a mão direita, a fim de ter um melhor campo de visão). Em seguida, se o árbitro tiver interrompido o jogo, deve usar a bandeira para indicar a zona do terreno de jogo em que ocorreu a infração. Se o árbitro não vir imediatamente a bandeira, o árbitro assistente deve:
 - [x] a) Manter o sinal até que o árbitro se aperceba ou até que a bola seja claramente controlada pela equipa defensora.
@@ -779,8 +779,8 @@
 - [ ] d) Fiscal de linha e de baliza.
 
 ### 131. “Tackle” e “rasteira” são duas faltas diferentes. Do ponto de vista da posição corporal, normalmente qual é a diferença entre elas?
-- [x] a) A diferença tem a ver com o estado do terreno.
-- [ ] b) A diferença é que normalmente a rasteira é feita de pé e o tackle deslizando pelo terreno.
+- [ ] a) A diferença tem a ver com o estado do terreno.
+- [x] b) A diferença é que normalmente a rasteira é feita de pé e o tackle deslizando pelo terreno.
 - [ ] c) A diferença tem a ver com a intensidade de abordagem ao lance.
 - [ ] d) A diferença é que normalmente a rasteira é feita de forma deslizante e o tackle de forma acrobática.
 
