@@ -437,8 +437,8 @@
 - [ ] d) Que dá um poder do árbitro na sua aplicação, independentemente da equipa que comete a infração e posterior vantagem derivada do lance em si.
 
 ### 74. Quando um jogador mostra falta de atenção ou consideração ao entrar sobre um adversário, ou que atua sem precaução. Não é necessária qualquer sanção disciplinar. Esta ação nas leis do jogo como é conhecida?
-- [x] a) Negligente.
-- [ ] b) Imprudente.
+- [ ] a) Negligente.
+- [x] b) Imprudente.
 - [ ] c) Falta de respeito pelo jogo.
 - [ ] d) Força excessiva.
 
