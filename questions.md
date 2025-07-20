@@ -1045,8 +1045,8 @@
 ### 175. É falso afirmar:
 - [ ] a) O jogo é disputado por duas equipas compostas por um máximo de 11 jogadores em cada uma, dos quais um será o guarda-redes. Nenhum jogo pode começar ou continuar se uma das equipas tiver menos de sete jogadores.
 - [ ] b) A substituição considera-se consumada no momento em que o suplente penetra no terreno de jogo; a partir desse momento, o jogador que saiu torna-se jogador substituído e o suplente torna-se jogador e pode efetuar qualquer recomeço.
-- [x] c) O treinador e outros elementos oficiais indicados na ficha de jogo (com exceção de jogadores ou suplentes) são considerados como elementos oficiais da equipa. Qualquer pessoa que não conste da ficha de jogo de uma equipa como jogador, suplente, técnico ou dirigente é considerado um elemento estranho.
-- [ ] d) Se um jogador perder acidentalmente uma bota ou uma caneleira, deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado.
+- [ ] c) O treinador e outros elementos oficiais indicados na ficha de jogo (com exceção de jogadores ou suplentes) são considerados como elementos oficiais da equipa. Qualquer pessoa que não conste da ficha de jogo de uma equipa como jogador, suplente, técnico ou dirigente é considerado um elemento estranho.
+- [x] d) Se um jogador perder acidentalmente uma bota ou uma caneleira, deve substituí-la logo que possível e, o mais tardar, na paragem de jogo seguinte; se, antes de o fazer, jogar a bola e/ou marcar um golo, o golo não deve ser validado.
 
 ### 176. No que respeita a poderes e deveres do árbitro, qual a alínea que está incorreta:
 - [ ] a) Velar pela aplicação das Leis do Jogo.
