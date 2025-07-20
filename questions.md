@@ -327,3 +327,69 @@
 - [ ] b) Fazer fintas na execução de um pontapé-livre para confundir os adversários é permitido e faz parte do futebol.
 - [ ] c) Os pontapés-livres a favor da equipa defensora na sua área de baliza podem ser executados a partir de qualquer ponto nessa área.
 - [ ] d) Os pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área de baliza adversária são executados a partir de um ponto da linha da área de baliza perpendicular à linha de baliza.
+
+### 56. Se o regulamento da competição determinar que devem ser indicados os nomes de todos os jogadores e suplentes e uma equipa começar um jogo com menos de 11 jogadores:
+- [ ] a) Os jogadores e suplentes cujos nomes foram indicados no alinhamento inicial não podem tomar parte no jogo quando chegarem.
+- [x] b) Somente os jogadores e suplentes cujos nomes foram indicados no alinhamento inicial podem tomar parte no jogo quando chegarem.
+- [ ] c) Os jogadores e suplentes cujos nomes foram indicados no alinhamento inicial podem tomar parte no jogo, mas no decorrer da 2ª parte.
+- [ ] d) Todas as hipóteses estão erradas.
+
+### 57. Pode ser marcado um golo à equipa adversária diretamente a partir do pontapé de saída. Se a bola entrar diretamente na baliza do executante?
+- [x] a) É concedido um pontapé de canto a favor da equipa adversária.
+- [ ] b) É repetido o pontapé.
+- [ ] c) É assinalado uma bola ao solo.
+- [ ] d) É concedido um pontapé de baliza.
+
+### 58. Pontapé de penalti. O executante, sem cometer nenhuma infração, pontapeia a bola, mas antes já o guarda-redes se tinha adiantado cerca de um metro para a frente. A bola bateu no poste e saiu pela linha lateral. Que decisão deve ser tomada?
+- [ ] a) Se o guarda-redes teve impacto claro no executante, o pontapé de penalti deve ser repetido e o guarda-redes avisado, se for a primeira infração.
+- [x] b) Se o guarda-redes teve impacto claro no executante, o pontapé de penalti deve ser repetido e o guarda-redes advertido se for reincidente ou avisado se for a primeira infração.
+- [ ] c) O jogo deve recomeçar com um lançamento lateral e o guarda-redes avisado se for a primeira infração.
+- [ ] d) Se o guarda-redes não teve impacto claro no executante, o pontapé de penalti deve ser repetido.
+
+### 59. No decurso do jogo, um jogador perdeu uma bota e com ela na mão rasteirou um adversário de forma negligente. Que decisão deve o árbitro tomar?
+- [ ] a) Interrompe o jogo, expulsa esse jogador e recomeça o jogo com um lançamento de bola ao solo, no local onde a bola se encontrava no momento da interrupção.
+- [ ] b) Interrompe o jogo, adverte esse jogador e pune a sua equipa com um pontapé-livre indireto no local onde se encontrava a bola no momento da interrupção.
+- [x] c) Interrompe o jogo, adverte esse jogador e pune a sua equipa com um pontapé-livre direto ou pontapé de penalti.
+- [ ] d) Nenhuma das respostas está correta.
+
+### 60. Após a saudação e antes do início do jogo, um jogador foi expulso por conduta violenta. Que procedimento deve ser adotado por essa equipa?
+- [ ] a) Pode completar a equipa com um suplente inscrito e este pode ser substituído por um atleta que se encontre nas imediações do terreno de jogo.
+- [ ] b) Pode completar a equipa com um suplente inscrito, mas a equipa fica com menos uma substituição.
+- [x] c) Pode completar a equipa com um suplente inscrito, não contando como substituição e ficando a equipa com menos um suplente.
+- [ ] d) A equipa inicia o jogo com 10 jogadores.
+
+### 61. Um jogador reclama por palavras e gestos perante o árbitro a exibição de um cartão amarelo para um adversário. Como agir?
+- [ ] a) Avisar que não pode proceder daquela forma.
+- [ ] b) Exibir o cartão amarelo mesmo que seja a primeira vez.
+- [x] c) Exibir o cartão amarelo se for reincidente.
+- [ ] d) Nestas circunstâncias é sempre expulso.
+
+### 62. Antes dos penaltis terem início, a menos que existam outros fatores a ter em consideração (por exemplo, condições do terreno, segurança, etc.), o árbitro efetua um sorteio por meio de uma moeda para tomar que decisão?
+- [ ] a) Qual a baliza em que vão ser executados os pontapés, só se podendo mudar de baliza por razões de segurança.
+- [ ] b) Qual o pontapé inicial e pode mudar de baliza por razões de segurança ou no caso de a baliza ou do terreno de jogo ficarem inutilizáveis.
+- [x] c) Qual a baliza em que vão ser executados os pontapés, só se podendo mudar de baliza por razões de segurança ou no caso de a baliza ou do terreno de jogo ficarem inutilizáveis.
+- [ ] d) Todas as respostas estão erradas.
+
+### 63. Um jogador pretende ser ele a defender o penalti assinalado pelo árbitro no último minuto do jogo em troca com o seu guarda-redes. Tal é permitido?
+- [x] a) Sim, desde que o árbitro seja informado antes da alteração ser feita e que a alteração seja feita durante a interrupção do jogo antes da execução do penalti.
+- [ ] b) Tal não é permitido.
+- [ ] c) Sim, desde que o seu colega esteja lesionado.
+- [ ] d) Sim, só quando o resultado já esteja definido.
+
+### 64. Um jogador efetua o pontapé de saída sem que o árbitro tenha dado sinal, contudo a bola vai para um adversário que rapidamente com a bola controlada introduz esta na baliza do jogador que efetuou o pontapé de saída. Qual a decisão correta?
+- [ ] a) Valida o golo.
+- [ ] b) Assinala pontapé de baliza.
+- [x] c) Manda repetir o pontapé de saída.
+- [ ] d) Efetua uma bola ao solo.
+
+### 65. A linguagem corporal é uma ferramenta que o árbitro usa com que finalidade?
+- [ ] a) Para determinar a gestão do jogo.
+- [ ] b) Para vincar a sua personalidade.
+- [x] c) Para ajudar a controlar o jogo, como também mostrar autoridade e autodomínio.
+- [ ] d) Para controlar os jogadores.
+
+### 66. Em situações de confrontações em grupo de jogadores, o árbitro assistente mais próximo pode penetrar no terreno para ajudar o árbitro. O outro árbitro assistente deve observar e tomar nota dos pormenores do incidente. E se houver quarto árbitro?
+- [x] a) O quarto árbitro deve permanecer nas proximidades das áreas técnicas.
+- [ ] b) Deve correr para a zona do conflito.
+- [ ] c) Deve recolher aos balneários.
+- [ ] d) O quarto árbitro irá para junto do árbitro.
