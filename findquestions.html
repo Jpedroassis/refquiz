@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Buscar Pergunta</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="question-box">
+    <h1>Buscar Pergunta</h1>
+    <label for="questionNumber">Digite o número da pergunta:</label>
+    <input type="number" id="questionNumber" min="1" />
+    <button onclick="buscarPergunta()">Buscar</button>
+    <div id="resultado"></div>
+    <div style="margin-top: 2rem; text-align: center;">
+      <a href="index.html" class="info-button">⬅️ Voltar à página inicial</a>
+    </div>
+  </div>
+
+  <script>
+    async function buscarPergunta() {
+      const num = document.getElementById('questionNumber').value;
+      const resultadoDiv = document.getElementById('resultado');
+      const response = await fetch('questions.md');
+      const markdown = await response.text();
+
+      const regex = new RegExp(`### ${num}\\..*?(?=### \\d+\\.|$)`, 'gs');
+      const match = markdown.match(regex);
+
+      if (match && match.length > 0) {
+        resultadoDiv.innerHTML = `<pre>${match[0]}</pre>`;
+      } else {
+        resultadoDiv.innerHTML = `<p>Pergunta número ${num} não encontrada.</p>`;
+      }
+    }
+  </script>
+</body>
+</html>
