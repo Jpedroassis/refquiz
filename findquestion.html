@@ -29,7 +29,29 @@
       const match = markdown.match(regex);
 
       if (match && match.length > 0) {
-        resultadoDiv.innerHTML = `<pre>${match[0]}</pre>`;
+        const texto = match[0];
+
+        const tituloMatch = texto.match(/### (\d+)\.\s*(.*)/);
+        const perguntaTexto = tituloMatch ? tituloMatch[2] : "Pergunta";
+
+        const opcoes = [...texto.matchAll(/- \[([ x])\] ([a-d])\) (.*)/g)];
+        let opcoesHTML = '<ul class="options">';
+        for (const [, marcado, letra, textoOpcao] of opcoes) {
+          const correta = marcado === 'x';
+          const classe = correta ? 'correct' : '';
+          opcoesHTML += `
+            <li>
+              <button class="${classe}" disabled>
+                ${letra}) ${textoOpcao}
+              </button>
+            </li>`;
+        }
+        opcoesHTML += '</ul>';
+
+        resultadoDiv.innerHTML = `
+          <div id="questionText">${perguntaTexto}</div>
+          ${opcoesHTML}
+        `;
       } else {
         resultadoDiv.innerHTML = `<p>Pergunta número ${num} não encontrada.</p>`;
       }
