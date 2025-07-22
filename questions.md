@@ -1089,3 +1089,246 @@
 - [ ] b) Interromper de imediato o jogo e expulsar o elemento pela entrada indevida em campo.
 - [ ] c) Interromper e efetuar uma bola ao solo.
 - [ ] d) Apenas interromper se houver interferência no jogo e ordenar a sua saída do terreno de jogo na paragem seguinte do jogo. Deverá exibir o respetivo cartão vermelho.
+
+### 183. Um jogador da equipa visitada, ao chutar a bola pela linha lateral para além de tentar cortar um ataque promissor da equipa adversária, tenta atingir um espectador que estava a troçar dele. Como recomeça o jogo?
+- [ ] a) Lançamento de bola ao solo.
+- [ ] b) Pontapé-livre direto.
+- [ ] c) Pontapé-livre indireto.
+- [x] d) Lançamento de linha lateral.
+
+### 184. Após um remate à baliza, a bola acabou por bater no árbitro, e o GR mesmo assim, evitou que a bola viesse a entrar na sua baliza, defendeu esta pela sua linha de baliza. Como recomeçar o jogo?
+- [ ] a) Pontapé de baliza.
+- [x] b) Pontapé de canto.
+- [ ] c) Bola ao solo.
+- [ ] d) Pontapé Livre indireto.
+
+### 185. Se no decorrer de um jogo, um elemento oficial ou um jogador, cometer uma infração, sujeita a aplicação de sanção disciplinar, qual deve ser a mesma?
+- [ ] a) Aviso ou advertência.
+- [ ] b) Expulsão.
+- [x] c) Depende da infração.
+- [ ] d) Para jogadores a exibição de CA ou CV para elemento oficial CV.
+
+### 186. Um jogador cometeu uma infração passível de cartão vermelho. Contudo o árbitro não se apercebeu, ao invés do AA1. O jogo foi reiniciado após o incidente sem que o árbitro tenha agido em conformidade. Posteriormente pode expulsar o infrator?
+- [ ] a) Não o poderá fazer em virtude do jogo ter recomeçado.
+- [ ] b) Não pode agir, pois não viu a infração.
+- [ ] c) Só pode expulsar o jogador se interrompeu o jogo num espaço de três segundo.
+- [x] d) Poderá fazê-lo após a informação do AA.
+
+### 187. O árbitro está junto ao túnel de acesso ao terreno de jogo, quando verifica que no aquecimento há um jogador que tem um comportamento passível para a exibição de cartão amarelo. Qual a decisão a tomar?
+- [ ] a) Não pode agir em virtude de estar na zona de acesso ao campo.
+- [ ] b) O jogo ainda não teve inicio, não há lugar a qualquer menção do ocorrido.
+- [x] c) Não exibe o cartão mas relata o facto às entidades competentes.
+- [ ] d) Exibe o cartão amarelo.
+
+### 188. Dois jogadores da mesma equipa têm um choque entre eles, pelo que foi necessária a assistência médica de imediato e o árbitro foi rápido a solicitar a mesma. Qual o procedimento posterior?
+- [x] a) Ambos os jogadores podem ser tratados no campo de jogo e não precisam deixá-lo.
+- [ ] b) Ambos os jogadores após o tratamento devem saír do campo.
+- [ ] c) Somente deve sair um jogador.
+- [ ] d) Só deve sair o jogador que esteve mais tempo em tratamento.
+
+### 189. O árbitro assinalou PP no entanto o VAR recomenda uma revisão pois a falta foi fora da área. O que está determinado nestas circunstâncias?
+- [x] a) Uma 'revisão somente do VAR' geralmente é apropriada para decisões factuais, por exemplo, local de uma infração (dentro/fora da área de grande penalidade), fora de jogo, bola fora de jogo etc. Apenas um 'sinal de TV' é necessário para que o VAR diga ao árbitro o que os replays de TV mostram e o árbitro então emite o 'sinal de TV' imediatamente antes de dar a decisão final.
+- [ ] b) Uma 'revisão somente do VAR' geralmente é apropriada para decisões factuais, por exemplo, local de uma infração (dentro/fora da área de grande penalidade), fora de jogo, bola fora de jogo etc. Neste caso o árbitro deve dirigir-se de imediato à zona de revisão.
+- [ ] c) Trata-se de uma situação que o VAR não deve aconselhar qualquer decisão pois só o árbitro pode agir.
+- [ ] d) O protocolo não permite verificar esta situação a menos que tal viesse a ocorrer durante o prolongamento de uma das partes do jogo.
+
+### 190. Um elemento oficial de uma equipa, descontente com a decisão do árbitro, pontapeou uma garrafa para dentro do terreno de jogo. O árbitro não conseguiu identificar quem tomou tal atitude, tal como o seu AA que estava mais perto do local que motivou a situação. O que decidir?
+- [ ] a) Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com advertência (ca, ). O treinador presente na área técnica receberá a sanção – como a pessoa responsável pelos outros oficiais da equipa.
+- [x] b) Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com expulsão (cartão vermelho, ). O treinador presente na área técnica receberá a sanção – como a pessoa responsável pelos outros oficiais da equipa.
+- [ ] c) Arremessar ou chutar um objeto deliberadamente para o campo de jogo é punido com expulsão (cartão vermelho, ). Não existindo a possibilidade de identificar o autor, deve ser um dos elementos do banco expulso( suplentes caso existam) ou outro qualquer elemento.
+- [ ] d) Nestes casos não há lugar a punição.
+
+### 191. O árbitro apercebeu-se que um jogador utiliza uma jóia não autorizada. O que fazer nestes casos?
+- [x] a) O árbitro deve ordenar que o jogador remova a joia. Um jogador que não puder ou se recusar a obedecer ou usar a joia novamente deve deixar o campo de jogo na próxima interrupção e será advertido (cartão amarelo).
+- [ ] b) Interrompe o jogo e adverte o jogador.
+- [ ] c) Deve ordenar a saída imediata do jogador e antes exibe o cartão amarelo.
+- [ ] d) Como o jogo tinha sido iniciado já nada poderá impedir o jogador de continuar com a joia.
+
+### 192. Não é permitido executar um pontapé-livre:
+- [ ] a) Um pontapé-livre executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [ ] b) Fazer fintas na execução de um pontapé-livre para confundir os adversários é permitido e faz parte do futebol.
+- [ ] c) Quando o jogador pontapeia a bola deliberadamente contra um adversário para poder em seguida continuar a jogá-la – sem que o faça por imprudência, negligência ou com força excessiva.
+- [x] d) Quando se tratar de pontapés-livres indiretos a favor da equipa atacante por uma infração cometida dentro da área de baliza adversária, estes são executados em qualquer ponto da área.
+
+### 193. Quando se utiliza o termo "Vantagem", referimo-nos ao:
+- [ ] a) Permitir que o jogo continue quando é cometida uma infração, e a equipa que cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos.
+- [x] b) Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos.
+- [ ] c) Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e deve penalizar a infração se a vantagem prevista não se concretizar nesse momento.
+- [ ] d) Permitir que o jogo continue quando é cometida uma infração, e a equipa que não cometeu a infração beneficiará da vantagem, e não deve penalizar a infração se a vantagem prevista não se concretizar nesse momento ou dentro de alguns segundos.
+
+### 194. Sobre a função do guarda-redes, escolha a opção correta:
+- [ ] a) Fora da sua própria área de penálti, o guarda-redes não está sujeito às mesmas restrições que os restantes jogadores, no que diz respeito ao contacto da bola com as mãos.
+- [ ] b) O guarda-redes na sua área de penalti, só poderá jogar a bola com as mãos.
+- [ ] c) Se o guarda-redes tocar a bola com a mão dentro da sua própria área de penálti quando não está autorizado a fazê-lo, é concedido um pontapé-livre indireto à equipa adversária e será sempre advertido.
+- [x] d) Se o guarda-redes tocar a bola com a mão dentro da sua própria área de penálti quando não está autorizado a fazê-lo, é concedido um pontapé-livre indireto à equipa adversária, não havendo lugar a qualquer sanção disciplinar.
+
+### 195. Após a bola sair pela linha lateral, foi solicitada uma substituição de um jogador da equipa visitada. Contudo, quando o jogador suplente se preparava para entrar, o jogador que era substituído informou o árbitro que não ia sair. O que decidir?
+- [ ] a) Adverte o jogador.
+- [ ] b) Dá o jogo por concluído.
+- [x] c) Dá continuidade ao jogo.
+- [ ] d) Só recomeça depois de normalizada a substituição.
+
+### 196. Um jogador lesionou-se após ter sofrido uma falta o que levou a ser avaliado pelo médico no terreno de jogo. O jogador recuperou e sente condições para continuar. Este jogador pode executar o pontapé-livre?
+- [x] a) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi advertido ou expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o terreno de jogo.
+- [ ] b) O jogador não pode permanecer no terreno de jogo em qualquer das circunstâncias.
+- [ ] c) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi advertido e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o campo de jogo.
+- [ ] d) O jogador pode permanecer no terreno de jogo se a possível lesão é o resultado de uma infração física pela qual o adversário foi expulso e a avaliação/tratamento é concluída rapidamente. Caso contrário, o jogador deverá abandonar o campo de jogo.
+
+### 197. Na marcação de um pontapé de penalti:
+- [ ] a) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se os jogadores estiverem sobre a linha limite da área.
+- [ ] b) A bola deve estar imóvel e perto da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+- [ ] c) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se houver protestos dos jogadores.
+- [x] d) A bola deve estar imóvel tocar ou sobrepor o centro da marca de penálti, e a "invasão" dos jogadores de campo na marcação será penalizada apenas se tiver impacto.
+
+### 198. De acordo com a Lei 4 e no que concerne ao equipamento, opte pela resposta correta:
+- [ ] a) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, deixam de ser uma parte obrigatória do equipamento.
+- [x] b) Os jogadores são responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [ ] c) O árbitro é responsável pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+- [ ] d) Os árbitros assistentes e quarto árbitro responsáveis pelo tamanho e adequação das caneleiras, que continuam a ser uma parte obrigatória do equipamento.
+
+### 199. Foi efetuada uma substituição durante o intervalo, o procedimento deve ser concluído antes do recomeço do jogo. Mas o árbitro não for informado, o que pode acontecer?
+- [ ] a) O suplente não pode continuar a jogar, volta a sair para o procedimento da substituição.
+- [x] b) O suplente pode continuar a jogar, não é tomada qualquer medida disciplinar e a questão é reportada às autoridades competentes.
+- [ ] c) O suplente pode continuar a jogar, é advertido e o jogo recomeça com uma bola ao solo.
+- [ ] d) O suplente pode continuar a jogar, é advertido e o jogo recomeça com um pontapé-livre indireto.
+
+### 200. Um jogador demora a sair do campo de jogo quando é substituído. O mesmo jogador já foi advertido por outra infração. Qual é a decisão correta?
+- [x] a) O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e não pode ser substituído – a substituição não é consumada.
+- [ ] b) O árbitro exibe ao jogador um segundo cartão amarelo e um cartão vermelho. O jogador é expulso e pode ser substituído.
+- [ ] c) O árbitro dá um aviso verbal ao jogador em questão.
+- [ ] d) O árbitro exibe ao jogador o cartão vermelho. O jogador é expulso e pode ser substituído.
+
+### 201. Um jogador da equipa A passou inadvertidamente a bola ao guarda-redes adversário quando aquele (GR) estava na sua área de baliza por ocasião de um pontapé de canto. O referido guarda-redes agarrou a bola com a mão e passou a um seu colega de equipa. Como agir?
+- [ ] a) Assinala pontapé-livre direto.
+- [ ] b) Assinala pontapé-livre indireto.
+- [ ] c) Efetua uma bola ao solo.
+- [x] d) Deixa prosseguir o jogo.
+
+### 202. Um jogador atacante sofre falta fora da área de penalti, mas acaba por cair na referida área. Como será o jogo reiniciado?
+- [ ] a) As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, mas nas áreas onde foi consolidada, portanto, trata-se de um pontapé de penalti.
+- [x] b) As infrações são penalizadas no ponto do terreno de jogo onde a infração ocorreu, portanto, uma falta fora da área de penalti é uma infração de pontapé-livre, mesmo que o jogador caia na área.
+- [ ] c) Nestas circunstâncias deve o árbitro considerar uma falta do jogador atacante, por simulação dado que caiu no interior da área.
+- [ ] d) Nenhuma das hipóteses está correta.
+
+
+### 203. Foi cometida uma infração fora do terreno de jogo por um jogador contra um elemento oficial da própria equipa. Como recomeça o jogo?
+- [ ] a) O jogo recomeça com pontapé livre indireto no local onde a bola se encontrava.
+- [x] b) O jogo recomeça com pontapé livre indireto em cima da linha limite do terreno jogo no ponto mais próximo do local onde a infração aconteceu.
+- [ ] c) O jogo recomeça com uma bola ao solo no local onde estava a bola quando o árbitro apitou.
+- [ ] d) O jogo recomeça com pontapé livre direto em cima da linha limite do terreno jogo no ponto mais próximo do local onde a infração aconteceu.
+
+### 204. Um jogador que foi substituído pontapeou um objeto para o interior do terreno de jogo e o objeto interferiu com o jogo. Neste caso o que decidir em termos de reatamento do jogo?
+- [ ] a) O jogo recomeça com um pontapé-livre direto (ou pontapé de penálti) no local onde se encontrava a bola.
+- [ ] b) O jogo recomeça com um pontapé-livre indireto no local onde o objeto interferiu com o jogo.
+- [ ] c) O jogo recomeça com uma bola ao solo no local onde a bola se encontrava no momento da interrupção.
+- [x] d) O jogo recomeça com um pontapé-livre direto (ou pontapé de penálti) no local onde o objeto interferiu com o jogo.
+
+### 205. Nas situações de pontapé-livre indireto é incorreto considerar que:
+- [ ] a) Este deve ser repetido, se o árbitro não assinalar que o pontapé-livre é indireto e a bola for pontapeada diretamente para a baliza.
+- [ ] b) O árbitro indica um pontapé-livre indireto levantando o braço ao alto por cima da cabeça.
+- [ ] c) Deverá manter o braço ao alto por cima da cabeça até que o livre seja executado e até que a bola toque noutro jogador, saia do terreno de jogo ou seja claro que não será possível obter golo diretamente desse pontapé.
+- [x] d) Deverá manter o braço ao alto por cima da cabeça até que o livre seja executado e até que a bola toque noutro jogador ou tenha indicação que a bola já está em jogo e nesse momento pode baixar o braço.
+
+### 206. Se, após a obtenção de um golo e antes de o jogo recomeçar, o árbitro se apercebe que um suplente da equipa que marcou encontrava-se dentro do terreno de jogo no momento em que o mesmo foi obtido e interferiu com o jogo. Como recomeça o jogo?
+- [ ] a) O jogo recomeça com um pontapé-livre indireto no local onde se encontrava o suplente que interferiu no jogo.
+- [x] b) O jogo recomeça com um pontapé-livre direto no local onde se encontrava o suplente que interferiu no jogo.
+- [ ] c) O jogo recomeça com uma bola ao solo onde se encontrava o suplente que interferiu no jogo.
+- [ ] d) O jogo recomeça com um pontapé-livre direto na área de baliza da equipa que sofreu o golo.
+
+### 207. De acordo com as Leis do Jogo não é permitido:
+- [x] a) Fazer fintas na execução de um pontapé-livre para confundir os adversários.
+- [ ] b) Quando uma barreira é formada por três ou mais defensores, todos os atacantes adversários devem permanecer a, pelo menos, 1 m de distância da barreira até que a bola entre em jogo.
+- [ ] c) Um pontapé-livre pode ser executado levantando a bola com um pé ou com os dois pés simultaneamente.
+- [ ] d) Se, na execução correta de um pontapé-livre, o jogador pontapeia a bola deliberadamente contra um adversário para poder em seguida continuar a jogá-la – sem que o faça por imprudência, negligência ou com força excessiva – o árbitro deve permitir que o jogo prossiga.
+
+### 208. Considera-se correto afirmar:
+- [ ] a) O árbitro não pode alterar um recomeço relacionado com uma decisão se verificar que a mesma é incorreta ou a conselho de outro elemento da equipa de arbitragem, se o jogo já tiver recomeçado ou se o árbitro tiver assinalado o final da primeira ou da segunda parte (excluindo prolongamento) e tiver deixado o terreno de jogo ou abandonado o jogo.
+- [ ] b) Se o árbitro ficar incapacitado, o jogo pode continuar sob a direção de outro elemento da equipa de arbitragem (mais velho em termos de anos na arbitragem) até que a bola deixe de estar em jogo.
+- [x] c) O árbitro tem autoridade para exibir cartões amarelos ou vermelhos e, quando o regulamento da competição o permitir, expulsar temporariamente um jogador, desde que entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, prolongamento e os penáltis.
+- [ ] d) O árbitro deve deixar o jogo prosseguir até que a bola deixe de estar em jogo se um jogador ficar lesionado.
+
+### 209. Sobre a substituição do árbitro no decorrer do jogo, escolhe a alínea adequada para este tipo de procedimento:
+- [ ] a) O regulamento da competição deve indicar claramente quem é que substitui um elemento da equipa de arbitragem que está impossibilitado de começar ou continuar o jogo e as alterações que a substituição implica.
+- [ ] b) O regulamento deve, em especial, indicar claramente se, no caso de o árbitro estar impossibilitado de iniciar ou continuar, deve ser o quarto árbitro ou o árbitro assistente mais qualificado ou o árbitro assistente adicional mais qualificado a assumir o controlo do jogo.
+- [ ] c) O árbitro é sempre substituído pelo quarto árbitro e na falta deste pelo assistente mais categorizado.
+- [x] d) As alíneas a) e b) estão corretas.
+
+### 210. Cada parte deve ser prolongada para recuperar todo o tempo de jogo perdido ocasionado por:
+- [ ] a) Avaliação das lesões exceto o transporte dos jogadores para fora do terreno de jogo e perdas de tempo.
+- [ ] b) Paragens médicas permitidas pelo regulamento da competição, p. ex., para hidratação (que não devem exceder 1 minuto) e paragens para arrefecimento (de 30 segundos a 2 minutos).
+- [x] c) Atrasos devido aos checks e revisões efetuadas pelo VAR.
+- [ ] d) Todas as opções estão erradas.
+
+### 211. Se um colega executante do pontapé de saída jogar posteriormente a bola antes que esta seja tocada por outro jogador, o árbitro deve:
+- [ ] a) Conceder à equipa adversária um pontapé-livre indireto ou, por uma infração de mão na bola, um pontapé-livre direto.
+- [ ] b) Conceder à equipa adversária um pontapé livre – direto.
+- [x] c) Deixar prosseguir o jogo se uma infração não tiver lugar.
+- [ ] d) Efetuar uma bola ao solo.
+
+### 212. Deve-se considerar que a bola está fora do jogo quando toca num elemento da equipa de arbitragem e permanece em terreno de jogo. Identifique as circunstâncias a considerar num momento em que tal possa ocorrer:
+- [ ] a) Uma equipa inicia um ataque prometedor.
+- [ ] b) A bola entra diretamente numa das balizas ou muda a equipa que tinha a posse de bola.
+- [ ] c) Sempre que toca num elemento da equipa de arbitragem.
+- [x] d) As alíneas a) e b) estão corretas.
+
+### 213. De acordo com a Lei 10 e sobre "Determinação do resultado do jogo", identifique a alínea incorreta:
+- [ ] a) A equipa que marcar maior número de golos durante o encontro é a vencedora.
+- [ ] b) Quando as duas equipas marcarem o mesmo número de golos ou não marcarem nenhum, o jogo termina empatado.
+- [ ] c) Quando o árbitro assinalar um golo antes de a bola ter transposto completamente a linha de baliza, o jogo deve recomeçar com lançamento da bola ao solo.
+- [x] d) Se o regulamento da competição exigir que uma equipa seja declarada vencedora após um jogo ou uma eliminatória a duas mãos que termine empatado, só são permitidos os seguintes procedimentos: -regra dos golos marcados fora e 5 pontapés de penálti.
+
+### 214. Durante os pontapés de penálti podemos afirmar que a alínea correta é a que determina:
+- [ ] a) Todos os jogadores, exceto o que executa o pontapé e os dois guarda-redes, devem permanecer no círculo central.
+- [ ] b) Se o guarda-redes cometer uma infração e, por consequência, o pontapé for repetido, este será advertido.
+- [x] c) Se o guarda-redes e o executante cometerem uma infração ao mesmo tempo, o pontapé é considerado como falhado e o executante é advertido.
+- [ ] d) Nos pontapés de penálti não há lugar a sanções disciplinares.
+
+### 215. Na consulta sobre situações do foro disciplinar, entre o árbitro e os assistentes, o que está recomendado?
+- [x] a) Um olhar e um sinal discreto de mão do árbitro assistente para o árbitro são normalmente suficientes. No caso de ser necessária uma consulta direta, o árbitro assistente pode penetrar 2-3 metros no terreno de jogo. Enquanto trocam impressões devem ambos virarem-se para dentro do terreno, para evitar que a sua conversa possa ser entendida e para observar os jogadores e o terreno de jogo.
+- [ ] b) Um olhar e um sinal discreto de mão do árbitro assistente para o árbitro são normalmente suficientes. No caso de ser necessária uma consulta direta, o árbitro assistente pode penetrar 3-4 metros no terreno de jogo. Enquanto trocam impressões devem ambos virarem-se para dentro do terreno, para evitar que a sua conversa possa ser entendida e para observar os jogadores e o terreno de jogo.
+- [ ] c) Um olhar e um sinal discreto de mão do árbitro assistente para o árbitro são normalmente suficientes. No caso de ser necessária uma consulta direta, o árbitro assistente pode penetrar 2-3 metros no terreno de jogo. Enquanto trocam impressões devem ambos virarem-se para dentro do terreno para que os elementos dos bancos não se apercebam.
+- [ ] d) Quando necessária uma consulta direta, o árbitro assistente aproxima-se do árbitro e trocam impressões numa zona central do terreno de jogo. Posteriormente o árbitro toma a sua decisão.
+
+### 216. Nos pontapés de penálti para achar o vencedor de um jogo, qual a colocação no terreno de jogo que está instituída para os árbitros assistentes?
+- [ ] a) Um dos árbitros assistentes deve colocar-se na interceção da linha de baliza com a área de baliza. O outro árbitro assistente deve colocar-se junto ao círculo central para controlar os jogadores e demais elementos técnicos e suplentes.
+- [ ] b) Um dos árbitros assistentes deve colocar-se na interceção da linha de baliza com a área de penálti. O outro árbitro assistente deve colocar-se no círculo central para controlar os jogadores.
+- [x] c) Um dos árbitros assistentes deve colocar-se na interceção da linha de baliza com a área de baliza. O outro árbitro assistente deve colocar-se no círculo central para controlar os jogadores.
+- [ ] d) Um dos árbitros assistentes deve colocar-se na interceção da linha de baliza com a área de baliza. O outro árbitro assistente deve colocar-se sobre a linha do círculo central para controlar os jogadores executantes dos pontapés de penálti.
+
+### 217. No processo de substituição, haverá a considerar como incorreta uma das opções indicadas nesta questão. Qual é?
+- [ ] a) Se existir quarto árbitro, o árbitro assistente não tem necessidade de se deslocar até à linha de meio-campo, porque o processo da substituição é executado pelo quarto árbitro, a menos que decorram várias substituições simultaneamente; neste caso o árbitro assistente move-se para a linha de meio-campo para ajudar o quarto árbitro.
+- [x] b) Se não existir quarto árbitro, o árbitro assistente deve mover-se para a linha de meio-campo para ajudar no processo de substituição. Aí chegado aguarda pelo delegado ao jogo e o documento para a substituição; o árbitro deve esperar que a substituição seja efetuada e depois recomeçar o jogo.
+- [ ] c) Todos os adversários do executante têm de estar pelo menos a 2 metros de distância da linha lateral no local onde será executado o lançamento lateral.
+- [ ] d) O executante não deve jogar de novo a bola antes que esta tenha sido tocada por um outro jogador.
+
+### 218. Um golo pode ser marcado diretamente de um pontapé de canto?
+- [ ] a) Em todas as situações.
+- [ ] b) Nunca poderá acontecer.
+- [ ] c) Só na baliza do executante.
+- [x] d) Só na baliza do adversário do executante.
+
+### 219. Sobre o VAR, o árbitro deve estar 'visível' durante o processo de revisão. Porquê?
+- [x] a) Para garantir a necessária transparência.
+- [ ] b) Para verificar o local onde está o árbitro.
+- [ ] c) Porque é um local mais sensato.
+- [ ] d) Para evitar intrusos.
+
+### 220. No fora de jogo, deve ser considerado como 'jogar deliberadamente' a bola:
+- [ ] a) O jogador tem tempo para controlar o movimento do próprio corpo, ou seja, não se tratou de uma ação instintiva de se esticar ou saltar ou ter um movimento que limita o contacto/controlo.
+- [ ] b) A direção da bola não foi inesperada e o movimento da bola não foi com velocidade.
+- [ ] c) A bola percorreu uma longa distância e o jogador tinha uma clara visão desta.
+- [x] d) Todas as hipóteses apresentadas aplicam-se à situação enunciada.
+
+### 221. Um pontapé-livre direto é concedido à equipa adversária do jogador que cometa infrações contra um adversário de forma a que o árbitro considere imprudente, negligente ou com força excessiva. Das opções que se seguem, escolha a que não colide com o que está determinado nas Leis do Jogo:
+- [ ] a) Saltar e dar ou tentar dar um pontapé.
+- [ ] b) Carregar e tentar empurrar.
+- [ ] c) Entrar em tackle ou saltar.
+- [x] d) Nenhuma das hipóteses está completamente em conformidade com as Leis do Jogo.
+
+### 222. Se o guarda-redes tocar a bola com a mão dentro da sua própria área de penálti quando não está autorizado a fazê-lo, como deve agir o árbitro?
+- [ ] a) Conceder um pontapé-livre indireto à equipa adversária, havendo lugar a punição disciplinar (CA). Contudo, se a infração consiste em jogar a bola uma 2.ª vez (utilizando ou não, a mão/braço) depois desta estar em jogo e antes que seja tocada por outro jogador, o guarda-redes será sancionado em conformidade se com esta ação interrompe um ataque prometedor(2ºCA) ou se evita um golo/clara oportunidade de golo da equipa adversária.
+- [x] b) Conceder um pontapé-livre indireto à equipa adversária, não havendo lugar a qualquer sanção disciplinar. Contudo, se a infração consiste em jogar a bola uma 2.ª vez (utilizando ou não, a mão/braço) depois desta estar em jogo e antes que seja tocada por outro jogador, o guarda-redes será sancionado em conformidade se com esta ação interrompe um ataque prometedor ou se evita um golo/clara oportunidade de golo da equipa adversária.
+- [ ] c) Conceder um pontapé-livre indireto à equipa adversária e em nenhuma circunstância deve ser advertido ou expulso.
+- [ ] d) Todas as hipóteses estão totalmente erradas.
+
+
