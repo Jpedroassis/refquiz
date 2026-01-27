@@ -1619,5 +1619,65 @@
 - [x] c) O treinador é advertido.
 - [ ] d) O acesso é permitido.
 
+### 271. Um jogador executa um pontapé-livre. Depois da bola estar em jogo, o jogador chuta a bola novamente antes que ela toque noutro jogador. Qual é a decisão correta?
+- [ ] a) Manda repetir a execução do pontapé- livre. 
+- [ ] b) Deixa seguir. 
+- [x] c) Assinala pontapé-livre indireto para a equipa adversária do executante. 
+- [ ] d) Assinala pontapé-livre direto para a equipa adversária do executante.
+
+### 272. Na execução de um pontapé-livre direto rapidamente por um jogador defensor, dentro da sua área de penalti, um adversário que deliberadamente permaneceu na referida área intercepta a bola quando ela está em jogo e marca golo. Qual é a decisão correta?
+- [x] a) O golo é anulado e o pontapé é executado de novo. Jogadores que deliberadamente permanecem dentro ou entram na área antes da execução do pontapé, não devem obter uma vantagem, mesmo que o pontapé seja executado rapidamente. 
+- [ ] b) Deve ser validado o golo, pois o executante correu riscos ao não verificar a posição dos adversários. 
+- [ ] c) Nestes casos o árbitro deve efetuar uma bola ao solo para o guarda- redes. 
+- [ ] d) Manda repetir pelo facto de na área não pode ocorrer pontapé-livre direto.
+
+### 273. Sobre os árbitros assistentes identifique a ação correta no decurso do jogo:
+- [x] a) Se foi marcado um golo, mas a bola parece, entretanto, continuar em jogo, o AA deve primeiramente levantar a sua bandeira para chamar a atenção do árbitro e depois seguir o procedimento habitual, correndo rapidamente ao longo da linha lateral cerca de 25-30 metros na direção da linha de meio-campo.  
+- [ ] b) Se foi marcado um golo, mas a bola parece, entretanto, continuar em jogo, o AA deve primeiramente ficar parado e com o corpo virado para terreno de jogo e depois seguir o procedimento habitual, correndo rapidamente ao longo da linha lateral cerca de 25-30 metros na direção da linha de meio-campo.  
+- [ ] c) Se foi marcado um golo, mas a bola parece, entretanto, continuar em jogo, o AA deve primeiramente levantar a sua bandeira para chamar a atenção do árbitro e depois aguardar a decisão do árbitro.  
+- [ ] d) Se foi marcado um golo, mas a bola parece, entretanto, continuar em jogo, o AA deve primeiramente levantar a sua bandeira para chamar a atenção do árbitro e depois seguir o procedimento habitual, correndo rapidamente colocar-se na linha lateral alinhado com o penúltimo defensor.
 
 
+### 274. Um jogador perdeu acidentalmente a bota esquerda e marca um golo. O golo é válido?
+- [x] a) Sim. Um jogador cujo calçado ou caneleira é perdido(a) acidentalmente deve substituí-lo o mais rápido possível e o mais tardar quando a bola sair de jogo. Se antes de fazer isso o jogador jogar a bola e/ou marcar um golo, o golo é válido.  
+- [ ] b) Nestas circunstâncias o golo não pode ser validado.  
+- [ ] c) É sempre válido se a situação ocorrer em simultâneo.  
+- [ ] d) Todas as respostas estão incorretas.
+
+### 275. Com a bola em jogo, um treinador entra no campo de jogo para interferir com um jogador adversário. Qual é a decisão do árbitro?
+- [ ] a) O árbitro interromperá o jogo (a menos que haja vantagem), adverte (cartão amarelo) o treinador e reiniciará o jogo com um pontapé-livre direto na posição da interferência - se for na área de pênalti da equipa do treinador, um pênalti é concedido à equipa adversária.
+- [ ] b) O árbitro interromperá o jogo (a menos que haja vantagem), expulsará (cartão vermelho) o treinador e reiniciará o jogo com um pontapé-livre indireto na posição da interferência - se for na área de pênalti da equipa do treinador, um pênalti é concedido à equipa adversária.
+- [x] c) O árbitro interromperá o jogo (a menos que haja vantagem), expulsará (cartão vermelho) o treinador e reiniciará o jogo com um pontapé-livre direto da posição da interferência - se for na área de pênalti da equipa do treinador, um pênalti é concedido à equipa adversária.
+- [ ] d) O árbitro interromperá o jogo (a menos que haja vantagem), expulsará (cartão vermelho) o treinador e reiniciará o jogo com uma bola ao solo no local onde a bola se encontrava no momento da interrupção.
+
+
+### 276. Um adversário que distraia ou impeça incorretamente o executante do lançamento lateral (inclusive aproximando-se a menos de 2 m de distância do local na linha lateral onde vai ser executado o lançamento) é advertido. Qual o motivo da advertência?
+- [x] a) Comportamento antidesportivo. 
+- [ ] b) Não observar a distância regulamentar. 
+- [ ] c) Retardar o lançamento lateral. 
+- [ ] d) Falta de respeito pelo jogo.
+
+
+### 277. Um "tackle" é?
+- [x] a) Uma disputa de bola com o pé (no solo ou no ar). 
+- [ ] b) Um deslizar no terreno de jogo atingindo ou não o adversário. 
+- [ ] c) Um deslizar no terreno de jogo atingindo um adversário. 
+- [ ] d) Uma entrada sobre um adversário e em certos casos colegas de equipa.
+
+### 278. Durante a execução de um pontapé de canto, o AA deve colocar-se em que local e qual o seu dever?
+- [ ] a) Atrás da bandeira de canto, no enfianamento da linha de baliza. Nesta posição, ele deve ter o cuidado de não interferir com o jogador que vai marcar o pontapé de canto. Ele tem o dever de controlar os jogadores que estão na proximidade. 
+- [x] b) Atrás da bandeira de canto, no enfianamento da linha de baliza. Nesta posição, ele deve ter o cuidado de não interferir com o jogador que vai marcar o pontapé de canto. Ele tem o dever de controlar se a bola está bem colocada dentro da área de canto. 
+- [ ] c) Junto da bandeira de canto e perto do executante. Nesta posição, ele deve ter o cuidado de não interferir com o jogador que vai marcar o pontapé de canto. Ele tem o dever de controlar se a bola está bem colocada dentro da área de canto. 
+- [ ] d) Atrás da bandeira de canto, no enfianamento da linha de baliza. Tem o dever de verificar a trajetória da bola.
+
+### 279. Quando se considera consumada uma substituição?
+- [ ] a) No momento quando o árbitro autoriza a substituição.
+- [ ] b) No momento quando o árbitro reinicia o jogo após o processo de substituição.
+- [x] c) No momento quando o suplente penetra no terreno de jogo.
+- [ ] d) No momento quando o substituído abandona o terreno de jogo.
+
+### 280. No último minuto do jogo, teve lugar uma confrontação em grupo. Está determinado nestas situações alguns procedimentos por parte da equipa de arbitragem. Assim, das hipóteses apontadas, escolha a que está correta:
+- [x] a) Em situações de confrontações em grupo de jogadores, o AA mais próximo pode penetrar no terreno de jogo para ajudar o árbitro. O outro AA deve observar e tomar nota dos pormenores do incidente. O quarto árbitro deve permanecer nas proximidades das áreas técnicas.
+- [ ] b) Em situações de confrontações em grupo de jogadores, o AA mais próximo deve juntar-se ao quarto árbitro. O outro AA deve observar e tomar nota dos pormenores do incidente.
+- [ ] c) Em situações de confrontações em grupo de jogadores, o AA mais próximo deve aguardar uma sinalética do árbitro para penetrar no terreno de jogo. O outro AA deve observar e tomar nota dos pormenores do incidente. O quarto deve juntar-se ao árbitro para o ajudar.
+- [ ] d) Em situações de confrontações em grupo de jogadores, cabe ao árbitro resolver por si todas as situações que possam surgir.
