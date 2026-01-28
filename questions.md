@@ -671,10 +671,10 @@
 - [ ] d) Punir a infração mais favorável à equipa defensora.
 
 ### 113. Dentro das competências que lhe estão distribuídas, o árbitro tem autoridade para exibir cartões amarelos ou vermelhos e, quando o regulamento da competição o permitir, expulsar temporariamente um jogador, desde que:
-- [x] a) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, exceto durante o intervalo, prolongamento e pontapés de penálti.
+- [ ] a) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, exceto durante o intervalo, prolongamento e pontapés de penálti.
 - [ ] b) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, excluindo se houver prolongamento e pontapés de penálti.
 - [ ] c) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar.
-- [ ] d) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, prolongamento e pontapés de penálti.
+- [x] d) Entra no terreno de jogo para o começo do jogo até depois de o jogo terminar, inclusive durante o intervalo, prolongamento e pontapés de penálti.
 
 ### 114. Os elementos da equipa de arbitragem atuam sob a direção do árbitro. Em caso de interferência indevida ou de conduta imprópria, o que decidir?
 - [x] a) O árbitro demite-os das suas funções e remete um relatório às autoridades competentes.
