@@ -1590,9 +1590,9 @@
 - [ ] d) As hipóteses a) e b) estão corretas.
 
 ### 266. Um dos elementos do banco da equipa visitante atira deliberadamente uma garrafa para o terreno de jogo. O infrator não pode ser identificado. Qual é a decisão correta?
-- [ ] a) O treinador recebe cartão vermelho.
+- [x] a) O treinador recebe cartão vermelho.
 - [ ] b) O árbitro deve dar o jogo por concluído.
-- [x] c) Nesta situação cabe expulsar o delegado principal da equipa visitante.
+- [ ] c) Nesta situação cabe expulsar o delegado principal da equipa visitante.
 - [ ] d) Todas as opções estão erradas.
 
 ### 267. Um espectador entra no campo de jogo e interfere com um jogador que corre com a bola. Qual é a decisão correta?
