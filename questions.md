@@ -1484,8 +1484,8 @@
 ### 248. Sobre a contagem dos segundos de posse de bola do guarda-redes, qual a alínea correta?
 - [ ] a) Contagem decrescente para os últimos três segundos.
 - [ ] b) Contagem decrescente para os últimos quatro segundos.
-- [ ] c) Contagem decrescente para os últimos cinco segundos.
-- [x] d) Contagem decrescente para os últimos seis segundos.
+- [x] c) Contagem decrescente para os últimos cinco segundos.
+- [ ] d) Contagem decrescente para os últimos seis segundos.
 
 ### 249. Um tackle ou entrada que ponha em perigo a integridade física de um adversário deve ser sancionada como?
 - [x] a) Falta grosseira.
