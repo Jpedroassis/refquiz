@@ -1465,8 +1465,8 @@
 
 ### 245. Um treinador entra na área de revisão do árbitro. Qual o procedimento?
 - [ ] a) É avisado.
-- [x] b) É expulso.
-- [ ] c) É advertido.
+- [ ] b) É expulso.
+- [x] c) É advertido.
 - [ ] d) O acesso é permitido.
 
 ### 246. Um golo é marcado com um defensor lesionado junto à linha de baliza. Qual a decisão?
