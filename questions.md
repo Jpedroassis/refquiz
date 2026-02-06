@@ -1374,10 +1374,10 @@
 - [ ] d) Assinala pontapé de baliza.
 
 ### 230. O árbitro interrompe o jogo por uma infração cometida por um jogador, dentro ou fora do terreno de jogo contra um elemento estranho. Depois qual o procedimento correto?
-- [x] a) O jogo recomeça com uma bola ao solo exceto se for assinalado um livre indireto por abandonar o terreno de jogo sem autorização do árbitro; o pontapé livre indireto é executado no local onde a bola se encontrava.
+- [ ] a) O jogo recomeça com uma bola ao solo exceto se for assinalado um livre indireto por abandonar o terreno de jogo sem autorização do árbitro; o pontapé livre indireto é executado no local onde a bola se encontrava.
 - [ ] b) O jogo recomeça com uma bola ao solo em qualquer das circunstâncias em que o facto ocorreu.
 - [ ] c) O jogo recomeça com uma bola ao solo exceto se for assinalado um livre indireto por abandonar o terreno de jogo sem autorização do árbitro; o pontapé livre indireto é executado nas proximidades da ocorrência
-- [ ] d) O jogo recomeça com uma bola ao solo exceto se for assinalado um livre indireto por abandonar o terreno de jogo sem autorização do árbitro; o pontapé livre indireto é executado do ponto da linha limite onde o jogador deixou o terreno de jogo
+- [x] d) O jogo recomeça com uma bola ao solo exceto se for assinalado um livre indireto por abandonar o terreno de jogo sem autorização do árbitro; o pontapé livre indireto é executado do ponto da linha limite onde o jogador deixou o terreno de jogo
 
 ### 231. Um jogador toca a bola com a mão numa tentativa de marcar um golo (quer a tentativa seja bem-sucedida ou não) ou numa tentativa frustrada de impedir um golo. Qual a decisão do árbitro?
 - [ ] a) Se a bola entrar assinala golo e não há lugar a outra qualquer sanção
